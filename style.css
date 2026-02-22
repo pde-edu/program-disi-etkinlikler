@@ -158,35 +158,6 @@ h1 {
   margin-left: 10px;
 }
 
-/* Modal */
-.modal {
-  display: none;
-  position: fixed;
-  z-index: 1000;
-  padding-top: 60px;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(0,0,0,0.85);
-}
-
-.modal-content {
-  margin: auto;
-  display: block;
-  width: 70%;
-  max-width: 800px;
-  border-radius: 12px;
-}
-
-.close {
-  position: absolute;
-  top: 25px;
-  right: 40px;
-  color: white;
-  font-size: 40px;
-  cursor: pointer;
-}
 .about-section {
   padding: 80px 10%;
   background: #fdf6f9; /* ana arka plan ile uyumlu */
@@ -422,4 +393,170 @@ h1 {
 .detail-gallery img {
   width: 250px;
   border-radius: 10px;
+}
+/* DETAIL SECTION */
+.detail-section {
+  padding: 80px 0;
+  background: #f8f9fb; /* ana sayfa arka planı neyse onu kullan */
+}
+
+/* HEADER */
+.detail-header {
+  position: relative;
+  margin-bottom: 40px;
+}
+
+.detail-header img {
+  width: 100%;
+  height: 420px;
+  object-fit: cover;
+  border-radius: 16px; /* ana sayfa kart radius */
+}
+
+.detail-header h1 {
+  margin-top: 20px;
+  font-size: 36px;
+  font-weight: 600;
+}
+
+/* AÇIKLAMA KARTI */
+.detail-card {
+  background: white;
+  padding: 40px;
+  border-radius: 16px;
+  box-shadow: 0 8px 25px rgba(0,0,0,0.05); /* ana sayfa kart gölgesi */
+  margin-bottom: 50px;
+  font-size: 17px;
+  line-height: 1.8;
+}
+
+/* GALERİ */
+.detail-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 25px;
+}
+
+.detail-gallery img {
+  width: 100%;
+  border-radius: 14px;
+  transition: 0.3s ease;
+}
+
+.detail-gallery img:hover {
+  transform: translateY(-6px);
+}
+/* SECTION */
+.detail-section {
+  padding: 80px 0;
+  background: #f8f9fb;
+}
+
+/* BACK BUTTON */
+.back-btn {
+  background: none;
+  border: none;
+  font-size: 16px;
+  margin-bottom: 30px;
+  cursor: pointer;
+  opacity: 0.7;
+  transition: 0.3s;
+}
+.back-btn:hover {
+  opacity: 1;
+}
+
+/* HEADER */
+.detail-header img {
+  width: 100%;
+  height: 420px;
+  object-fit: cover;
+  border-radius: 16px;
+  margin-bottom: 25px;
+}
+
+.detail-title-wrapper h1 {
+  font-size: 36px;
+  margin-bottom: 10px;
+}
+
+/* ACCENT LINE */
+.accent-line {
+  width: 80px;
+  height: 4px;
+  background: #0077ff;
+  margin-bottom: 15px;
+  border-radius: 4px;
+}
+
+/* META BADGES */
+.detail-meta {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 40px;
+}
+
+.badge {
+  padding: 6px 14px;
+  background: #0077ff15;
+  color: #0077ff;
+  border-radius: 20px;
+  font-size: 14px;
+}
+
+.badge.secondary {
+  background: #00000010;
+  color: #333;
+}
+
+/* TEXT CARD */
+.detail-card {
+  background: white;
+  padding: 40px;
+  border-radius: 16px;
+  box-shadow: 0 8px 25px rgba(0,0,0,0.05);
+  margin-bottom: 50px;
+  font-size: 17px;
+  line-height: 1.8;
+}
+
+/* GALLERY */
+.detail-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 25px;
+}
+
+.detail-gallery img {
+  width: 100%;
+  border-radius: 14px;
+  transition: 0.4s ease;
+  cursor: pointer;
+}
+
+.detail-gallery img:hover {
+  transform: scale(1.05);
+}
+
+/* ANIMATIONS */
+.fade-in {
+  animation: fadeIn 0.6s ease forwards;
+}
+
+.fade-in-up {
+  opacity: 0;
+  transform: translateY(20px);
+  animation: fadeUp 0.6s ease forwards;
+}
+
+@keyframes fadeIn {
+  from {opacity:0;}
+  to {opacity:1;}
+}
+
+@keyframes fadeUp {
+  to {
+    opacity:1;
+    transform: translateY(0);
+  }
 }
