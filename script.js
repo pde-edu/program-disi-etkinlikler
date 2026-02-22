@@ -93,3 +93,26 @@ document.querySelectorAll(".auto-scroll").forEach(gallery => {
     gallery.addEventListener("mouseenter", () => autoScrollPaused = true);
     gallery.addEventListener("mouseleave", () => autoScrollPaused = false);
 });
+let selectedEventId = null;
+
+function openModal(card, eventId, shortDesc) {
+
+    selectedEventId = eventId;
+
+    const img = card.querySelector("img").src;
+
+    document.getElementById("modalImage").src = img;
+    document.getElementById("modalDescription").innerText = shortDesc;
+
+    document.getElementById("imageModal").style.display = "block";
+}
+
+function closeModal() {
+    document.getElementById("imageModal").style.display = "none";
+}
+
+function goToDetailPage() {
+    if(selectedEventId){
+        window.location.href = `detail-${selectedEventId}.html`;
+    }
+}
