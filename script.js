@@ -28,6 +28,7 @@ const events = {
 ========================= */
 function setLanguage(lang) {
     currentLang = lang;
+    localStorage.setItem("selectedLang", lang);
     const sections = ["about", "hero", "gallery1", "gallery2"];
 
     sections.forEach(section => {
@@ -123,6 +124,20 @@ function openModal(card, eventId) {
 }
 document.addEventListener("DOMContentLoaded", function(){
 
+  const params = new URLSearchParams(window.location.search);
+  const eventId = params.get("id");
+  const langParam = params.get("lang");
+
+  if(langParam === "tr" || langParam === "en"){
+      currentLang = langParam;
+      localStorage.setItem("selectedLang", langParam);
+  } else {
+      const savedLang = localStorage.getItem("selectedLang");
+      if(savedLang === "tr" || savedLang === "en"){
+          currentLang = savedLang;
+      }
+  }
+  setLanguage(currentLang);
   /* Otomatik scroll başlat */
   autoScrollGallery();
 
@@ -131,15 +146,7 @@ document.addEventListener("DOMContentLoaded", function(){
       gallery.addEventListener("mouseenter", () => autoScrollPaused = true);
       gallery.addEventListener("mouseleave", () => autoScrollPaused = false);
   });
-
-  /* Detail sayfası kontrol */
-  const params = new URLSearchParams(window.location.search);
-  const eventId = params.get("id");
-  const langParam = params.get("lang");
-
-if(langParam === "tr" || langParam === "en"){
-    currentLang = langParam;
-}
+  
   if(eventId && events[eventId]){
 
     const event = events[eventId];
@@ -165,6 +172,6 @@ if(langParam === "tr" || langParam === "en"){
 });
 function goToDetailPage() {
     if(selectedEventId){
-        window.location.href = `detail.html?id=${selectedEventId}&lang=${currentLang}`;
+        window.location.href = `detail.html?id=${selectedEventId}`;
     }
 }
