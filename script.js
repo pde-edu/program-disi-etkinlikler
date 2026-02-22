@@ -1,8 +1,33 @@
+let currentLang = "tr";
+
+const events = {
+
+  etkinlik1: {
+    title: {
+      tr: "Etkinlik 1",
+      en: "Activity 1"
+    },
+    shortDesc: {
+      tr: "Bu etkinlikte öğrenciler iş birliği çalışması yaptı.",
+      en: "Students practiced collaborative learning in this activity."
+    },
+    longDesc: {
+      tr: "Bu etkinlik kapsamında öğrenciler grup çalışmaları yaparak problem çözme becerilerini geliştirdiler.",
+      en: "In this activity, students improved their problem-solving skills through group work."
+    },
+    images: [
+      "assets/images/etkinlik1-1.jpg",
+      "assets/images/etkinlik1-2.jpg"
+    ]
+  }
+
+};
+
 /* =========================
    DİL DEĞİŞTİRME
 ========================= */
 function setLanguage(lang) {
-
+    currentLang = lang;
     const sections = ["about", "hero", "gallery1", "gallery2"];
 
     sections.forEach(section => {
@@ -54,12 +79,6 @@ function scrollGallery(button, direction) {
 /* =========================
    MODAL
 ========================= */
-function openModal(card) {
-    const img = card.querySelector("img").src;
-    document.getElementById("modalImage").src = img;
-    document.getElementById("imageModal").style.display = "block";
-}
-
 function closeModal() {
     document.getElementById("imageModal").style.display = "none";
 }
@@ -86,33 +105,66 @@ function autoScrollGallery() {
         }, 20);
     });
 }
-
-document.addEventListener("DOMContentLoaded", autoScrollGallery);
-
-document.querySelectorAll(".auto-scroll").forEach(gallery => {
-    gallery.addEventListener("mouseenter", () => autoScrollPaused = true);
-    gallery.addEventListener("mouseleave", () => autoScrollPaused = false);
-});
 let selectedEventId = null;
-
-function openModal(card, eventId, shortDesc) {
+function openModal(card, eventId) {
 
     selectedEventId = eventId;
 
     const img = card.querySelector("img").src;
-
     document.getElementById("modalImage").src = img;
-    document.getElementById("modalDescription").innerText = shortDesc;
+
+    if(events[eventId]){
+        document.getElementById("modalDescription").innerText = events[eventId].shortDesc[currentLang];
+    } else {
+        document.getElementById("modalDescription").innerText = "";
+    }
 
     document.getElementById("imageModal").style.display = "block";
 }
+document.addEventListener("DOMContentLoaded", function(){
 
-function closeModal() {
-    document.getElementById("imageModal").style.display = "none";
+  /* Otomatik scroll başlat */
+  autoScrollGallery();
+
+  /* Hover ile scroll durdurma */
+  document.querySelectorAll(".auto-scroll").forEach(gallery => {
+      gallery.addEventListener("mouseenter", () => autoScrollPaused = true);
+      gallery.addEventListener("mouseleave", () => autoScrollPaused = false);
+  });
+
+  /* Detail sayfası kontrol */
+  const params = new URLSearchParams(window.location.search);
+  const eventId = params.get("id");
+  const langParam = params.get("lang");
+
+if(langParam === "tr" || langParam === "en"){
+    currentLang = langParam;
 }
+  if(eventId && events[eventId]){
 
+    const event = events[eventId];
+
+    const titleEl = document.getElementById("detailTitle");
+    const textEl = document.getElementById("detailText");
+    const gallery = document.getElementById("detailGallery");
+
+    if(titleEl) titleEl.innerText = event.title[currentLang];
+    if(textEl) textEl.innerText = event.longDesc[currentLang];
+
+    if(gallery){
+      event.images.forEach(imgSrc => {
+        const img = document.createElement("img");
+        img.src = imgSrc;
+        img.style.width = "250px";
+        img.style.margin = "10px";
+        gallery.appendChild(img);
+      });
+    }
+  }
+
+});
 function goToDetailPage() {
     if(selectedEventId){
-        window.location.href = `detail-${selectedEventId}.html`;
+        window.location.href = `detail.html?id=${selectedEventId}&lang=${currentLang}`;
     }
 }
