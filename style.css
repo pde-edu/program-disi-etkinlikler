@@ -66,6 +66,11 @@ h1 {
   -webkit-overflow-scrolling: touch;
   scroll-snap-type: x mandatory;
 }
+ @media (max-width: 768px) {
+  .horizontal-scroll {
+    scroll-behavior: auto; /* smooth kapalı */
+  }
+}
 
 .horizontal-scroll::-webkit-scrollbar {
   display: none;
