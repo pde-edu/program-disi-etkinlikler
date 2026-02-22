@@ -65,27 +65,31 @@ function closeModal() {
 }
 
 
-/* =========================
-   OTOMATİK SCROLL
-========================= */
 function autoScrollGallery() {
-
     const galleries = document.querySelectorAll(".auto-scroll");
+    const isMobile = window.matchMedia("(pointer: coarse)").matches;
 
     galleries.forEach(gallery => {
+        if (isMobile) return; // mobilde otomatik scroll kapalı
+
+        let scrollAmount = 0;
 
         setInterval(() => {
-
             if (autoScrollPaused) return;
 
-            gallery.scrollLeft += 1;
-
-            if (gallery.scrollLeft >= gallery.scrollWidth - gallery.clientWidth) {
-                gallery.scrollLeft = 0;
+            scrollAmount += 2; // 2px adım
+            if (scrollAmount >= gallery.scrollWidth - gallery.clientWidth) {
+                scrollAmount = 0;
             }
 
+            gallery.scrollTo({ left: scrollAmount });
         }, 20);
     });
 }
 
 document.addEventListener("DOMContentLoaded", autoScrollGallery);
+
+document.querySelectorAll(".auto-scroll").forEach(gallery => {
+    gallery.addEventListener("mouseenter", () => autoScrollPaused = true);
+    gallery.addEventListener("mouseleave", () => autoScrollPaused = false);
+});
