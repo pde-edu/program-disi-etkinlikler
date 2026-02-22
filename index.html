@@ -152,9 +152,11 @@ Academic presentation of planned, practical, and socially impactful activities c
 
     <div class="horizontal-scroll auto-scroll">
 
-      <div class="card" onclick="openModal(this)">
-        <img src="assets/images/placeholder.jpg" alt="Etkinlik">
-        <div class="overlay">Örnek Etkinlik 1</div>
+      <div class="card" onclick="openModal(this, 'etkinlik1', 'Bu etkinlikte öğrenciler iş birliği çalışması yaptı.')">
+        <img src="assets/images/placeholder.jpg" alt="Etkinlik 1">
+        <div class="overlay">
+          <h3>Etkinlik 1</h3> 
+        </div>
       </div>
 
       <div class="card" onclick="openModal(this)">
@@ -283,6 +285,18 @@ Academic presentation of planned, practical, and socially impactful activities c
 <div id="imageModal" class="modal">
   <span class="close" onclick="closeModal()">×</span>
   <img class="modal-content" id="modalImage">
+</div>
+<div id="imageModal" class="modal">
+
+  <span class="close" onclick="closeModal()">&times;</span>
+
+  <img id="modalImage" class="modal-content">
+
+  <div class="modal-text">
+      <p id="modalDescription"></p>
+      <button onclick="goToDetailPage()">Devamını Gör</button>
+  </div>
+
 </div>
 
 </body>
