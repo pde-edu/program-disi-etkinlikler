@@ -146,7 +146,7 @@ document.addEventListener("DOMContentLoaded", function(){
       gallery.addEventListener("mouseenter", () => autoScrollPaused = true);
       gallery.addEventListener("mouseleave", () => autoScrollPaused = false);
   });
-  
+
   if(eventId && events[eventId]){
 
     const event = events[eventId];
@@ -174,4 +174,8 @@ function goToDetailPage() {
     if(selectedEventId){
         window.location.href = `detail.html?id=${selectedEventId}`;
     }
+}
+const heroImage = document.getElementById("detailHeroImage");
+if(heroImage){
+    heroImage.src = event.images[0];
 }
