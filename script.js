@@ -30,6 +30,7 @@ function setLanguage(lang) {
     currentLang = lang;
     localStorage.setItem("selectedLang", lang);
     const sections = ["about", "hero", "gallery1", "gallery2", "gallery3", "contact"];
+    
 
     sections.forEach(section => {
 
