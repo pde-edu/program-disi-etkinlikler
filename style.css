@@ -217,8 +217,8 @@ h1 {
 }
 
 .modal-content {
-  max-width: 90vw;
-  max-height: 80vh;
+  max-width: 95vw;
+  max-height: 92vh;
   width: auto;
   height: auto;
   object-fit: contain;
