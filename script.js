@@ -121,7 +121,7 @@ function openModal(card, eventId) {
         document.getElementById("modalDescription").innerText = "";
     }
 
-    document.getElementById("imageModal").style.display = "block";
+    document.getElementById("imageModal").style.display = "flex";
 }
 document.addEventListener("DOMContentLoaded", function(){
 
@@ -174,11 +174,5 @@ document.addEventListener("DOMContentLoaded", function(){
 function goToDetailPage() {
     if(selectedEventId){
         window.location.href = `detail.html?id=${selectedEventId}`;
-    }
-}
-if(eventId && events[eventId]){
-    const heroImage = document.getElementById("detailHeroImage");
-    if(heroImage){
-        heroImage.src = events[eventId].images[0];
     }
 }
