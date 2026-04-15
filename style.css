@@ -159,6 +159,11 @@ h1 {
   line-height: 1.8;
 }
 
+.about-card h2,
+.about-card h3 {
+  text-align: center;
+}
+
 .about-title {
   font-size: 30px;
   margin-bottom: 25px;
@@ -167,6 +172,7 @@ h1 {
 
 .about-card p {
   margin-bottom: 22px;
+  text-align: center;
   font-size: 17px;
   color: #555;
 }
