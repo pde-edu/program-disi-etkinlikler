@@ -29,7 +29,7 @@ const events = {
 function setLanguage(lang) {
     currentLang = lang;
     localStorage.setItem("selectedLang", lang);
-    const sections = ["about", "hero", "gallery1", "gallery2"];
+    const sections = ["about", "hero", "gallery1", "gallery2", "gallery3", "contact"];
 
     sections.forEach(section => {
 
@@ -175,7 +175,9 @@ function goToDetailPage() {
         window.location.href = `detail.html?id=${selectedEventId}`;
     }
 }
-const heroImage = document.getElementById("detailHeroImage");
-if(heroImage){
-    heroImage.src = event.images[0];
+if(eventId && events[eventId]){
+    const heroImage = document.getElementById("detailHeroImage");
+    if(heroImage){
+        heroImage.src = events[eventId].images[0];
+    }
 }
