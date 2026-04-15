@@ -43,6 +43,11 @@ h1 {
   color: #6a4e77;
 }
 
+#about-tr,
+#about-en {
+  width: 100%;
+  text-align: center;
+}
 /* ================= GALLERY SECTION ================= */
 .gallery-section {
   padding: 80px 10%;
