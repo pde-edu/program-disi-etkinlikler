@@ -82,7 +82,7 @@ function scrollGallery(button, direction) {
    MODAL
 ========================= */
 function closeModal() {
-    document.getElementById("imageModal").style.display = "none";
+    document.getElementById("imageModal").classList.remove("show");
 }
 
 
@@ -113,63 +113,66 @@ function openModal(card, eventId) {
     selectedEventId = eventId;
 
     const img = card.querySelector("img").src;
+    const modal = document.getElementById("imageModal");
+
     document.getElementById("modalImage").src = img;
 
-    if(events[eventId]){
-        document.getElementById("modalDescription").innerText = events[eventId].shortDesc[currentLang];
-    } else {
-        document.getElementById("modalDescription").innerText = "";
+    if (events[eventId]) {
+        document.getElementById("modalDescription").innerText =
+            events[eventId].shortDesc[currentLang];
     }
 
-    document.getElementById("imageModal").style.display = "flex";
+    modal.classList.add("show");
 }
-document.addEventListener("DOMContentLoaded", function(){
+document.addEventListener("DOMContentLoaded", function () {
 
-  const params = new URLSearchParams(window.location.search);
-  const eventId = params.get("id");
-  const langParam = params.get("lang");
+    const modal = document.getElementById("imageModal");
+    if (modal) modal.classList.remove("show");
 
-  if(langParam === "tr" || langParam === "en"){
-      currentLang = langParam;
-      localStorage.setItem("selectedLang", langParam);
-  } else {
-      const savedLang = localStorage.getItem("selectedLang");
-      if(savedLang === "tr" || savedLang === "en"){
-          currentLang = savedLang;
-      }
-  }
-  setLanguage(currentLang);
-  /* Otomatik scroll başlat */
-  autoScrollGallery();
+    const params = new URLSearchParams(window.location.search);
+    const eventId = params.get("id");
+    const langParam = params.get("lang");
 
-  /* Hover ile scroll durdurma */
-  document.querySelectorAll(".auto-scroll").forEach(gallery => {
-      gallery.addEventListener("mouseenter", () => autoScrollPaused = true);
-      gallery.addEventListener("mouseleave", () => autoScrollPaused = false);
-  });
-
-  if(eventId && events[eventId]){
-
-    const event = events[eventId];
-
-    const titleEl = document.getElementById("detailTitle");
-    const textEl = document.getElementById("detailText");
-    const gallery = document.getElementById("detailGallery");
-
-    if(titleEl) titleEl.innerText = event.title[currentLang];
-    if(textEl) textEl.innerText = event.longDesc[currentLang];
-
-    if(gallery){
-      event.images.forEach(imgSrc => {
-        const img = document.createElement("img");
-        img.src = imgSrc;
-        img.style.width = "250px";
-        img.style.margin = "10px";
-        gallery.appendChild(img);
-      });
+    if (langParam === "tr" || langParam === "en") {
+        currentLang = langParam;
+        localStorage.setItem("selectedLang", langParam);
+    } else {
+        const savedLang = localStorage.getItem("selectedLang");
+        if (savedLang === "tr" || savedLang === "en") {
+            currentLang = savedLang;
+        }
     }
-  }
 
+    setLanguage(currentLang);
+    autoScrollGallery();
+
+    document.querySelectorAll(".auto-scroll").forEach(gallery => {
+        gallery.addEventListener("mouseenter", () => autoScrollPaused = true);
+        gallery.addEventListener("mouseleave", () => autoScrollPaused = false);
+    });
+
+    if (eventId && events[eventId]) {
+
+        const event = events[eventId];
+
+        const titleEl = document.getElementById("detailTitle");
+        const textEl = document.getElementById("detailText");
+        const gallery = document.getElementById("detailGallery");
+
+        if (titleEl) titleEl.innerText = event.title[currentLang];
+        if (textEl) textEl.innerText = event.longDesc[currentLang];
+
+        if (gallery) {
+            gallery.innerHTML = ""; // 🔥 duplicate fix
+            event.images.forEach(imgSrc => {
+                const img = document.createElement("img");
+                img.src = imgSrc;
+                img.style.width = "250px";
+                img.style.margin = "10px";
+                gallery.appendChild(img);
+            });
+        }
+    }
 });
 function goToDetailPage() {
     if(selectedEventId){
