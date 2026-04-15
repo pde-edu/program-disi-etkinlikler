@@ -560,3 +560,39 @@ h1 {
     transform: translateY(0);
   }
 }
+
+.scroll-wrapper {
+  position: relative;
+}
+
+.scroll-btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 10;
+  background: #333;
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.scroll-btn.left {
+  left: -20px;
+}
+
+.scroll-btn.right {
+  right: -20px;
+}
+.horizontal-scroll {
+  display: flex;
+  gap: 20px;
+  overflow-x: auto;
+  scroll-behavior: smooth;
+}
+.card {
+  min-width: 250px;
+  height: 150px;
+  border-radius: 15px;
+  overflow: hidden;
+}
