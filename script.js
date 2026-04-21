@@ -1,42 +1,16 @@
 let currentLang = "tr";
 
-const events = {
-
-  etkinlik1: {
-    title: {
-      tr: "Etkinlik 1",
-      en: "Activity 1"
-    },
-    shortDesc: {
-      tr: "Bu etkinlikte öğrenciler iş birliği çalışması yaptı.",
-      en: "Students practiced collaborative learning in this activity."
-    },
-    longDesc: {
-      tr: "Bu etkinlik kapsamında öğrenciler grup çalışmaları yaparak problem çözme becerilerini geliştirdiler.",
-      en: "In this activity, students improved their problem-solving skills through group work."
-    },
-    images: [
-      "assets/images/etkinlik1-1.jpg",
-      "assets/images/etkinlik1-2.jpg"
-    ]
-  }
-
-};
-
 /* =========================
    DİL DEĞİŞTİRME
 ========================= */
 function setLanguage(lang) {
     currentLang = lang;
     localStorage.setItem("selectedLang", lang);
-    const sections = ["about", "hero", "gallery1", "gallery2", "gallery3", "contact"];
-    
 
+    const sections = ["about", "hero", "gallery1", "gallery2", "gallery3"];
     sections.forEach(section => {
-
         const tr = document.getElementById(section + "-tr");
         const en = document.getElementById(section + "-en");
-
         if (lang === "tr") {
             if (tr) tr.style.display = "block";
             if (en) en.style.display = "none";
@@ -45,9 +19,8 @@ function setLanguage(lang) {
             if (en) en.style.display = "block";
         }
     });
+    renderAllGalleries(); // 🔥 BU ŞART
 }
-
-
 /* =========================
    SAĞ-SOL BUTON SCROLL
 ========================= */
@@ -198,7 +171,7 @@ function renderGallery() {
     };
 
     card.innerHTML = `
-      <img src="${event.cover}">
+      <img src="${event.coverImage}">
       <div class="overlay">
         ${event.title[currentLang]}
       </div>
@@ -259,11 +232,11 @@ const events = {
     },
 
     images: [
-      "assets/images/etkinlik1-1.jpg",
-      "assets/images/etkinlik1-2.jpg"
+      "assets/images/placeholder.jpg",
+      "assets/images/placeholder.jpg"
     ],
 
-    coverImage: "assets/images/etkinlik1-1.jpg"
+    coverImage: "assets/images/placeholder.jpg"
   },
 
 
@@ -292,10 +265,10 @@ const events = {
     },
 
     images: [
-      "assets/images/etkinlik2-1.jpg"
+      "assets/images/placeholder.jpg"
     ],
 
-    coverImage: "assets/images/etkinlik2-1.jpg"
+    coverImage: "assets/images/placeholder.jpg"
   },
   etkinlik3: {
     id: "etkinlik3",
@@ -317,11 +290,11 @@ const events = {
     },  
 
     images: [
-        "assets/images/etkinlik3-1.jpg",
-        "assets/images/etkinlik3-2.jpg"
+        "assets/images/placeholder.jpg",
+        "assets/images/placeholder.jpg"
     ],  
 
-  coverImage: "assets/images/etkinlik3-1.jpg"
+  coverImage: "assets/images/placeholder.jpg"
 },
 etkinlik4: {
     id: "etkinlik4",
@@ -344,11 +317,11 @@ etkinlik4: {
     },  
 
     images: [
-        "assets/images/etkinlik4-1.jpg",
-        "assets/images/etkinlik4-2.jpg"
+        "assets/images/placeholder.jpg",
+        "assets/images/placeholder.jpg"
     ],
 
-    coverImage: "assets/images/etkinlik4-1.jpg"
+    coverImage: "assets/images/placeholder.jpg"
   }, 
   
     etkinlik5: {
@@ -370,11 +343,11 @@ etkinlik4: {
     },      
 
     images: [
-        "assets/images/etkinlik5-1.jpg",
-        "assets/images/etkinlik5-2.jpg"
+        "assets/images/placeholder.jpg",
+        "assets/images/placeholder.jpg"
     ],      
 
-    coverImage: "assets/images/etkinlik5-1.jpg"
+    coverImage: "assets/images/placeholder.jpg"
   }, 
 
      etkinlik6: {
@@ -395,10 +368,10 @@ etkinlik4: {
         en: "Students explored museum culture, worked in groups and developed observation skills."
     },
     images: [
-        "assets/images/etkinlik6-1.jpg",
-        "assets/images/etkinlik6-2.jpg"
+        "assets/images/placeholder.jpg",
+        "assets/images/placeholder.jpg"
     ],
-    coverImage: "assets/images/etkinlik6-1.jpg"
+    coverImage: "assets/images/placeholder.jpg"
   }, 
 
      etkinlik7: {
@@ -421,11 +394,11 @@ etkinlik4: {
     },
 
     images: [
-        "assets/images/etkinlik7-1.jpg",
-        "assets/images/etkinlik7-2.jpg"
+        "assets/images/placeholder.jpg",
+        "assets/images/placeholder.jpg"
     ],      
 
-    coverImage: "assets/images/etkinlik7-1.jpg"
+    coverImage: "assets/images/placeholder.jpg"
   }, 
 
 
@@ -447,10 +420,10 @@ etkinlik4: {
         en: "In this event, students learned about the history of the National Anthem, explored the life of Mehmet Akif Ersoy, and held a poetry recital."
     },
     images: [
-        "assets/images/etkinlik8-1.jpg",
-        "assets/images/etkinlik8-2.jpg"
+        "assets/images/placeholder.jpg",
+        "assets/images/placeholder.jpg"
     ],  
-    coverImage: "assets/images/etkinlik8-1.jpg"
+    coverImage: "assets/images/placeholder.jpg"
     },   
 
     etkinlik9: {
@@ -472,10 +445,10 @@ etkinlik4: {
         en: "In this event, students learned about the lives of our martyrs, organized a commemoration ceremony, and held a poetry recital."
     },  
     images: [
-        "assets/images/etkinlik9-1.jpg",
-        "assets/images/etkinlik9-2.jpg" 
+        "assets/images/placeholder.jpg",
+        "assets/images/placeholder.jpg" 
     ],
-    coverImage: "assets/images/etkinlik9-1.jpg"
+    coverImage: "assets/images/placeholder.jpg"
   }, 
        
       etkinlik10: {
@@ -496,10 +469,10 @@ etkinlik4: {
         en: "In this event, students learned about the importance of tourism, worked in groups, and organized a trip."
     },
     images: [
-        "assets/images/etkinlik10-1.jpg",
-        "assets/images/etkinlik10-2.jpg"
+        "assets/images/placeholder.jpg",
+        "assets/images/placeholder.jpg"
     ],
-    coverImage: "assets/images/etkinlik10-1.jpg"
+    coverImage: "assets/images/placeholder.jpg"
     },
 
     etkinlik11: {
@@ -519,10 +492,10 @@ etkinlik4: {
         en: "Students engaged in activities about healthy living, hygiene, and sports." 
     },
     images: [
-        "assets/images/etkinlik11-1.jpg",   
-        "assets/images/etkinlik11-2.jpg"
+        "assets/images/placeholder.jpg",   
+        "assets/images/placeholder.jpg"
     ],  
-    coverImage: "assets/images/etkinlik11-1.jpg"
+    coverImage: "assets/images/placeholder.jpg"
     },
 
 
@@ -541,9 +514,9 @@ bayram1: {
       en: "Celebrated with school activities."
     },
     images: [
-      "assets/images/bayram1-1.jpg"
+      "assets/images/placeholder.jpg"
     ],
-    coverImage: "assets/images/bayram1-1.jpg"
+    coverImage: "assets/images/placeholder.jpg"
   },
     
 bayram2: {
@@ -561,9 +534,9 @@ bayram2: {
         en: "Celebrated with school activities."
     },
     images: [
-        "assets/images/bayram2-1.jpg"
+        "assets/images/placeholder.jpg"
     ],  
-    coverImage: "assets/images/bayram2-1.jpg"
+    coverImage: "assets/images/placeholder.jpg"
   },
 
 bayram3: {
@@ -581,9 +554,9 @@ bayram3: {
         en: "Celebrated with school activities."
     },
     images: [
-        "assets/images/bayram3-1.jpg"
+        "assets/images/placeholder.jpg"
     ],  
-    coverImage: "assets/images/bayram3-1.jpg"
+    coverImage: "assets/images/placeholder.jpg"
   },
 
 bayram4: {
@@ -601,9 +574,9 @@ bayram4: {
         en: "Celebrated with school activities."
     },
     images: [
-        "assets/images/bayram4-1.jpg"
+        "assets/images/placeholder.jpg"
     ],  
-    coverImage: "assets/images/bayram4-1.jpg"
+    coverImage: "assets/images/placeholder.jpg"
   },
 bayram5: {  
     category: "gallery2",
@@ -620,9 +593,9 @@ bayram5: {
         en: "Celebrated with school activities."
     },  
     images: [
-        "assets/images/bayram5-1.jpg"
+        "assets/images/placeholder.jpg"
     ],  
-    coverImage: "assets/images/bayram5-1.jpg"
+    coverImage: "assets/images/placeholder.jpg"
   },
   
 bayram6: {
@@ -640,9 +613,9 @@ bayram6: {
         en: "Celebrated with school activities."
     },  
     images: [
-        "assets/images/bayram6-1.jpg"
+        "assets/images/placeholder.jpg"
     ],  
-    coverImage: "assets/images/bayram6-1.jpg"
+    coverImage: "assets/images/placeholder.jpg"
   },
 
 bayram7: { 
@@ -660,9 +633,9 @@ bayram7: {
         en: "Celebrated with school activities."
     },
     images: [
-        "assets/images/bayram7-1.jpg"
+        "assets/images/placeholder.jpg"
     ],  
-    coverImage: "assets/images/bayram7-1.jpg"
+    coverImage: "assets/images/placeholder.jpg"
   },
 
 bayram8: {
@@ -681,9 +654,9 @@ bayram8: {
     },  
 
     images: [
-        "assets/images/bayram8-1.jpg"
+        "assets/images/placeholder.jpg"
     ],  
-    coverImage: "assets/images/bayram8-1.jpg"
+    coverImage: "assets/images/placeholder.jpg"
   },
 
 bayram9: {
@@ -701,9 +674,9 @@ bayram9: {
         en: "Celebrated with school activities."
     },
     images: [
-        "assets/images/bayram9-1.jpg"
+        "assets/images/placeholder.jpg"
     ],  
-    coverImage: "assets/images/bayram9-1.jpg"
+    coverImage: "assets/images/placeholder.jpg"
   },    
 
 bayram10: {
@@ -722,9 +695,9 @@ bayram10: {
     },  
 
     images: [
-        "assets/images/bayram10-1.jpg"
+        "assets/images/placeholder.jpg"
     ],  
-    coverImage: "assets/images/bayram10-1.jpg"
+    coverImage: "assets/images/placeholder.jpg"
   },
 
 bayram11: {
@@ -742,9 +715,9 @@ bayram11: {
         en: "Celebrated with school activities."
     },  
     images: [
-        "assets/images/bayram11-1.jpg"
+        "assets/images/placeholder.jpg"
     ],  
-    coverImage: "assets/images/bayram11-1.jpg"
+    coverImage: "assets/images/placeholder.jpg"
   },
 
 bayram12: {
@@ -762,9 +735,9 @@ bayram12: {
         en: "Celebrated with school activities."
     },  
     images: [
-        "assets/images/bayram12-1.jpg"
+        "assets/images/placeholder.jpg"
     ],  
-    coverImage: "assets/images/bayram12-1.jpg"
+    coverImage: "assets/images/placeholder.jpg"
   },
 
 bayram13: {
@@ -783,9 +756,9 @@ bayram13: {
     },  
 
     images: [
-        "assets/images/bayram13-1.jpg"
+        "assets/images/placeholder.jpg"
     ],  
-    coverImage: "assets/images/bayram13-1.jpg"
+    coverImage: "assets/images/placeholder.jpg"
   },
 
 bayram14: {
@@ -803,9 +776,9 @@ bayram14: {
         en: "Celebrated with school activities."
     },
     images: [
-        "assets/images/bayram14-1.jpg"
+        "assets/images/placeholder.jpg"
     ],  
-    coverImage: "assets/images/bayram14-1.jpg"
+    coverImage: "assets/images/placeholder.jpg"
   },
 
 
@@ -825,9 +798,9 @@ odoo1: {
       en: "Students learned justice through drama."
     },
     images: [
-      "assets/images/odoo1-1.jpg"
+      "assets/images/placeholder.jpg"
     ],
-    coverImage: "assets/images/odoo1-1.jpg"
+    coverImage: "assets/images/placeholder.jpg"
 
   },
 
@@ -846,9 +819,9 @@ odoo2: {
         en: "In this activity, students toured a historical castle and then watched a related movie for review."
     },  
     images: [
-        "assets/images/odoo2-1.jpg"
+        "assets/images/placeholder.jpg"
     ],  
-    coverImage: "assets/images/odoo2-1.jpg"
+    coverImage: "assets/images/placeholder.jpg"
  },
 
 odoo3: {
@@ -866,8 +839,49 @@ odoo3: {
         en: "Students were introduced to traditional folk games and gained cultural awareness through these activities."
     },
     images: [
-        "assets/images/odoo3-1.jpg"
+        "assets/images/placeholder.jpg"
     ],
-    coverImage: "assets/images/odoo3-1.jpg"
+    coverImage: "assets/images/placeholder.jpg"
 },
 };
+
+
+function renderAllGalleries() {
+Object.values(groups).forEach(id => {
+  const el = document.getElementById(id);
+  if (el) el.innerHTML = "";
+});
+  const groups = {
+  gallery1: "gallery1-tr-container",
+  gallery2: "gallery2-tr-container",
+  gallery3: "gallery3-tr-container",
+
+  gallery1_en: "gallery1-en-container",
+  gallery2_en: "gallery2-en-container",
+  gallery3_en: "gallery3-en-container"
+};
+
+  Object.keys(events).forEach(id => {
+    const event = events[id];
+
+    const langSuffix = currentLang === "tr" ? "" : "_en";
+    const containerId = groups[event.category + langSuffix];
+
+    const container = document.getElementById(containerId);
+    if (!container) return;
+
+    const card = document.createElement("div");
+    card.className = "card";
+
+    card.onclick = () => openModal(card, id);
+
+    card.innerHTML = `
+      <img src="${event.coverImage}">
+      <div class="overlay">
+        ${event.title[currentLang]}
+      </div>
+    `;
+
+    container.appendChild(card);
+  });
+}
