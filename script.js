@@ -1,9 +1,11 @@
-let currentLang = "tr";
 
+let currentLang = "tr";
 /* =========================
    DİL DEĞİŞTİRME
 ========================= */
 function setLanguage(lang) {
+      renderAllGalleries(); // 🔥 BU ŞART
+
     currentLang = lang;
     localStorage.setItem("selectedLang", lang);
 
@@ -19,8 +21,8 @@ function setLanguage(lang) {
             if (en) en.style.display = "block";
         }
     });
-    renderAllGalleries(); // 🔥 BU ŞART
-}
+  }
+
 /* =========================
    SAĞ-SOL BUTON SCROLL
 ========================= */
@@ -98,7 +100,7 @@ function openModal(card, eventId) {
     modal.classList.add("show");
 }
 document.addEventListener("DOMContentLoaded", function () {
-
+renderAllGalleries();
     const modal = document.getElementById("imageModal");
     if (modal) modal.classList.remove("show");
 
@@ -195,11 +197,16 @@ function loadDetailPage() {
   const gallery = document.getElementById("detailGallery");
   gallery.innerHTML = "";
 
-  event.images.forEach(img => {
-    const image = document.createElement("img");
-    image.src = img;
-    gallery.appendChild(image);
-  });
+event.images.forEach(img => {
+  const image = document.createElement("img");
+  image.src = img;
+
+  image.style.cursor = "pointer"; // el işareti
+
+  image.onclick = () => openImageModal(img); // 🔥 BÜYÜTME
+
+  gallery.appendChild(image);
+});
 }
 
 /* =========================
@@ -236,7 +243,7 @@ const events = {
       "assets/images/placeholder.jpg"
     ],
 
-    coverImage: "assets/images/placeholder.jpg"
+    coverImage: "https://picsum.photos/300/200"
   },
 
 
@@ -885,4 +892,16 @@ function renderAllGalleries() {
 
     container.appendChild(card);
   });
+}
+
+function openImageModal(src) {
+  const modal = document.getElementById("imageModal");
+  const modalImg = document.getElementById("modalImg");
+
+  modalImg.src = src;
+  modal.classList.add("show");
+}
+
+function closeImageModal() {
+  document.getElementById("imageModal").classList.remove("show");
 }
