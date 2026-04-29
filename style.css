@@ -1,13 +1,12 @@
 body {
   margin: 0;
   font-family: 'Segoe UI', sans-serif;
-  background-image: url('./assets/images/background.png'); /* Resim yolunu buraya yazın */
-  background-size: cover; /* Resmi ekrana sığdırır */
-  background-repeat: no-repeat; /* Resmin tekrarlanmasını engeller */
-  background-position: center; /* Resmi ortalar */
-  background-attachment: fixed; /* Sayfa kaysa bile arka plan sabit kalır */
+  background-image: url('https://pde-edu.github.io/program-disi-etkinlikler/assets/images/background.png'); 
+  background-size: cover; 
+  background-repeat: no-repeat; 
+  background-position: center; 
+  background-attachment: fixed; 
 }
-
 /* ================= HEADER ================= */
 header {
   display: flex;
