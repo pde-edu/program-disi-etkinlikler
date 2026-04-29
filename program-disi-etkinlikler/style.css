@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: 'Segoe UI', sans-serif;
-  background-image: url('./assets/resim.png'); /* Resim yolunu buraya yazın */
+  background-image: url('./assets/images/background.png); /* Resim yolunu buraya yazın */
   background-size: cover; /* Resmi ekrana sığdırır */
   background-repeat: no-repeat; /* Resmin tekrarlanmasını engeller */
   background-position: center; /* Resmi ortalar */
