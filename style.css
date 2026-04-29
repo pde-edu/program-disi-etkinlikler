@@ -1,12 +1,10 @@
 
 body {
-body {
     background-image: url('./assets/background.png');
     background-size: cover; /* Resmi ekrana sığdırır */
     background-repeat: no-repeat; /* Tekrar etmesini engeller */
     background-attachment: fixed; /* Ekranla birlikte kayar */
-}
-
+    
 }
 
 /* ================= HEADER ================= */
