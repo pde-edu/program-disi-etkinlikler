@@ -522,14 +522,53 @@ The school administration and teachers supported us throughout the process and p
         en: "National Anthem Acceptance and Mehmet Akif Ersoy Commemoration Day"
     },  
 
-   shortDesc: {
-    tr: "Melisa Karataş, Lokman Ernez ve Kenan Bozkurt tarafından Kemal Şuberi İlkokulu’nda 12 Mart İstiklal Marşı’nın Kabulü ve Mehmet Akif Ersoy’u Anma Günü ile 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü kapsamında gerçekleştirilen etkinlikler.",
-    en: "Activities organized by Melisa Karataş, Lokman Ernez, and Kenan Bozkurt at Kemal Şuberi Primary School within the scope of March 12 Independence March Adoption and Mehmet Akif Ersoy Commemoration Day and March 18 Çanakkale Victory and Martyrs' Commemoration Day."
-    },  
-    longDesc: {
-        tr: "Bu etkinlikte öğrenciler İstiklal Marşı'nın tarihini öğrendi, Mehmet Akif Ersoy'un hayatını inceledi ve şiir dinletisi gerçekleştirdi.",
-        en: "In this event, students learned about the history of the National Anthem, explored the life of Mehmet Akif Ersoy, and held a poetry recital."
-    },
+  shortDesc: {
+    tr: "Melisa Karataş, Lokman Ernez ve Kenan Bozkurt tarafından Kemal Şuberi İlkokulu’nda 12 Mart, 18 Mart ve 23 Nisan kapsamında gerçekleştirilen etkinlikler.",
+    en: "Activities organized by Melisa Karataş, Lokman Ernez, and Kenan Bozkurt at Kemal Şuberi Primary School within the scope of March 12, March 18, and April 23 commemorative events."
+},
+longDesc: {
+    tr:
+        "Eğitimde Program Dışı Etkinlikler dersi kapsamında grubumuz Melisa Karataş, Lokman Ernez ve Kenan Bozkurt’tan oluşmaktadır. Etkinliklerimiz Antalya’nın Alanya ilçesinde bulunan Kemal Şuberi İlkokulu’nda 4. sınıf öğrencileriyle gerçekleştirilmiştir. Program dışı etkinliklerin öğrencilerin yaşam becerilerini keşfetmeleri ve kendilerini tanımaları açısından önemli olduğu düşüncesinden hareketle; 12 Mart, 18 Mart ve 23 Nisan gibi milli gün ve haftalarda gönüllü ve istekli katılım gösteren öğrencilerle çeşitli etkinlikler düzenlenmiştir. " +
+
+        "Etkinlik süreci, okul müdürü, müdür yardımcısı ve görevli öğretmenlerle yapılan verimli görüşmelerle başlamıştır. Okul yönetimi ve öğretmenler etkinliklerin planlanması konusunda destek sağlamış ve okul seçiminde herhangi bir sorun yaşanmamıştır. Etkinliklerin 4. sınıf seviyesine uygun şekilde hazırlanması için sınıf öğretmenlerinden destek alınmıştır. " +
+
+        "Uygulama sürecinde öğrencilerle birlikte 12 Mart kapsamında “Ayyıldızlı Bayrağım” adlı koro çalışması, bayrak hareketleri ve “İstiklal Marşı Oratoryosu” hazırlanmıştır. Öğrencilerin dikkat süreleri dikkate alınarak etkinlik programı sadeleştirilmiş ve yaş seviyelerine uygun hale getirilmiştir. Provalar sırasında okulun farklı alanları kullanılmış, ayrıca günün anlam ve önemini yansıtan panolar hazırlanmıştır. " +
+
+        "12 Mart etkinliklerinin başarılı bulunması üzerine okul öğretmenleri tarafından 18 Mart Çanakkale Zaferi etkinlikleri kapsamında da koro çalışmaları ve pano hazırlıkları yapılması istenmiştir. Bu süreçte “Gazi Diyor Çanakkale Geçilmez” adlı koro çalışması gerçekleştirilmiştir. 23 Nisan etkinliklerinde ise pano hazırlıkları yapılmış ve profesyonel eğiticilerin çalışmaları gözlemlenmiştir. " +
+
+        "Etkinliklerin planlanmasındaki temel amaç öğrencilerde milli bilinç oluşturmak, vatan sevgisini geliştirmek, tarihi farkındalık kazandırmak ve öğrencilerin etkinliklere aktif katılım göstermelerini sağlamaktır. Bu doğrultuda öğrenciler yalnızca izleyici konumunda kalmamış; koro çalışmaları, oratoryolar, bayrak gösterileri ve pano etkinliklerinde aktif görev almışlardır. " +
+
+        "Öğrencilerin etkinliklere karşı bilişsel ve duyuşsal motivasyonlarının oldukça yüksek olduğu gözlemlenmiştir. Özellikle seslendirme çalışmaları, koro etkinlikleri ve sahne uygulamaları öğrencilerin özgüvenlerini geliştirmiştir. Programın öğrencilerin dikkat sürelerine uygun şekilde düzenlenmesi, dikkat çekici görseller ve öğrencilere verilen sorumluluklar motivasyonu artırmıştır. " +
+
+        "Okul atmosferi etkinliklerin uygulanması için oldukça uygun bir ortam sunmuştur. Rehberlik eden öğretmenler ve okul yönetimi prova alanları sağlayarak, yönlendirmelerde bulunarak ve yeni etkinlikler konusunda teşvik ederek sürece önemli katkılar sağlamıştır. " +
+
+        "Yapılan etkinliklerin amaçlarına ulaştığı düşünülmektedir. Öğrencilerin milli ve manevi değerleri içselleştirdikleri, vatan sevgisi ve bağımsızlık bilinci geliştirdikleri gözlemlenmiştir. Ayrıca grup çalışmaları sayesinde iş birliği yapma, sorumluluk alma, duygu ve vurgu kullanarak etkili konuşma becerileri geliştirme gibi yönlerinin desteklendiği görülmüştür. " +
+
+        "Etkinliklerin tekrar planlanması durumunda, öğrencilerin yaş ve dikkat seviyeleri dikkate alınarak sürelerin daha kısa ve öz tutulmasının daha verimli olacağı düşünülmektedir. Ayrıca koro ve oratoryo çalışmalarında kullanılan arka plan seslerinin daha dengeli ayarlanmasının süreci olumlu etkileyebileceği fark edilmiştir. " +
+
+        "Genel olarak değerlendirildiğinde süreç başarılı bulunmuştur. Etkinlikler hem öğretmenlik mesleğinin planlama, uygulama ve değerlendirme aşamalarını deneyimleme fırsatı sunmuş hem de öğrenciler için unutulmaz ve aktif bir öğrenme ortamı oluşturmuştur.",
+
+    en:
+        "Within the scope of the Educational Out-of-Class Activities course, our group consisted of Melisa Karataş, Lokman Ernez, and Kenan Bozkurt. Our activities were carried out with 4th grade students at Kemal Şuberi Primary School in Alanya, Antalya. Based on the importance of extracurricular activities in helping students discover life skills and recognize themselves, various meaningful activities were organized during national commemorative days such as March 12, March 18, and April 23 with students who participated voluntarily and enthusiastically. " +
+
+        "The process began with productive meetings with the school principal, vice principal, and teachers. The school administration and teachers supported the planning process, and no difficulties were experienced in school selection. Classroom teachers also provided guidance to ensure that the activities were appropriate for 4th grade students. " +
+
+        "During the implementation process, students participated in a choir performance called “My Crescent-Starred Flag,” flag choreography activities, and the “National Anthem Oratorio” for March 12 commemorations. The program was simplified according to students’ attention spans and adjusted to their age level. Different areas of the school were used for rehearsals, and bulletin boards reflecting the meaning and importance of the day were prepared. " +
+
+        "After the success of the March 12 activities, teachers requested additional choir and bulletin board activities for the March 18 Çanakkale Victory commemorations. During this process, a choir performance titled “Gazi Says Çanakkale Is Impassable” was prepared. For the April 23 activities, bulletin board preparations were carried out and professional instructors’ practices were observed. " +
+
+        "The main purpose of the activities was to develop national awareness, strengthen patriotism, create historical consciousness, and encourage active student participation. Students did not remain passive listeners; instead, they actively took part in choir activities, oratorios, flag performances, and bulletin board preparations. " +
+
+        "Students’ cognitive and emotional motivation toward the activities was observed to be very high. Voice performances, choir studies, and stage practices especially improved students’ self-confidence. Keeping the program suitable for students’ attention spans, using attractive visuals, and assigning responsibilities increased student motivation. " +
+
+        "The school atmosphere provided a highly supportive environment for the implementation of the activities. Teachers and administrators contributed significantly by providing rehearsal spaces, offering guidance, and encouraging new activities. " +
+
+        "It is believed that the activities achieved their objectives. Students internalized national and moral values, developed patriotism and awareness of independence, and strengthened skills such as cooperation, responsibility-taking, and expressive communication through group work. " +
+
+        "If the activities were to be organized again, it is thought that shorter and more concise programs adapted to students’ age and attention levels would be more effective. Additionally, balancing the background sound levels during choir and oratorio performances could improve the process further. " +
+
+        "Overall, the process was considered successful. The activities provided valuable experience in planning, implementation, and evaluation for the teaching profession while also creating an unforgettable and active learning environment for students."
+},
     images: [
         "assets/images/etkinlik8.1.png",
         "assets/images/etkinlik8.2.png",
@@ -702,9 +741,12 @@ bayram3: {
     en: "Activities organized by Melisa Karataş, Lokman Ernez, and Kenan Bozkurt at Kemal Şuberi Primary School within the scope of April 23rd National Sovereignty and Children's Day."
 },
     longDesc: {
-        tr: "Okul etkinlikleri ile kutlandı.",
-        en: "Celebrated with school activities."
-    },
+    tr:
+        "Eğitimde Program Dışı Etkinlikler dersi kapsamında Melisa Karataş, Lokman Ernez ve Kenan Bozkurt’tan oluşan grup olarak 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı etkinlik sürecine katılım sağladık. Etkinliklerin planlanması ve yürütülmesi sürecinde gözlemci olarak rol aldık ve süreç boyunca yapılan çalışmaları yakından inceleme fırsatı bulduk. Ayrıca etkinlik kapsamında öğrencilerin milli bayram bilinci kazanmalarını desteklemek amacıyla pano hazırlama çalışmalarında görev aldık. Hazırlanan panoların öğrencilerin dikkatini çekmesi, bayramın anlam ve önemini yansıtması ve okul ortamına görsel katkı sağlaması amaçlandı. Süreç boyunca öğretmenlerin etkinlik planlama yöntemlerini, öğrencilerle iletişim biçimlerini ve etkinlik yönetim süreçlerini gözlemleme fırsatı elde ettik. Bu deneyim sayesinde program dışı etkinliklerin öğrencilerin sosyal gelişimleri, özgüvenleri ve milli değerleri öğrenmeleri üzerindeki olumlu etkilerini daha yakından görmüş olduk.",
+
+    en:
+        "Within the scope of the Educational Out-of-Class Activities course, our group consisting of Melisa Karataş, Lokman Ernez, and Kenan Bozkurt participated in the April 23 National Sovereignty and Children’s Day activities. During the planning and implementation process, we took part as observers and had the opportunity to closely examine the activities carried out throughout the process. In addition, we contributed to the preparation of bulletin boards aimed at helping students develop awareness of national holidays. The prepared boards were designed to attract students’ attention, reflect the meaning and importance of the holiday, and contribute visually to the school environment. Throughout the process, we observed teachers’ activity planning methods, communication with students, and activity management practices. This experience allowed us to better understand the positive effects of extracurricular activities on students’ social development, self-confidence, and understanding of national values."
+},
     images: [
         "assets/images/bayram3.1.png",
         
