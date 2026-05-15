@@ -265,20 +265,42 @@ const events = {
     },
 
     shortDesc: {
-      tr: "Sağlıklı yaşam farkındalığı etkinliği yapıldı.",
-      en: "Health awareness activities were conducted."
+      tr: "Samet Söyler, Enes Polat, Berat Arslan, Mert Çetintaş ve Ziyettin Devrîş tarafından Kızılcaşehir İlkokulu’nda Dünya Sağlık Haftası kapsamında gerçekleştirilen etkinlikler.",
+      en: "Activities carried out by Samet Söyler, Enes Polat, Berat Arslan, Mert Çetintaş and Ziyettin Devrîş at Kızılcaşehir Primary School within the scope of World Health Week."
     },
 
     longDesc: {
-      tr: "Öğrenciler sağlıklı yaşam, hijyen ve spor konularında etkinlikler gerçekleştirdi.",
-      en: "Students engaged in activities about healthy living, hygiene, and sports."
-    },
+  tr: `Dünya Sağlık Haftası kapsamında gerçekleştirdiğimiz etkinlikler bizim açımızdan oldukça
+verimli ve öğretici bir süreç olmuştur. Bu süreçte öğrencilerde sağlıklı yaşam, hijyen ve
+dengeli beslenme konusunda farkındalık oluşturmayı amaçladık. Gerçekleştirdiğimiz
+sunum etkinliği sayesinde öğrencilerin konuya karşı ilgilerinin arttığını ve sağlık bilinci
+konusunda önemli kazanımlar elde ettiklerini gözlemledik.
+Etkinlik sürecinde düzenlediğimiz süt içme yarışması, yumurta taşıma yarışması, mendil
+kapmaca, çuval yarışı ve sandalye kapmaca gibi oyunlar öğrencilerin hem eğlenmesini hem
+de sosyal becerilerini geliştirmesini sağlamıştır. Özellikle öğrencilerin oyunlara büyük bir
+heyecan ve motivasyonla katılması bizleri oldukça mutlu etmiştir.
+Etkinlikler boyunca öğrencilerin takım çalışması, paylaşma, iş birliği ve rekabet
+duygularını olumlu şekilde geliştirdikleri gözlemlenmiştir. Süreç sonunda gerçekleştirilen
+ödül töreni, madalya ve katılım belgeleri ise öğrencilerin etkinliklere olan ilgisini artırmış
+ve onlar için unutulmaz bir anı niteliği taşımıştır.
+Genel olarak değerlendirdiğimizde Dünya Sağlık Haftası etkinlikleri hem öğrenciler hem
+de bizim için eğitici, eğlenceli ve unutulmaz bir deneyim olmuştur. Bu süreç bize
+öğrencilerle etkili iletişim kurmanın ve eğlenerek öğrenmenin ne kadar önemli olduğunu
+göstermiştir.`,
+
+  en: `World Health Week activities were a highly productive and educational process for us. In this process, we aimed to raise awareness among students about healthy living, hygiene, and balanced nutrition. Through the presentation activity, we observed that students’ interest in the topic increased and they gained important awareness regarding health literacy.
+During the activity process, games such as milk-drinking competition, egg carrying race, handkerchief capture, sack race, and musical chairs helped students both enjoy themselves and improve their social skills. The high excitement and motivation of students during the games made us very happy.
+Throughout the activities, it was observed that students developed positive skills in teamwork, sharing, cooperation, and healthy competition. At the end of the process, the award ceremony, medals, and participation certificates increased students’ interest and became an unforgettable memory for them.
+Overall, World Health Week activities were an educational, enjoyable, and memorable experience for both students and us. This process showed us how important effective communication with students and learning through enjoyment is.`
+}
 
     images: [
-      "assets/images/placeholder.jpg"
+      "assets/images/etkinlik2.1.png",
+      "assets/images/etkinlik2.2.png",
+      "assets/images/etkinlik2.3.png",
     ],
 
-    coverImage: "assets/images/placeholder.jpg"
+    coverImage: "assets/images/etkinlik2.1.png"
   },
   etkinlik3: {
     id: "etkinlik3",
@@ -562,6 +584,7 @@ Throughout the celebration process, the excitement and happiness of the students
       
       "assets/images/bayram1.2.png",
       "assets/images/bayram1.1.png",
+      "assets/images/bayram1.3.png",
     ],
     coverImage: "assets/images/bayram1.3.png"
   },
@@ -573,17 +596,39 @@ bayram2: {
         en: "April 23rd"
     },  
     shortDesc: {
-        tr: "Ulusal Egemenlik ve Çocuk Bayramı",
-        en: "National Sovereignty and Children's Day"   
-    },
+    tr: "Samet Söyler, Enes Polat, Berat Arslan, Mert Çetintaş ve Ziyettin Devrîş tarafından Kızılcaşehir İlkokulu’nda 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı kapsamında gerçekleştirilen etkinlikler.",
+    en: "Activities organized by Samet Söyler, Enes Polat, Berat Arslan, Mert Çetintaş, and Ziyettin Devrîş at Kızılcaşehir Primary School within the scope of April 23rd National Sovereignty and Children's Day."
+},
     longDesc: {
-        tr: "Okul etkinlikleri ile kutlandı.",
-        en: "Celebrated with school activities."
-    },
+    tr:
+        "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı kapsamında gerçekleştirdiğimiz etkinlikler öğrenciler açısından oldukça coşkulu, eğlenceli ve anlamlı bir süreç olmuştur. " +
+        "Bu süreçte öğrencilerin milli bayram bilinci kazanmalarını, kendilerini ifade etmelerini ve sosyal etkinliklere aktif katılım sağlamalarını amaçladık. " +
+        "Etkinlik hazırlıkları kapsamında öğrencilerle birlikte sınıf süsleme çalışmaları gerçekleştirdik. " +
+        "Bu çalışmalar sayesinde öğrenciler iş birliği içerisinde hareket etmiş ve bayram heyecanını hep birlikte yaşamıştır. " +
+        "Gösteriler sırasında öğrencilerin şiirler, şarkılar ve çeşitli etkinliklerle kendilerini özgüvenli bir şekilde ifade etmeleri bizleri oldukça mutlu etmiştir. " +
+        "Gösterilerin ardından düzenlenen geleneksel çocuk oyunları öğrencilerin etkinliklere daha aktif katılım göstermelerini sağlamıştır. " +
+        "Halat çekme, balon patlatmaca, sandalye kapmaca ve diğer oyunlar sayesinde öğrenciler hem eğlenmiş hem de arkadaşlarıyla güzel vakit geçirme fırsatı bulmuştur. " +
+        "Genel olarak değerlendirdiğimizde 23 Nisan etkinlikleri öğrencilerin sosyal gelişimlerine katkı sağlayan, birlik ve beraberlik duygusunu güçlendiren çok değerli bir deneyim olmuştur. " +
+        "Bizler de bu süreçte çocukların mutluluğuna ortak olmuş ve öğretmenlik mesleğinin sosyal yönünü daha yakından deneyimleme fırsatı bulmuş olduk.",
+    en:
+        "The activities organized within the scope of April 23rd National Sovereignty and Children's Day were a very exciting, enjoyable, and meaningful process for students. " +
+        "In this process, we aimed for students to gain awareness of national holidays, express themselves, and actively participate in social activities. " +
+        "During the preparation phase, we carried out classroom decoration activities with students. " +
+        "Thanks to these activities, students acted collaboratively and experienced the excitement of the celebration together. " +
+        "During the performances, students expressed themselves confidently through poems, songs, and various activities, which made us very happy. " +
+        "After the performances, traditional children's games were organized, allowing students to participate more actively. " +
+        "Games such as tug of war, balloon popping, and musical chairs allowed students to have fun and spend quality time with their friends. " +
+        "Overall, these activities were a valuable experience that contributed to students' social development and strengthened unity and togetherness. " +
+        "We also had the opportunity to share the children's happiness and experience the social aspect of teaching more closely."
+},
     images: [
-        "assets/images/placeholder.jpg"
+        "assets/images/bayram2.1.png",
+        "assets/images/bayram2.2.png",
+        "assets/images/bayram2.3.png",
+        "assets/images/bayram2.4.png",
+        "assets/images/bayram2.5.png",
     ],  
-    coverImage: "assets/images/placeholder.jpg"
+    coverImage: "assets/images/bayram2.1.png"
   },
 
 bayram3: {
