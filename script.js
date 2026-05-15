@@ -439,21 +439,77 @@ The school administration and teachers supported us throughout the process and p
     },  
 
     shortDesc: {
-        tr: "Trafik ve ilk yardım konularında etkinlik yapıldı.",
-        en: "Activities about traffic and first aid were conducted."
-    },
+    tr: "Halime Cemre Keleş, Selenay Deniz, Gülten Çapar, Gizem Düldül, Furkan Saygılı ve Dilan Oktay tarafından Hayate Hanım İlkokulu - Alanya Belediyesi Trafik Eğitim Merkezi’nde Trafik ve İlk Yardım Haftası kapsamında gerçekleştirilen etkinlikler.",
+    en: "Activities organized by Halime Cemre Keleş, Selenay Deniz, Gülten Çapar, Gizem Düldül, Furkan Saygılı, and Dilan Oktay at Hayate Hanım Primary School - Alanya Municipality Traffic Education Center within the scope of Traffic and First Aid Week."
+},
 
     longDesc: {
-        tr: "Öğrenciler trafik kuralları, ilk yardım teknikleri ve acil durum yönetimi konularında etkinlikler gerçekleştirdi.",
-        en: "Students engaged in activities about traffic rules, first aid techniques, and emergency management."
-    },
+    tr:
+        "Eğitimde Program Dışı Etkinlikler dersi kapsamında grup olarak Halime Cemre Keleş, Selenay Deniz, Gülten Çapar, Gizem Düldül, Furkan Saygılı ve Dilan Oktay ile birlikte Hayate Hanım İlkokulu bünyesinde çeşitli etkinlikler gerçekleştirdik. Bu süreçte Aslan Uslu öğretmenimizin 4. sınıf öğrencileriyle birlikte çalışarak etkinlikleri uygulama fırsatı bulduk. Öğrenciler etkinliklere gönüllü olarak katılmış, süreç boyunca oldukça istekli, aktif ve ilgili bir şekilde yer almışlardır. " +
+
+        "Trafik güvenliği etkinliği kapsamında okul seçiminde büyük bir sorun yaşamadık. Okulun fiziksel ortamı, öğrenci profili ve etkinlik için uygun alanlara sahip olması süreci kolaylaştırdı. Okul yönetimi gerekli izinler ve planlamalar konusunda destek sağladı. Öğretmenler ve idareciler iş birliği içinde çalışarak etkinliğin daha düzenli ve verimli ilerlemesine katkıda bulundu. " +
+
+        "Etkinliği seçmemizdeki en önemli motivasyon, öğrencilerin günlük yaşamda karşılaştıkları trafik kuralları konusunda bilinç kazanmalarını sağlamaktı. Küçük yaşta trafik farkındalığı oluşturmanın ileriki yaşamlarında daha dikkatli ve sorumlu bireyler yetişmesine katkı sağlayacağını düşündük. Drama, oyunlaştırma ve uygulamalı öğrenme yöntemlerinin kullanılması da etkinliği tercih etmemizde etkili oldu. " +
+
+        "Etkinlik sürecinde drama hazırlıkları, rol dağılımları, sunumlar, gezi organizasyonu, emniyet kemeri simülatörü etkinliği ve öğrenci yönlendirmeleri gibi görevler üstlendik. Trafik ışığı oyunu, trafik levhalarının incelenmesi, drama çalışmaları ve Trafik Eğitim Parkı gezisi ile öğrencilerin öğrenmeleri desteklendi. " +
+
+        "Öğrencilerin bilişsel ve duyuşsal motivasyonlarının oldukça yüksek olduğu gözlemlendi. Drama ve oyunlaştırılmış etkinlikler öğrencilerin dikkatini çekti ve aktif katılımı artırdı. Trafik polisi, sürücü ve yaya rolleri öğrencilerin empati kurmasına ve kuralların önemini anlamasına yardımcı oldu. " +
+
+        "Motivasyonu artırmak için oyunlaştırma teknikleri, görsel materyaller, trafik dedektifi rozetleri, slogan çalışmaları ve soru-cevap etkinlikleri kullanıldı. Öğrencilerin etkinliklere aktif katılımı sürekli desteklendi. " +
+
+        "Trafik Eğitim Parkı’nın fiziksel ve kurumsal ortamı etkinlik için uygun olup, gerekli materyal ve planlama desteği sağlandı. Güvenli ve destekleyici ortam sayesinde öğrenciler sürece aktif şekilde katılım gösterdi. " +
+
+        "Etkinliğin amaçlarına büyük ölçüde ulaşıldığı düşünülmektedir. Öğrencilerin trafik kurallarına yönelik bilgi düzeylerinde artış olduğu, özellikle yaya geçidi kullanımı, emniyet kemeri ve trafik ışıkları konularında bilinç geliştirdikleri gözlemlendi. Ayrıca iş birliği, iletişim ve sorumluluk alma becerilerinde gelişim görüldü. " +
+
+        "Etkinlik tekrar edilecek olursa zamanlama daha iyi planlanabilir, drama çalışmalarına daha fazla süre ayrılabilir ve bireysel katılımı artıracak uygulamalar eklenebilir. Gezi süresinin uzatılması da uygulamalı öğrenmeyi güçlendirebilir. " +
+
+        "Öğrenciler etkinliklerin eğlenceli geçtiğini ifade etmiş, özellikle drama ve trafik parkı gezisinden etkilendiklerini belirtmişlerdir. Bazı öğrenciler trafik kurallarına günlük yaşamlarında daha fazla dikkat edeceklerini söylemiştir. " +
+
+        "Bu süreç, öğrencilerin yaparak ve yaşayarak öğrenme ile bilgiyi daha kalıcı edindiğini göstermiştir. Aynı zamanda etkinlik planlama, sınıf yönetimi ve iletişim becerilerinin gelişmesine katkı sağlamıştır. " +
+
+        "Zaman yönetimi konusunda geliştirilmesi gereken noktalar olduğu, özellikle uygulamalı etkinliklerde sürenin daha dengeli planlanması gerektiği fark edilmiştir. " +
+
+        "Genel olarak etkinlik sürecinin başarılı olduğu, öğrencilerin aktif katılım gösterdiği ve trafik güvenliği konusunda farkındalık kazandıkları sonucuna ulaşılmıştır.",
+
+    en:
+        "Within the scope of the Educational Out-of-Class Activities course, our group consisting of Halime Cemre Keleş, Selenay Deniz, Gülten Çapar, Gizem Düldül, Furkan Saygılı and Dilan Oktay carried out various activities at Hayate Hanım Primary School. During this process, we had the opportunity to implement the activities by working with 4th grade students under the guidance of our teacher Aslan Uslu. Students participated voluntarily and were highly motivated, active, and engaged throughout the process. " +
+
+        "We did not encounter any significant problems during the school selection process for the traffic safety activity. The school’s physical environment, student profile, and suitable activity areas facilitated the process. The school administration supported us with necessary permissions and planning. Teachers and administrators worked collaboratively, ensuring a more organized and efficient implementation. " +
+
+        "The main motivation for choosing this activity was to raise students’ awareness of traffic rules they encounter in daily life. We believed that early awareness of traffic safety would contribute to raising more responsible individuals in later life. The use of drama, gamification, and hands-on learning methods also played an important role in our choice. " +
+
+        "During the process, we took part in drama preparation, role distribution, presentations, trip organization, seatbelt simulator activity, and student guidance tasks. Activities such as traffic light games, traffic sign analysis, drama exercises, and the Traffic Education Park visit supported students’ learning. " +
+
+        "Students’ cognitive and affective motivation was observed to be very high. Drama and gamified activities attracted students’ attention and increased active participation. Role-playing as police officers, drivers, and pedestrians helped students develop empathy and understand the importance of rules. " +
+
+        "To increase motivation, we used gamification techniques, visual materials, traffic detective badges, slogan activities, and question-answer sessions. Students were continuously encouraged to participate actively. " +
+
+        "The Traffic Education Park provided a suitable physical and institutional environment, with necessary materials and planning support. Thanks to the safe and supportive environment, students actively participated in the activities. " +
+
+        "The objectives of the activity were largely achieved. Students showed improvement in their knowledge of traffic rules, especially regarding pedestrian crossings, seatbelt use, and traffic lights. In addition, improvements were observed in cooperation, communication, and responsibility-taking skills. " +
+
+        "If the activity were to be repeated, better time management could be implemented, more time could be allocated to drama activities, and additional individual participation tasks could be included. Extending the visit duration could also enhance experiential learning. " +
+
+        "Students reported that the activities were enjoyable and were especially impressed by the drama and Traffic Park visit. Some students stated that they would pay more attention to traffic rules in their daily lives. " +
+
+        "This experience showed that students learn more permanently through learning by doing and experiencing. It also contributed to the development of skills in activity planning, classroom management, and communication. " +
+
+        "It was observed that time management needs improvement, especially in balancing time during practical activities. " +
+
+        "Overall, the activity process was successful, students participated actively, and they gained awareness of traffic safety."
+},
 
     images: [
-        "assets/images/placeholder.jpg",
-        "assets/images/placeholder.jpg"
+        "assets/images/etkinlik7.1.png",
+        "assets/images/etkinlik7.2.png",
+        "assets/images/etkinlik7.3.png",
+        "assets/images/etkinlik7.4.png",
+        "assets/images/etkinlik7.5.png",
+        "assets/images/etkinlik7.6.png",
+        "assets/images/etkinlik7.7.png",
     ],      
 
-    coverImage: "assets/images/placeholder.jpg"
+    coverImage: "assets/images/etkinlik7.1.png"
   }, 
 
 
@@ -662,18 +718,73 @@ bayram4: {
         tr: "23 Nisan", 
         en: "April 23rd"
     },  
-    shortDesc: {
-        tr: "Ulusal Egemenlik ve Çocuk Bayramı",
-        en: "National Sovereignty and Children's Day"
-    },
-    longDesc: {
-        tr: "Okul etkinlikleri ile kutlandı.",
-        en: "Celebrated with school activities."
-    },
+ shortDesc: {
+    tr: "Halime Cemre Keleş, Selenay Deniz, Gülten Çapar, Gizem Düldül, Furkan Saygılı ve Dilan Oktay tarafından Hayate Hanım İlkokulu’nda 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı kapsamında gerçekleştirilen etkinlikler.",
+    en: "Activities organized by Halime Cemre Keleş, Selenay Deniz, Gülten Çapar, Gizem Düldül, Furkan Saygılı, and Dilan Oktay at Hayate Hanım Primary School within the scope of April 23rd National Sovereignty and Children's Day."
+},
+longDesc: {
+    tr:
+        "Gerçekleştirdiğimiz 23 Nisan etkinliği kapsamında okul seçimi sürecinde önemli bir sorun yaşamadık. Etkinliği uygulayacağımız sınıf ortamı öğrencilerin rahat hareket edebileceği ve etkinlikleri kolaylıkla yapabileceği bir yapıya sahipti. Okul yönetimi de süreç boyunca bize destek oldu. Sınıfın hazırlanması, gerekli materyallerin sağlanması ve etkinlik planlaması konusunda yardımcı oldular. Öğretmenlerin iş birliği içerisinde olması da etkinliğin daha düzenli ilerlemesini sağladı. " +
+
+        "Bu etkinliği seçmemizdeki en önemli nedenlerden biri, öğrencilerin 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı’nın anlam ve önemini eğlenerek öğrenmelerini istememizdi. Çocukların hem milli bayram bilinci kazanmalarını hem de arkadaşlarıyla birlikte keyifli vakit geçirmelerini amaçladık. Ayrıca etkinliklerin oyun, drama, ritim çalışmaları ve halk oyunları gibi öğrencilerin aktif katılım gösterebileceği uygulamalardan oluşması bizi bu etkinliği seçmeye motive etti. " +
+
+        "Etkinlik sürecinde sınıf süsleme çalışmaları, ritim oyunu, eğlence kesesi etkinliği, sessiz sinema oyunu ve halk oyunu etkinliklerinde görev aldık. Öncelikle sınıfı 23 Nisan ruhuna uygun şekilde bayraklar ve balonlarla süsledik. Daha sonra ritim etkinlikleriyle öğrencilerin dikkat ve dinleme becerilerini destekledik. Eğlence kesesi etkinliğinde öğrencilerin kendilerini özgürce ifade etmelerine fırsat verdik. Sessiz sinema oyununda öğrenciler beden diliyle anlatım yaptı, halk oyunu etkinliğinde ise kültürel değerlerimizi eğlenceli bir şekilde öğrencilere aktarmaya çalıştık. Etkinlik sonunda öğrenciler küçük bir gösteri yaparak öğrendiklerini sergilediler. " +
+
+        "Öğrencilerin etkinliklere karşı bilişsel ve duyuşsal motivasyonlarının oldukça yüksek olduğunu gözlemledik. Özellikle oyun temelli etkinlikler öğrencilerin dikkatini çekti ve derse aktif katılım göstermelerini sağladı. Öğrenciler etkinlik boyunca heyecanlı, mutlu ve öğrenmeye istekliydi. Grup çalışmalarında birlikte hareket etmeleri onların sosyal iletişimlerini güçlendirdi ve özgüven kazanmalarına katkı sağladı. " +
+
+        "Öğrenci motivasyonunu artırmak için sınıf ortamını görsel olarak düzenledik, müzik kullandık ve etkinlikleri eğlenceli hale getirmeye çalıştık. Her öğrencinin etkinlik sürecinde aktif rol almasına dikkat ettik. Ayrıca öğrencilerin duygu ve düşüncelerini rahatça ifade edebilmeleri için soru-cevap etkinliklerine yer verdik ve süreç boyunca onları destekledik. " +
+
+        "Okul atmosferi etkinlik için oldukça uygundu. Okul yönetimi bize materyal desteği sağladı ve etkinlik sürecinin planlanmasında yardımcı oldu. Sınıf ortamının uygun olması öğrencilerin etkinliklere rahat katılmasını sağladı. Öğretmenlerin öğrencilere rehberlik etmesi ve olumlu iletişim kurması da süreci olumlu etkiledi. " +
+
+        "Etkinliğin amaçlarına büyük ölçüde ulaştığını düşünüyoruz. Öğrenciler 23 Nisan’ın anlam ve önemini daha iyi kavradılar ve milli bayramlara yönelik farkındalık kazandılar. Bunun yanında öğrencilerin iletişim kurma, iş birliği yapma, kendilerini ifade etme ve grup içinde sorumluluk alma becerilerinin geliştiğini gözlemledik. Özellikle halk oyunları ve ritim etkinlikleri öğrencilerin kültürel farkındalıklarını artırdı. " +
+
+        "Aynı etkinliği tekrar yapacak olsaydık, öğrencilere bireysel katılım sağlayabilecek daha fazla etkinlik planlayabilirdik. Özellikle halk oyunları ve ritim etkinliklerine daha fazla süre ayırmanın öğrenciler açısından daha verimli olacağını düşünüyoruz. Bunun yanında farklı görsel materyaller ve küçük yarışmalar eklenerek öğrencilerin ilgisi daha da artırılabilirdi. " +
+
+        "Etkinlik sürecinde ve sonrasında öğrencilerden oldukça olumlu dönütler aldık. Öğrenciler özellikle sessiz sinema oyunu, eğlence kesesi etkinliği ve halk oyunlarını çok sevdiklerini söylediler. Etkinliklerin eğlenceli geçtiğini ifade etmeleri onların derse karşı olumlu tutum geliştirdiklerini gösterdi. Bazı öğrencilerin etkinlik sonrasında öğrendikleri halk oyunu figürlerini tekrar etmek istemeleri de öğrenmenin kalıcı olduğunu gösterdi. " +
+
+        "Bu deneyim bize öğrencilerin eğlenerek öğrendiklerinde derse karşı daha motive olduklarını ve öğrenmelerinin daha kalıcı hale geldiğini gösterdi. Aynı zamanda etkinlik planlama, grup yönetimi ve öğrencilerle etkili iletişim kurma konusunda önemli deneyimler kazandık. Öğrencilerin aktif katılımının öğrenme sürecini olumlu etkilediğini daha iyi fark ettik. " +
+
+        "Kendimizde geliştirmemiz gerektiğini düşündüğümüz yönlerden biri zaman yönetimi oldu. Bazı etkinliklerde öğrencilerin ilgisi çok yüksek olduğu için süre planlamasında küçük aksaklıklar yaşadık. Ayrıca daha fazla öğrenciye bireysel söz hakkı verilmesinin süreci daha etkili hale getirebileceğini düşündük. " +
+
+        "Bu etkinliklerin öğrencilerin iletişim becerilerini, özgüvenlerini, iş birliği yapma becerilerini, ritim duygularını ve kendilerini ifade etme yönlerini ön plana çıkardığını düşünüyoruz. Özellikle grup etkinliklerinde öğrencilerin birbirlerine destek olmaları sosyal gelişimleri açısından olumlu sonuçlar ortaya çıkardı. Drama, oyun ve halk oyunları etkinlikleri öğrencilerin hem eğlenmelerini hem de kültürel değerleri öğrenmelerini sağladı. " +
+
+        "Genel olarak değerlendirdiğimizde etkinlik sürecinde başarılı olduğumuzu düşünüyoruz. Öğrencilerin etkinliklere aktif katılım göstermesi, etkinliklerden keyif almaları ve süreç sonunda olumlu geri bildirimlerde bulunmaları etkinliğin amacına ulaştığını gösterdi. Eğlenceli, öğretici ve öğrenci merkezli bir öğrenme ortamı oluşturabilmiş olmamız etkinliğin en başarılı yönlerinden biri oldu. " +
+
+        "Ayrıca etkinlik sonunda öğrencilerin öğrendiklerini günlük yaşamla ilişkilendirebildikleri ve kendilerini daha rahat ifade ettikleri görüldü. Bu durum etkinliklerin amacına ulaştığını ve sürecin verimli geçtiğini göstermektedir.",
+
+    en:
+        "We did not encounter any significant problems during the school selection process for the April 23rd activities we carried out. The classroom environment where we implemented the activities was suitable for students to move comfortably and easily participate in activities. The school administration also supported us throughout the process. They assisted with classroom preparation, provision of materials, and activity planning. The cooperation among teachers ensured a more organized implementation process. " +
+
+        "One of the main reasons for choosing this activity was our aim to help students learn the meaning and importance of April 23rd National Sovereignty and Children's Day in an enjoyable way. We aimed for students to gain national holiday awareness and spend enjoyable time with their friends. Additionally, the fact that the activities included games, drama, rhythm work, and folk dances motivated us to choose this program. " +
+
+        "During the process, we took part in classroom decoration activities, rhythm games, activity bag games, silent cinema, and folk dance activities. First, we decorated the classroom with flags and balloons suitable for the spirit of April 23rd. Then we supported students’ attention and listening skills through rhythm activities. In the activity bag session, we gave students the opportunity to express themselves freely. In the silent cinema game, students used body language for expression, and in the folk dance activity, we aimed to introduce cultural values in an enjoyable way. At the end of the activities, students presented a small performance showcasing what they learned. " +
+
+        "We observed that students’ cognitive and affective motivation towards the activities was very high. Especially game-based activities attracted students’ attention and increased their active participation. Students were excited, happy, and eager to learn throughout the process. Group work improved their social communication and contributed to their self-confidence. " +
+
+        "To increase student motivation, we visually arranged the classroom, used music, and tried to make activities more enjoyable. We ensured that every student had an active role. We also included question-answer activities to help students express their thoughts and feelings comfortably. " +
+
+        "The school atmosphere was highly suitable for the activities. The administration provided material support and assisted in planning the process. The appropriate classroom environment allowed students to participate comfortably. Teachers’ guidance and positive communication also had a positive impact on the process. " +
+
+        "We believe the objectives of the activity were largely achieved. Students gained a better understanding of April 23rd and developed awareness of national holidays. We also observed improvements in communication, cooperation, self-expression, and responsibility-taking skills. Folk dances and rhythm activities especially increased cultural awareness. " +
+
+        "If we were to repeat the same activity, we would plan more activities allowing individual student participation. We also believe allocating more time to folk dance and rhythm activities would be more efficient. Additionally, adding visual materials and small competitions could further increase student engagement. " +
+
+        "We received very positive feedback from students during and after the activities. They especially said they enjoyed silent cinema, activity bag games, and folk dances. Their positive statements showed that they developed a favorable attitude toward learning. Some students even wanted to repeat the folk dance figures they learned, which shows that learning was permanent. " +
+
+        "This experience showed us that students become more motivated and learn more permanently when they enjoy the learning process. We also gained important experience in activity planning, group management, and effective communication with students. We realized that active student participation positively affects learning. " +
+
+        "One area we need to improve is time management. In some activities, small disruptions occurred due to high student interest. We also think giving more individual speaking opportunities would make the process more effective. " +
+
+        "We believe these activities improved students’ communication skills, self-confidence, cooperation abilities, rhythm sense, and self-expression skills. Especially in group activities, students supporting each other led to positive social development outcomes. Drama, games, and folk dance activities allowed students to both enjoy themselves and learn cultural values. " +
+
+        "Overall, we consider the process successful. Students’ active participation, enjoyment, and positive feedback show that the objectives were achieved. Creating an enjoyable, educational, and student-centered learning environment was one of the most successful aspects of the activity. " +
+
+        "Finally, students were able to relate what they learned to daily life and express themselves more comfortably, which shows the effectiveness of the activities."
+},
     images: [
-        "assets/images/placeholder.jpg"
+        "assets/images/bayram4.1.png",
     ],  
-    coverImage: "assets/images/placeholder.jpg"
+    coverImage: "assets/images/bayram4.1.png"
   },
 bayram5: {  
     category: "gallery2",
