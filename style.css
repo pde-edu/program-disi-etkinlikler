@@ -7,7 +7,6 @@ body {
   background-position: center; 
   background-attachment: fixed; 
 }
-/* ================= HEADER ================= */
 header {
   display: flex;
   justify-content: space-between;
@@ -19,6 +18,10 @@ header {
 .left-names {
   font-weight: bold;
   color: #6a4e77;
+}
+
+.logo-area {
+  text-align: center;
 }
 
 .logo-area img {
@@ -34,7 +37,6 @@ header {
   cursor: pointer;
 }
 
-/* ================= HERO ================= */
 .hero {
   text-align: center;
   padding: 40px;
@@ -45,330 +47,34 @@ h1 {
   color: #6a4e77;
 }
 
-
-/* ================= GALLERY SECTION ================= */
 .gallery-section {
-  padding: 80px 10%;
-  background: #f4f6f8;
+  padding: 40px;
 }
 
 .gallery-section h2 {
-  margin-bottom: 25px;
-  font-weight: 600;
-  color: #2f2f2f;
+  color: #ff8fab;
 }
 
-/* ================= WRAPPER ================= */
-.scroll-wrapper {
-  position: relative;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 10px;
-}
-
-/* ================= HORIZONTAL SCROLL ================= */
-.horizontal-scroll {
-  display: flex;
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   gap: 20px;
-  overflow-x: auto;
-  scroll-behavior: smooth;
-  scroll-snap-type: x mandatory;
-  -webkit-overflow-scrolling: touch;
-  padding: 10px 0;
-
-  width: 100%;
 }
 
-.horizontal-scroll::-webkit-scrollbar {
-  display: none;
-}
-
-/* ================= CARD ================= */
 .card {
-  position: relative;
-  display: flex;
-  min-width: 300px;
-  height: 200px;
-  align-items: center;
-  justify-content: center;
-  flex-shrink: 0;
+  overflow: hidden;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
   cursor: pointer;
-  transition: transform 0.35s ease, box-shadow 0.35s ease;
-  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
-  background: #fff;
-  scroll-snap-align: start;
-}
-
-.card:hover {
-  transform: scale(1.05);
-  transition: 0.3s;
-  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.18);
 }
 
 .card img {
   width: 100%;
-  height: 100%;
+  height: 200px;
   object-fit: cover;
-  transition: transform 0.4s ease;
+  transition: transform 0.3s ease;
 }
 
 .card:hover img {
-  transform: scale(1.08);
+  transform: scale(1.12);
 }
-
-/* ================= OVERLAY ================= */
-.overlay {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  padding: 12px;
-
-  display: flex;
-  align-items: flex-end;
-  justify-content: center;
-
-  text-align: center;
-
-  background: linear-gradient(to top, rgba(0,0,0,0.7), transparent);
-  color: white;
-  font-size: 15px;
-
-  opacity: 0;
-  transition: opacity 0.3s ease;
-}
-
-.card:hover .overlay {
-  opacity: 1;
-}
-
-/* ================= SCROLL BUTTONS ================= */
-.scroll-btn {
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  z-index: 10;
-  background: rgba(0,0,0,0.6);
-  color: white;
-  border: none;
-  padding: 10px;
-  cursor: pointer;
-  border-radius: 50%;
-  transition: 0.3s;
-}
-
-.scroll-btn.left {
-  left: 10px;
-}
-
-.scroll-btn.right {
-  right: 10px;
-}
-
-/* ================= ABOUT ================= */
-.about-card {
-  background: #fff5e1;
-  padding: 50px 60px;
-  border-radius: 20px;
-  max-width: 1000px;
-
-  margin: 0 auto;   /* 🔥 ASIL FIX */
-
-  text-align: center;
-
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-
-  box-shadow: 0 15px 35px rgba(132, 98, 148, 0.12);
-  line-height: 1.8;
-}
-.about-card h2,
-.about-card h3 {
-  text-align: center;
-}
-
-.about-title {
-  font-size: 30px;
-  margin-bottom: 25px;
-  color: #6a4e77;
-}
-
-.about-card p {
-  margin-bottom: 22px;
-  text-align: center;
-  font-size: 17px;
-  color: #555;
-}
-
-/* ================= MODAL ================= */
-.modal {
-  display: none;
-  position: fixed;
-  z-index: 999;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(0,0,0,0.85);
-
-  align-items: center;
-  justify-content: center;
-}
-
-.modal.show {
-  display: flex;
-}
-
-.modal-content {
-  max-width: 95vw;
-  max-height: 92vh;
-  width: auto;
-  height: auto;
-  object-fit: contain;
-  border-radius: 12px;
-}
-
-.modal-text {
-  text-align: center;
-  color: white;
-  margin-top: 15px;
-}
-
-.close {
-  position: absolute;
-  top: 20px;
-  right: 30px;
-  color: white;
-  font-size: 32px;
-  cursor: pointer;
-  z-index: 1000;
-}
-
-/* ================= MOBILE ================= */
-@media (max-width: 768px) {
-
-  header {
-    flex-direction: column;
-    gap: 10px;
-    text-align: center;
-  }
-
-  .hero {
-    padding: 30px 20px;
-  }
-
-  h1 {
-    font-size: 22px;
-  }
-
-  .gallery-section {
-    padding: 50px 20px;
-  }
-
-  .card {
-    min-width: 85%;
-    height: 220px;
-  }
-
-  .scroll-btn {
-    display: none;
-  }
-
-  .about-card {
-    padding: 30px 20px;
-  }
-
-  .about-title {
-    font-size: 22px;
-  }
-}
-
-/* ================= TOUCH OPTIMIZATION ================= */
-@media (hover: none) {
-  .card:hover {
-    transform: none;
-  }
-
-  .overlay {
-    opacity: 1;
-  }
-}
-
-#detailGallery {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center; /* YATAY ORTA */
-  gap: 20px;
-  margin-top: 30px;
-}
-
-#detailGallery img {
-  width: 250px;
-  height: auto;
-  object-fit: cover;
-  border-radius: 14px;
-  transition: 0.3s;
-}
-
-#detailGallery img:hover {
-  transform: scale(1.03);
-}
-
-#detailTitle {
-  text-align: center;
-  margin-top: 30px;
-}
-
-#detailText {
-  max-width: 800px;
-  margin: 20px auto;
-  text-align: center;
-  line-height: 1.6;
-}
-
-.modal {
-  display: none;
-  position: fixed;
-  z-index: 9999;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background: rgba(0,0,0,0.8);
-  justify-content: center;
-  align-items: center;
-}
-.modal img {
-  max-width: 80%;
-  max-height: 80%;
-}
-
-.modal .close {
-  position: absolute;
-  top: 20px;
-  right: 30px;
-  font-size: 35px;
-  color: white;
-  cursor: pointer;
-}
-.modal.show {
-  display: flex;
-}
-
-.modal-content {
-  max-width: 80%;
-  max-height: 80%;
-  border-radius: 10px;
-}
-
-.close {
-  position: absolute;
-  top: 20px;
-  right: 30px;
-  color: white;
-  font-size: 35px;
-  cursor: pointer;
-}
-
