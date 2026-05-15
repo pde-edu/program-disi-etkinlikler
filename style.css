@@ -338,3 +338,50 @@ background: linear-gradient(
 
   box-shadow: 0 4px 14px rgba(0,0,0,0.1);
 }
+/* =========================
+   DETAY SAYFASI YAZI BLOKLARI
+========================= */
+
+#detailTitle,
+#detailText {
+  max-width: 900px;
+  margin: 30px auto;
+  text-align: center;
+
+  background: rgba(255, 255, 255, 0.88);
+
+  padding: 30px;
+
+  border-radius: 22px;
+
+  border: 2px solid #d6dce8;
+
+  box-shadow: 0 8px 25px rgba(0,0,0,0.08);
+}
+
+/* Başlık */
+
+#detailTitle {
+  font-size: 42px;
+  color: #2f3b52;
+
+  background: linear-gradient(
+    135deg,
+    rgba(235,240,248,0.95),
+    rgba(255,255,255,0.95)
+  );
+}
+
+/* Açıklama */
+
+#detailText {
+  font-size: 18px;
+  line-height: 1.9;
+  color: #4b5563;
+
+  background: linear-gradient(
+    135deg,
+    rgba(248,250,252,0.96),
+    rgba(236,242,248,0.96)
+  );
+}
