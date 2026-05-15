@@ -1,4 +1,4 @@
-body {
+ body {
   margin: 0;
 -webkit-font-smoothing: antialiased;
   font-family: 'Inter', sans-serif;
@@ -18,7 +18,12 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
+position: sticky;
+  top: 0;
 
+  z-index: 999;
+
+  backdrop-filter: blur(16px);
   padding: 18px 40px;
 
   background: rgba(15, 23, 42, 0.92);
@@ -119,6 +124,7 @@ h1 {
 }
 
 .card img {
+  will-change: transform;
   width: 100%;
   height: 200px;
   object-fit: cover;
@@ -201,7 +207,7 @@ background: linear-gradient(
    transition:
     transform 0.25s ease,
     background 0.25s ease;
-}
+
   backdrop-filter: blur(10px);
 
   background: rgba(255,255,255,0.75);
@@ -1032,4 +1038,17 @@ header {
 
 .gallery-section > div {
   margin-bottom: 80px;
+}
+.fade-up {
+  opacity: 0;
+  transform: translateY(40px);
+
+  transition:
+    opacity 0.8s ease,
+    transform 0.8s ease;
+}
+
+.fade-up.show {
+  opacity: 1;
+  transform: translateY(0);
 }

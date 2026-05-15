@@ -4,10 +4,11 @@ let currentLang = "tr";
    DİL DEĞİŞTİRME
 ========================= */
 function setLanguage(lang) {
-      renderAllGalleries(); // 🔥 BU ŞART
 
     currentLang = lang;
     localStorage.setItem("selectedLang", lang);
+
+    renderAllGalleries();
 
     const sections = ["about", "hero", "gallery1", "gallery2", "gallery3"];
     sections.forEach(section => {
@@ -894,21 +895,21 @@ odoo3: {
 
 function renderAllGalleries() {
 
- const groups = {
-  tr: {
-    gallery1: "gallery1-tr-container",
-    gallery2: "gallery2-tr-container",
-    gallery3: "gallery3-tr-container"
-  },
+  const groups = {
+    tr: {
+      gallery1: "gallery1-tr-container",
+      gallery2: "gallery2-tr-container",
+      gallery3: "gallery3-tr-container"
+    },
+    en: {
+      gallery1: "gallery1-en-container",
+      gallery2: "gallery2-en-container",
+      gallery3: "gallery3-en-container"
+    }
+  };
 
-  en: {
-    gallery1: "gallery1-en-container",
-    gallery2: "gallery2-en-container",
-    gallery3: "gallery3-en-container"
-  }
-};
-
-   Object.values(groups.tr).forEach(id => {
+  // 🔹 Önce tüm container'ları temizle (güvenli)
+  Object.values(groups.tr).forEach(id => {
     const el = document.getElementById(id);
     if (el) el.innerHTML = "";
   });
@@ -926,10 +927,13 @@ function renderAllGalleries() {
 
     const container = document.getElementById(containerId);
 
-    if (!container) return;
+    // 🔴 GÜVENLİK KALKANI (EN ÖNEMLİ SATIR)
+    if (!container) {
+      console.warn("Container bulunamadı:", containerId);
+      return;
+    }
 
     const card = document.createElement("div");
-
     card.className = "card";
 
     card.onclick = () => openModal(card, id);
@@ -970,9 +974,12 @@ document.querySelectorAll("section").forEach(section => {
   section.classList.add("fade-up");
   observer.observe(section);
 });
-window.addEventListener("load", () => {
+document.addEventListener("DOMContentLoaded", () => {
 
   const loader = document.getElementById("loader");
+
+  // 🔥 GÜVENLİK: loader var mı kontrol et
+  if (!loader) return;
 
   loader.style.opacity = "0";
 
@@ -983,13 +990,5 @@ window.addEventListener("load", () => {
 });
 
 const fadeElements = document.querySelectorAll(".fade-up");
-
-const observer = new IntersectionObserver((entries) => {
-  entries.forEach(entry => {
-    if(entry.isIntersecting){
-      entry.target.classList.add("show");
-    }
-  });
-});
 
 fadeElements.forEach(el => observer.observe(el));
