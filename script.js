@@ -956,3 +956,40 @@ function openImageModal(src) {
 function closeImageModal() {
   document.getElementById("imageModal").style.display = "none";
 }
+const observer = new IntersectionObserver(entries => {
+  entries.forEach(entry => {
+    if(entry.isIntersecting){
+      entry.target.classList.add("show");
+    }
+  });
+}, {
+  threshold: 0.15
+});
+
+document.querySelectorAll("section").forEach(section => {
+  section.classList.add("fade-up");
+  observer.observe(section);
+});
+window.addEventListener("load", () => {
+
+  const loader = document.getElementById("loader");
+
+  loader.style.opacity = "0";
+
+  setTimeout(() => {
+    loader.style.display = "none";
+  }, 500);
+
+});
+
+const fadeElements = document.querySelectorAll(".fade-up");
+
+const observer = new IntersectionObserver((entries) => {
+  entries.forEach(entry => {
+    if(entry.isIntersecting){
+      entry.target.classList.add("show");
+    }
+  });
+});
+
+fadeElements.forEach(el => observer.observe(el));
