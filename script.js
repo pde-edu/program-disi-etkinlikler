@@ -614,19 +614,22 @@ longDesc: {
         en: "Tourism Week"
     },  
     shortDesc: {
-        tr: "Turizm haftası etkinliği yapıldı.",
-        en: "An event was held for Tourism Week."
-    },
+    tr: "Helen Yücedağ, Seda Kurtay, Edanur Koluman, Rojin Akman ve Arzu Akkuş tarafından Fatma Özmüftüoğlu İlkokulu’nda Turizm Haftası kapsamında gerçekleştirilen etkinlikler.",
+    en: "Activities organized by Helen Yücedağ, Seda Kurtay, Edanur Koluman, Rojin Akman, and Arzu Akkuş at Fatma Özmüftüoğlu Primary School within the scope of Tourism Week."
+},
 
     longDesc: {     
         tr: "Bu etkinlikte öğrenciler turizmin önemini öğrendi, grup çalışmaları yaptı ve gezi düzenledi.",
         en: "In this event, students learned about the importance of tourism, worked in groups, and organized a trip."
     },
     images: [
-        "assets/images/placeholder.jpg",
-        "assets/images/placeholder.jpg"
+        "assets/images/etkinlik10.1.png",
+        "assets/images/etkinlik10.2.png",
+        "assets/images/etkinlik10.3.png",
+        "assets/images/etkinlik10.4.png",
+        "assets/images/etkinlik10.5.png",
     ],
-    coverImage: "assets/images/placeholder.jpg"
+    coverImage: "assets/images/etkinlik10.1.png"
     },
 
     etkinlik11: {
@@ -1055,26 +1058,6 @@ odoo1: {
   },
 
 odoo2: {
-    category: "gallery3",
-    title: {
-        tr: "Kale Gezisi ve Film İncelemesi Etkinliği",
-        en: "Castle Visit and Movie Review Activity"
-    },  
-    shortDesc: {
-        tr: "Kale gezisi ve film incelemesi etkinliği yapıldı.",
-        en: "A castle visit and movie review activity was held."
-    },
-    longDesc: {
-        tr: "Bu etkinlikte öğrenciler tarihi bir kaleyi gezdi, ardından kaleyle ilgili bir film izleyerek inceleme yaptı.",
-        en: "In this activity, students toured a historical castle and then watched a related movie for review."
-    },  
-    images: [
-        "assets/images/placeholder.jpg"
-    ],  
-    coverImage: "assets/images/placeholder.jpg"
- },
-
-odoo3: {
     category: "gallery3",
     title: {
         tr: "Halk Oyunları Etkinliği",
