@@ -61,13 +61,28 @@ header {
 }
 
 .hero {
+  padding: 70px 20px;
+  display: flex;
+  justify-content: center;
+}
+
+#hero-tr,
+#hero-en {
+  max-width: 1000px;
   text-align: center;
 
-  padding: 90px 40px;
+  background: rgba(255,255,255,0.88);
 
-  background: rgba(255,255,255,0.82);
+  padding: 45px;
+  border-radius: 24px;
 
-  backdrop-filter: blur(6px);
+  border: 1px solid rgba(255,255,255,0.6);
+
+  box-shadow:
+    0 10px 30px rgba(0,0,0,0.08),
+    0 2px 8px rgba(0,0,0,0.04);
+
+  backdrop-filter: blur(8px);
 }
 
 h1 {
@@ -384,4 +399,54 @@ background: linear-gradient(
     rgba(248,250,252,0.96),
     rgba(236,242,248,0.96)
   );
+}
+.about-section {
+  display: flex;
+  justify-content: center;
+  padding: 30px 20px 70px;
+}
+
+.about-card {
+  max-width: 1100px;
+
+  background: rgba(255,255,255,0.90);
+
+  padding: 50px;
+
+  border-radius: 26px;
+
+  border: 1px solid rgba(255,255,255,0.7);
+
+  box-shadow:
+    0 12px 35px rgba(0,0,0,0.08),
+    0 2px 8px rgba(0,0,0,0.04);
+
+  backdrop-filter: blur(8px);
+
+  text-align: center;
+
+  line-height: 1.9;
+}
+
+.about-title {
+  font-size: 34px;
+  margin-bottom: 30px;
+  color: #2f3e46;
+}
+
+.about-card p {
+  font-size: 18px;
+  color: #4b5563;
+  margin-bottom: 24px;
+}
+.hero h1,
+.about-title {
+  font-weight: 700;
+  letter-spacing: 0.5px;
+}
+
+.hero p {
+  font-size: 18px;
+  line-height: 1.9;
+  color: #4b5563;
 }
