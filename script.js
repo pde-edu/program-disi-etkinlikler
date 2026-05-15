@@ -201,9 +201,11 @@ event.images.forEach(img => {
   const image = document.createElement("img");
   image.src = img;
 
-  image.style.cursor = "pointer"; // el işareti
+  image.style.cursor = "pointer";
 
-  image.onclick = () => openImageModal(img); // 🔥 BÜYÜTME
+  image.onclick = function () {
+    openImageModal(img);
+  };
 
   gallery.appendChild(image);
 });
@@ -354,7 +356,7 @@ etkinlik4: {
         "assets/images/placeholder.jpg"
     ],      
 
-    coverImage: "assets/images/placeholder.jpg"
+    coverImage: "assets/images/etkinlik5.1.png"
   }, 
 
      etkinlik6: {
@@ -899,9 +901,9 @@ function openImageModal(src) {
   const modalImg = document.getElementById("modalImg");
 
   modalImg.src = src;
-  modal.classList.add("show");
+  modal.style.display = "flex";
 }
 
 function closeImageModal() {
-  document.getElementById("imageModal").classList.remove("show");
+  document.getElementById("imageModal").style.display = "none";
 }
