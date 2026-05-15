@@ -292,7 +292,7 @@ göstermiştir.`,
 During the activity process, games such as milk-drinking competition, egg carrying race, handkerchief capture, sack race, and musical chairs helped students both enjoy themselves and improve their social skills. The high excitement and motivation of students during the games made us very happy.
 Throughout the activities, it was observed that students developed positive skills in teamwork, sharing, cooperation, and healthy competition. At the end of the process, the award ceremony, medals, and participation certificates increased students’ interest and became an unforgettable memory for them.
 Overall, World Health Week activities were an educational, enjoyable, and memorable experience for both students and us. This process showed us how important effective communication with students and learning through enjoyment is.`
-}
+},
 
     images: [
       "assets/images/etkinlik2.1.png",
@@ -624,9 +624,6 @@ bayram2: {
     images: [
         "assets/images/bayram2.1.png",
         "assets/images/bayram2.2.png",
-        "assets/images/bayram2.3.png",
-        "assets/images/bayram2.4.png",
-        "assets/images/bayram2.5.png",
     ],  
     coverImage: "assets/images/bayram2.1.png"
   },
