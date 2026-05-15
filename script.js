@@ -894,32 +894,44 @@ odoo3: {
 
 function renderAllGalleries() {
 
-  const groups = {
+ const groups = {
+  tr: {
     gallery1: "gallery1-tr-container",
     gallery2: "gallery2-tr-container",
-    gallery3: "gallery3-tr-container",
+    gallery3: "gallery3-tr-container"
+  },
 
-    gallery1_en: "gallery1-en-container",
-    gallery2_en: "gallery2-en-container",
-    gallery3_en: "gallery3-en-container"
-  };
+  en: {
+    gallery1: "gallery1-en-container",
+    gallery2: "gallery2-en-container",
+    gallery3: "gallery3-en-container"
+  }
+};
 
-  Object.values(groups).forEach(id => {
+   Object.values(groups.tr).forEach(id => {
+    const el = document.getElementById(id);
+    if (el) el.innerHTML = "";
+  });
+
+  Object.values(groups.en).forEach(id => {
     const el = document.getElementById(id);
     if (el) el.innerHTML = "";
   });
 
   Object.keys(events).forEach(id => {
+
     const event = events[id];
 
-    const langSuffix = currentLang === "tr" ? "" : "_en";
-    const containerId = groups[event.category + langSuffix];
+    const containerId = groups[currentLang][event.category];
 
     const container = document.getElementById(containerId);
+
     if (!container) return;
 
     const card = document.createElement("div");
+
     card.className = "card";
+
     card.onclick = () => openModal(card, id);
 
     card.innerHTML = `
