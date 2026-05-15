@@ -1,7 +1,10 @@
 body {
   margin: 0;
   font-family: 'Segoe UI', sans-serif;
-  background-image: url('https://pde-edu.github.io/program-disi-etkinlikler/assets/images/background.png');
+   background:
+    linear-gradient(to bottom right, #f8fafc, #e2e8f0);
+
+  color: #1e293b;
   background-size: cover; 
   background-repeat: no-repeat; 
   background-position: center; 
@@ -11,13 +14,20 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 15px 30px;
-  background: #ffe8f0;
+
+  padding: 18px 40px;
+
+  background: rgba(15, 23, 42, 0.92);
+
+  backdrop-filter: blur(10px);
+
+  border-bottom: 1px solid rgba(255,255,255,0.08);
 }
 
 .left-names {
-  font-weight: bold;
-  color: #6a4e77;
+  font-weight: 600;
+  color: #f8fafc;
+  font-size: 15px;
 }
 
 .logo-area {
@@ -29,22 +39,40 @@ header {
 }
 
 .language-switch button {
-  padding: 6px 10px;
-  border: none;
-  background: #b5ead7;
-  margin-left: 5px;
-  border-radius: 8px;
+  padding: 8px 14px;
+
+  border: 1px solid rgba(255,255,255,0.15);
+
+  background: rgba(255,255,255,0.08);
+
+  color: white;
+
+  margin-left: 8px;
+
+  border-radius: 10px;
+
   cursor: pointer;
+
+  transition: 0.3s;
+}
+
+.language-switch button:hover {
+  background: rgba(255,255,255,0.18);
 }
 
 .hero {
   text-align: center;
-  padding: 40px;
-  background: #fff5e1;
+
+  padding: 90px 40px;
+
+  background: rgba(255,255,255,0.82);
+
+  backdrop-filter: blur(6px);
 }
 
 h1 {
-  color: #6a4e77;
+  color: #0f172a;
+  font-size: 48px;
 }
 
 .gallery-section {
@@ -52,7 +80,11 @@ h1 {
 }
 
 .gallery-section h2 {
-  color: #ff8fab;
+  color: #0f172a;
+
+  margin-bottom: 25px;
+
+  font-size: 32px;
 }
 
 .gallery {
@@ -63,9 +95,23 @@ h1 {
 
 .card {
   overflow: hidden;
-  border-radius: 12px;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+
+  border-radius: 20px;
+
+  background: white;
+
+  box-shadow:
+    0 10px 30px rgba(15,23,42,0.08);
+
+  border: 1px solid rgba(15,23,42,0.06);
+
   cursor: pointer;
+
+  transition: 0.35s ease;
+}
+
+.card:hover {
+  transform: translateY(-6px);
 }
 
 .card img {
@@ -143,10 +189,10 @@ h1 {
   padding: 14px;
   box-sizing: border-box;
 
-  background: linear-gradient(
-    transparent,
-    rgba(0,0,0,0.75)
-  );
+background: linear-gradient(
+  transparent,
+  rgba(15,23,42,0.92)
+);
 
   color: white;
   font-weight: bold;
@@ -262,4 +308,33 @@ h1 {
 
 .detail-gallery img:hover {
   transform: scale(1.03);
+}
+/* =========================
+   DETAY SAYFASI YAZI BLOĞU
+========================= */
+
+#detailTitle {
+  text-align: center;
+  margin-top: 40px;
+  color: #6a4e77;
+}
+
+#detailText {
+  max-width: 1000px;
+
+  margin: 30px auto;
+
+  padding: 30px;
+
+  background: #fff5f8;
+
+  border-radius: 18px;
+
+  line-height: 1.9;
+
+  font-size: 18px;
+
+  text-align: center;
+
+  box-shadow: 0 4px 14px rgba(0,0,0,0.1);
 }
