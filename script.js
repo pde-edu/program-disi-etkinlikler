@@ -222,31 +222,59 @@ const events = {
     category: "gallery1",
 
     title: {
-      tr: "Müzeler Haftası",
-      en: "Museums Week"
+      tr: "Müzeler Haftası,18 Mart Çanakkale Zaferi, Dünya Sağlık Haftası etkinlikleri",
+      en: "Museums Week, March 18 Çanakkale Victory, World Health Week activities"
     },
 
     subtitle: {
-      tr: "18-24 Mayıs",
-      en: "May 18-24"
+      tr: "18-24 Mayıs| 7-13 Nisan | 18 Mart",
+      en: "May 18-24 | April 7-13 | March 18"
     },
 
-    shortDesc: {
-      tr: "Öğrenciler müzeler haftası kapsamında etkinlik yaptı.",
-      en: "Students participated in Museums Week activities."
-    },
+   shortDesc: {
+    tr: "Erva Gül Orçin, Gamze Gül Işık, Esma Atalay, Volkan Tunç ve Mustafa Kemal Çelik tarafından Alantur Ayhan Şahenk İlkokulu’nda 18 Mart Çanakkale Zaferi, Dünya Sağlık Haftası, 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı ile Müze Haftası kapsamında gerçekleştirilen etkinlikler.",
+    en: "Activities organized by Erva Gül Orçin, Gamze Gül Işık, Esma Atalay, Volkan Tunç, and Mustafa Kemal Çelik at Alantur Ayhan Şahenk Primary School within the scope of March 18 Çanakkale Victory, World Health Week, April 23 National Sovereignty and Children's Day, and Museum Week."
+},
+longDesc: {
+    tr:
+        "Etkinliklerin gerçekleştirileceği okulun belirlenmesi ve seçim sürecinde herhangi bir aksaklık ya da olumsuzlukla karşılaşılmamıştır. Okul yönetimi ve öğretmen kadrosu, planlanan faaliyetlere son derece vizyoner ve olumlu bir yaklaşım sergilemiştir. Süreç boyunca organizasyon hazırlıkları, sınıfların aktif kullanımı, gerekli materyallerin temini ve resmi/yasal izinlerin zamanında alınması gibi idari konularda sağlanan güçlü destek, etkinliklerin güvenli ve konforlu bir atmosferde planlanıp hayata geçirilmesine zemin hazırlamıştır. " +
 
-    longDesc: {
-      tr: "Bu etkinlikte öğrenciler müze kültürünü tanıdı, grup çalışmaları yaptı ve gözlem becerilerini geliştirdi.",
-      en: "Students explored museum culture, worked in groups and developed observation skills."
+        "Uygulama takviminde yer alan özel gün ve haftaların seçimi, öğrencilerin bütüncül gelişim alanları göz önünde bulundurularak temellendirilmiştir. Bu doğrultuda; 18 Mart Çanakkale Zaferi ile 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı, çocuklarda milli tarih bilincini, vatan sevgisini ve aidiyet duygusunu en üst düzeyde uyandırmak adına ana motivasyon kaynağımız olarak takvime dahil edilmiştir. Okulda geleneksel olarak düzenlenen kermes organizasyonu, 4. sınıf Fen Bilimleri dersi öğrenme çıktılarıyla ilişkilendirilmiştir. “Geleceğin sağlıklı nesilleri bugünün çocukları ile inşa edilir” felsefesiyle Sağlık Haftası süreci kermes uygulamalarıyla birleştirilmiştir. Sınıf duvarlarının ötesine geçerek bir organizasyonun izin, dilekçe, lojistik ve yönetim süreçlerini bizzat deneyimlemek amacıyla Müze Haftası kapsamında açık hava odaklı bir inceleme gezisi plana eklenerek süreç tamamlanmıştır. " +
+
+        "18 Mart Çanakkale Zaferi anma programı kapsamında okul genelinde bir pano ve özel fotoğraf köşesi tasarımı gerçekleştirilmiştir. Fotoğraf köşesinde simgesel olarak yer verilen gelincik çiçeklerinin boyama çalışmaları 2. sınıf öğrencilerine yaptırılarak kademeler arası iş birliği desteklenmiştir. 4. sınıf düzeyindeki öğrencilere ise günün tarihi arka planı hakkında bilgilendirme yapıldıktan sonra bölgede görev yapan jandarma personeline hitaben mektuplar yazdırılmıştır. " +
+
+        "Okulda planlanan programın hemen ardından seçilen 4 öğrenciyle birlikte yerel jandarma karakolu bizzat ziyaret edilerek mektuplar elden teslim edilmiştir. Okula dönüşün ardından dönemin cephe şartlarını ve fedakarlıklarını somutlaştırmak adına tüm öğrencilere dönemin asker menüsü olan hoşaf ve kuru ekmek dağıtımı yapılmış; savaşın zorlukları aktarılmıştır. Bu esnada davetimiz üzerine okula gelen jandarma mensupları sınıfları ziyaret ederek öğrencilerin merak ettiği soruları yanıtlamıştır. " +
+
+        "Dünya Sağlık Haftası kapsamında ilk aşamada öğrencilere; etiket okuma, sağlık okuryazarlığı, yeme bozuklukları ve gıda saklama koşulları üzerine interaktif bir sunum gerçekleştirilmiş ve süreç vızıltı tekniği kullanılarak harmanlanmıştır. İdari durumlar sebebiyle okul kermesinin sunumdan birkaç hafta sonra yapılması üzerine süreç yeni bir etkinlikle güncellenmiştir. Kermeste satışa sunulan her ürünün yanına yerleştirilmek üzere “içindekiler listesi” ve “ürün saklama koşulları” bilgilendirme kartları hazırlanmıştır. " +
+
+        "Kermes gününde öğrencilerden bu bilgiler ışığında kendilerine dengeli bir tabak oluşturmaları istenmiş; hazırlanan tabaklar incelenerek birinci olan öğrenci başarı sertifikası ile ödüllendirilmiştir. Bu süreç sayesinde öğrencilerin sağlıklı beslenme, bilinçli tüketim ve günlük yaşam becerileri konusunda farkındalık kazanmaları amaçlanmıştır.",
+
+    en:
+        "No difficulties or negative situations were encountered during the determination and selection process of the school where the activities would be carried out. The school administration and teaching staff displayed a highly visionary and positive approach toward the planned activities. Throughout the process, the strong support provided in administrative matters such as organizational preparations, active use of classrooms, supply of necessary materials, and obtaining official/legal permissions on time created a safe and comfortable environment for planning and implementing the activities. " +
+
+        "The selection of the special days and weeks included in the implementation schedule was based on students’ holistic development areas. In this context, March 18 Çanakkale Victory and April 23 National Sovereignty and Children’s Day were included in the schedule as the main motivation source to raise national historical awareness, patriotism, and a sense of belonging among children. The traditional school fair organization was associated with the 4th grade Science course learning outcomes. With the philosophy that “Healthy future generations are built by today’s children,” the Health Week process was combined with fair activities. In addition, an outdoor observation trip was included within the scope of Museum Week in order to allow students to personally experience organizational procedures such as permissions, petitions, logistics, and management processes beyond classroom walls. " +
+
+        "Within the scope of the March 18 Çanakkale Victory commemoration program, a bulletin board and a special photo corner were designed throughout the school. Coloring activities of symbolic poppy flowers used in the photo corner were carried out by 2nd grade students, encouraging cooperation between grade levels. After informing 4th grade students about the historical background of the day, they were asked to write letters addressed to the gendarmerie personnel serving in the region. " +
+
+        "Immediately after the planned school program, the local gendarmerie station was personally visited with four selected students, and the letters were hand-delivered. Upon returning to school, compote and dry bread, representing the soldiers’ wartime meals, were distributed to all students in order to concretize the harsh conditions and sacrifices of the front lines. During this process, invited gendarmerie personnel visited classrooms and answered students’ questions. " +
+
+        "Within the scope of World Health Week, students first participated in an interactive presentation on label reading, health literacy, eating disorders, and food storage conditions, and the process was enriched through the buzz group technique. Since the school fair had to be organized several weeks after the presentation due to administrative circumstances, the process was updated with a new activity. Informational cards including “ingredient lists” and “product storage conditions” were prepared to be placed next to every product sold at the fair. " +
+
+        "On the day of the fair, students were asked to create a balanced plate based on the information they had learned. The prepared plates were evaluated, and the first-place student was rewarded with a certificate of achievement. Through this process, students were encouraged to gain awareness about healthy nutrition, conscious consumption, and daily life skills."
+
     },
 
     images: [
-      "assets/images/placeholder.jpg",
-      "assets/images/placeholder.jpg"
+      "assets/images/etkinlik1.1.png",
+      "assets/images/etkinlik1.2.png",
+       "assets/images/etkinlik1.3.png",
+        "assets/images/etkinlik1.4.png",
+        "assets/images/etkinlik1.5.png",
+        "assets/images/etkinlik1.6.png",
+        "assets/images/etkinlik1.7.png",
     ],
 
-    coverImage: "https://picsum.photos/300/200"
+    coverImage: "assets/images/etkinlik1.5.png"
   },
 
 
@@ -838,17 +866,33 @@ bayram5: {
         en: "April 23rd"
     },  
     shortDesc: {
-        tr: "Ulusal Egemenlik ve Çocuk Bayramı",
-        en: "National Sovereignty and Children's Day"
+    tr: "Erva Gül Orçin, Gamze Gül Işık, Esma Atalay, Volkan Tunç ve Mustafa Kemal Çelik tarafından Alantur Ayhan Şahenk İlkokulu’nda 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı kapsamında gerçekleştirilen etkinlikler.",
+    en: "Activities organized by Erva Gül Orçin, Gamze Gül Işık, Esma Atalay, Volkan Tunç, and Mustafa Kemal Çelik at Alantur Ayhan Şahenk Primary School within the scope of April 23 National Sovereignty and Children's Day."
     },
     longDesc: {
-        tr: "Okul etkinlikleri ile kutlandı.",
-        en: "Celebrated with school activities."
-    },  
+    tr:
+        "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı sürecinde doğrudan müdahil olunabilecek etkinlik alanı sınırlı kalsa da okul iklimine ve bayram coşkusuna aktif destek verilmiştir. Bu kapsamda öğrencilerin milli bayram atmosferini daha yoğun hissedebilmeleri amacıyla tematik pano ve fotoğraf köşeleri tasarlanmıştır. Hazırlanan görsellerde bayramın anlam ve önemini yansıtan öğelere yer verilmiş, okul ortamının görsel açıdan zenginleştirilmesi hedeflenmiştir. " +
+
+        "Etkinlik sürecinde sınıflar öğrencilerle birlikte süslenmiş, öğrencilerin sürece aktif katılım göstermeleri desteklenmiştir. Bayraklar, balonlar ve çeşitli dekoratif materyaller kullanılarak sınıf ortamları 23 Nisan ruhuna uygun hale getirilmiştir. Öğrencilerin hazırlık sürecinde görev almaları sayesinde iş birliği yapma, sorumluluk alma ve ortak çalışma becerilerinin gelişimine katkı sağlanmıştır. " +
+
+        "Ayrıca öğrencilerin resmi tören provalarına yakından eşlik edilmiş ve hazırlık süreci gözlemlenmiştir. Provalar sırasında öğrencilerin heyecanlı, istekli ve motive oldukları görülmüş; milli bayram bilincini yaşayarak öğrenmelerine katkı sağlayan bir süreç deneyimlenmiştir. Genel olarak değerlendirildiğinde, etkinlik sürecinin öğrencilerin sosyal gelişimlerine, aidiyet duygularına ve milli değerlere yönelik farkındalık kazanmalarına olumlu katkılar sunduğu düşünülmektedir.",
+
+    en:
+        "Although the opportunity for direct involvement in activities during the April 23 National Sovereignty and Children’s Day process was limited, active support was provided to the school atmosphere and holiday enthusiasm. In this context, thematic bulletin boards and photo corners were designed to help students feel the spirit of the national holiday more deeply. Visual materials reflecting the meaning and importance of the holiday were included, aiming to enrich the school environment visually. " +
+
+        "During the process, classrooms were decorated together with the students, encouraging their active participation. Flags, balloons, and various decorative materials were used to create a classroom atmosphere suitable for the spirit of April 23. By taking part in the preparation process, students were able to improve their cooperation, responsibility-taking, and teamwork skills. " +
+
+        "In addition, students’ official ceremony rehearsals were closely observed and supported throughout the preparation stage. During the rehearsals, students appeared enthusiastic, motivated, and eager to participate, experiencing a process that contributed to learning national awareness through active participation. Overall, it is believed that the process positively contributed to students’ social development, sense of belonging, and awareness of national values."
+},  
     images: [
-        "assets/images/placeholder.jpg"
+        "assets/images/bayram5.1.png",
+        "assets/images/bayram5.2.png",
+        "assets/images/bayram5.3.png",
+        "assets/images/bayram5.4.png",
+        "assets/images/bayram5.5.png",
+        "assets/images/bayram5.6.png",
     ],  
-    coverImage: "assets/images/placeholder.jpg"
+    coverImage: "assets/images/bayram5.1.png"
   },
   
 bayram6: {
