@@ -951,15 +951,15 @@ function renderAllGalleries() {
 
 function openImageModal(src) {
   const modal = document.getElementById("imageModal");
-  const modalImg = document.getElementById("modalImg");
+  const modalImg = document.getElementById("modalImage"); // FIX
 
   modalImg.src = src;
+  modal.classList.add("show"); // FIX (display değil class kullan)
   modal.style.display = "flex";
 }
 
 function closeImageModal() {
-  document.getElementById("imageModal").style.display = "none";
-}
+  document.getElementById("imageModal").classList.remove("show");}
 const observer = new IntersectionObserver(entries => {
   entries.forEach(entry => {
     if(entry.isIntersecting){

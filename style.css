@@ -245,7 +245,7 @@ background: linear-gradient(
    MODAL
 ========================= */
 
-.modal{
+.modal {
   display: none;
   position: fixed;
   inset: 0;
