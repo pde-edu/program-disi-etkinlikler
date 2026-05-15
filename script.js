@@ -298,9 +298,11 @@ Overall, World Health Week activities were an educational, enjoyable, and memora
       "assets/images/etkinlik2.1.png",
       "assets/images/etkinlik2.2.png",
       "assets/images/etkinlik2.3.png",
+        "assets/images/etkinlik2.4.png",
+        "assets/images/etkinlik2.5.png",
     ],
 
-    coverImage: "assets/images/etkinlik2.1.png"
+    coverImage: "assets/images/etkinlik2.5.png"
   },
   etkinlik3: {
     id: "etkinlik3",
@@ -464,19 +466,23 @@ The school administration and teachers supported us throughout the process and p
         en: "National Anthem Acceptance and Mehmet Akif Ersoy Commemoration Day"
     },  
 
-    shortDesc: {        
-        tr: "İstiklal Marşı'nın kabulü ve Mehmet Akif Ersoy'u anma günü etkinliği yapıldı.",
-        en: "An event was held to commemorate the acceptance of the National Anthem and Mehmet Akif Ersoy."
+   shortDesc: {
+    tr: "Melisa Karataş, Lokman Ernez ve Kenan Bozkurt tarafından Kemal Şuberi İlkokulu’nda 12 Mart İstiklal Marşı’nın Kabulü ve Mehmet Akif Ersoy’u Anma Günü ile 18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü kapsamında gerçekleştirilen etkinlikler.",
+    en: "Activities organized by Melisa Karataş, Lokman Ernez, and Kenan Bozkurt at Kemal Şuberi Primary School within the scope of March 12 Independence March Adoption and Mehmet Akif Ersoy Commemoration Day and March 18 Çanakkale Victory and Martyrs' Commemoration Day."
     },  
     longDesc: {
         tr: "Bu etkinlikte öğrenciler İstiklal Marşı'nın tarihini öğrendi, Mehmet Akif Ersoy'un hayatını inceledi ve şiir dinletisi gerçekleştirdi.",
         en: "In this event, students learned about the history of the National Anthem, explored the life of Mehmet Akif Ersoy, and held a poetry recital."
     },
     images: [
-        "assets/images/placeholder.jpg",
-        "assets/images/placeholder.jpg"
+        "assets/images/etkinlik8.1.png",
+        "assets/images/etkinlik8.2.png",
+        "assets/images/etkinlik8.3.png",
+        "assets/images/etkinlik8.4.png",
+        "assets/images/etkinlik8.5.png",
+        "assets/images/etkinlik8.6.png",
     ],  
-    coverImage: "assets/images/placeholder.jpg"
+    coverImage: "assets/images/etkinlik8.1.png"
     },   
 
     etkinlik9: {
@@ -624,8 +630,9 @@ bayram2: {
     images: [
         "assets/images/bayram2.1.png",
         "assets/images/bayram2.2.png",
+        "assets/images/bayram2.3.png",
     ],  
-    coverImage: "assets/images/bayram2.1.png"
+    coverImage: "assets/images/bayram2.3.png"
   },
 
 bayram3: {
@@ -634,18 +641,19 @@ bayram3: {
         tr: "23 Nisan", 
         en: "April 23rd"
     },  
-    shortDesc: {    
-        tr: "Ulusal Egemenlik ve Çocuk Bayramı",
-        en: "National Sovereignty and Children's Day"
-    },
+    shortDesc: {
+    tr: "Melisa Karataş, Lokman Ernez ve Kenan Bozkurt tarafından Kemal Şuberi İlkokulu’nda 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı kapsamında gerçekleştirilen etkinlikler.",
+    en: "Activities organized by Melisa Karataş, Lokman Ernez, and Kenan Bozkurt at Kemal Şuberi Primary School within the scope of April 23rd National Sovereignty and Children's Day."
+},
     longDesc: {
         tr: "Okul etkinlikleri ile kutlandı.",
         en: "Celebrated with school activities."
     },
     images: [
-        "assets/images/placeholder.jpg"
+        "assets/images/bayram3.1.png",
+        
     ],  
-    coverImage: "assets/images/placeholder.jpg"
+    coverImage: "assets/images/bayram3.1.png"
   },
 
 bayram4: {
