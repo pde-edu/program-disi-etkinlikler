@@ -1222,6 +1222,7 @@ odoo1: {
 },
     images: [
       "assets/images/odoo1.1.png",
+      "assets/images/odoo1.2.png",
     ],
     coverImage: "assets/images/odoo1.1.png"
 
