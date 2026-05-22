@@ -1034,9 +1034,11 @@ bayram8: {
     },  
 
     images: [
-        "assets/images/placeholder.jpg"
+        "assets/images/bayram8.1.png",
+        "assets/images/bayram8.2.png",
+        
     ],  
-    coverImage: "assets/images/placeholder.jpg"
+    coverImage: "assets/images/bayram8.1.png"
   },
 
 bayram9: {
@@ -1045,18 +1047,24 @@ bayram9: {
         tr: "23 Nisan",
         en: "April 23rd"
     },  
-    shortDesc: {
-        tr: "Ulusal Egemenlik ve Çocuk Bayramı",
-        en: "National Sovereignty and Children's Day"
-    },
+   shortDesc: {
+    tr: "Fatma Erdoğan, Fatma Aydın, Hazal Kulaz ve Zeynep Su Sağlamer tarafından Bilgi Bulut İlkokulu’nda gerçekleştirilen 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı etkinlikleri.",
+    en: "23 April National Sovereignty and Children’s Day activities carried out at Bilgi Bulut Primary School by Fatma Erdoğan, Fatma Aydın, Hazal Kulaz, and Zeynep Su Sağlamer."
+},
     longDesc: {
-        tr: "Okul etkinlikleri ile kutlandı.",
-        en: "Celebrated with school activities."
-    },
+    tr: `
+23 Nisan Ulusal Egemenlik ve Çocuk Bayramı hazırlıklarına gözlemci olarak katılan ekibimiz, okul süslemelerinde ve koreografilerden birinin hazırlığında da aktif rol alarak bayram coşkusuna ortak oldu. Süreç boyunca öğrencilerin prova çalışmalarına eşlik edilmiş, etkinlik alanlarının düzenlenmesine destek verilmiş ve bayram atmosferinin oluşturulmasına katkı sağlanmıştır. Öğrencilerin heyecanı ve motivasyonu yakından gözlemlenmiş, öğretmenlerin organizasyon sürecindeki iş birliği ve yönlendirmeleri deneyimlenmiştir. Bu süreç, öğretmen adayları olarak okul içi etkinlik planlama, gözlem yapma ve öğrenci etkileşimini daha yakından tanıma fırsatı sunmuştur.
+    `,
+    en: `
+Our team participated in the preparations for the April 23 National Sovereignty and Children’s Day celebrations as observers and also took an active role in school decorations and the preparation of one of the choreographies, sharing the excitement of the celebration. Throughout the process, the team accompanied students during rehearsals, supported the arrangement of activity areas, and contributed to creating the festive atmosphere. The enthusiasm and motivation of the students were closely observed, while the cooperation and guidance of the teachers during the organization process were experienced firsthand. This process provided us, as pre-service teachers, with the opportunity to better understand school event planning, observation practices, and student interaction.
+    `
+},
     images: [
-        "assets/images/placeholder.jpg"
+        "assets/images/bayram9.1.png",
+        "assets/images/bayram9.2.png",
+        "assets/images/bayram9.3.png",
     ],  
-    coverImage: "assets/images/placeholder.jpg"
+    coverImage: "assets/images/bayram9.1.png"
   },    
 
 bayram10: {
@@ -1166,45 +1174,174 @@ bayram14: {
 odoo1: {
     category: "gallery3",
     title: {
-      tr: "Değerler Eğitimi",
-      en: "Values Education"
+      tr: "Adalet Kulübü - Değerler Eğitimi",
+      en: "Justice Club - Values Education"
     },
     shortDesc: {
-      tr: "Adalet temalı etkinlik",
-      en: "Justice themed activity"
-    },
-    longDesc: {
-      tr: "Öğrenciler adalet kavramını gezi vedrama ile öğrendi.",
-      en: "Students learned justice through drama."
-    },
+    tr: "Fatma Erdoğan, Fatma Aydın, Hazal Kulaz ve Zeynep Su Sağlamer tarafından Bilgi Bulut İlkokulu’nda “Adalet Kulübü” kapsamında gerçekleştirilen değerler eğitimi etkinlikleri.",
+    en: "Values education activities carried out within the scope of the “Justice Club” at Bilgi Bulut Primary School by Fatma Erdoğan, Fatma Aydın, Hazal Kulaz, and Zeynep Su Sağlamer."
+},
+   longDesc: {
+    tr:
+        "Okul seçim sürecimiz oldukça sorunsuz ve verimli geçti. Bilgi Bulut İlkokulu’nu tercih etmemizdeki en büyük etken, okulun aktif etkinlik kültürü ve idari birimin iş birliğine açık tutumuydu. Okul atmosferi, öğrenci merkezli bir yaklaşıma sahip olduğu için oldukça uygundu. Okul müdürünün son derece donanımlı olması, tüm öğrencilerin gelişim süreçlerine hakimiyeti ve bizlere sağladığı rehberlik, uygulama sürecindeki olası aksaklıkların oluşmadan önlenmesini sağladı. Okul müdürü ve öğretmenler, resmi izinlerin alınmasından gezi lojistiğine kadar her aşamada sorularımızı yanıtlayarak bize destek oldular. " +
+
+        "Bu süreçte etkinliği gerçekleştirdiğimiz sınıfın öğretmeni, aktif öğretmenlik tecrübesi kazanmamız için büyük bir özveri gösterdi. Attığımız her adımda sunduğu yapıcı eleştiriler ve değerli geri bildirimlerle mesleki gelişimimize katkı sağladı. Yeri geldiğinde sınıfını bize emanet ederek, etkinliklerimiz dışında da teorik bilgilerin gerçek bir sınıf ortamında nasıl pratiğe dökülebileceğini yaşayarak öğrenmemizi sağladı. " +
+
+        "Adalet ve hak gibi soyut kavramların yalnızca anlatım yoluyla değil, yerinde gözlem ve yaşantı temelli öğrenme ile kalıcı hale gelebileceği düşüncesi bizi bu etkinliği seçmede motive etti. Çocukların adliye atmosferini deneyimlemesi ve bir hakime doğrudan soru sorabilmesi, teorik bilgiyi hayatın içine taşıma fırsatı sundu. " +
+
+        "Adalet Kulübü çalışmaları kapsamında planlanan tüm aşamalarda aktif rol aldık. Süreç; sınıfta hikâye anlatımıyla ön bilgi oluşturma, merak edilen soruların not alınması, adliye gezisi, Hakim Hanım ile söyleşi, duruşma salonunda drama çalışması ve yaratıcı yazma etkinliğini kapsamaktaydı. Ayrıca 23 Nisan hazırlıkları sürecinde gözlemci olarak bulunup süslemelere ve bazı provalara destek verdik. " +
+
+        "Etkinlik sürecinde öğrenci motivasyonunu canlı tutmak amacıyla “Winnie the Pooh” gibi çocukların dünyasına hitap eden karakterler üzerinden giriş yapıldı. Gezi öncesinde öğrencilere sorumluluk verilerek sorular hazırlatıldı; kurallar broşürü ve etkinlik kâğıtlarıyla öğrencilerin kendilerini birer “genç araştırmacı” gibi hissetmeleri sağlandı. Hakim Hanım’a çiçek takdim etmeleri ise öğrencilerin sürecin bir parçası olduklarını hissetmelerine katkı sağladı. " +
+
+        "Bunun sonucunda öğrencilerin bilişsel düzeyde konuya oldukça hakim ve sorgulayıcı oldukları gözlemlendi. Duyuşsal olarak ise adliyeye ilk adımı attıkları andan itibaren büyük bir heyecan ve merak içerisinde oldukları görüldü. Özellikle Hakim Hanım’ın sıcak yaklaşımı ve öğrencilere verdiği hediyeler, onların sürece olan bağlılığını ve öğrenme isteğini üst seviyeye çıkardı. " +
+
+        "Bu deneyim bizlere yalnızca sınıf içi ders anlatımını değil, okul dışı bir organizasyonun nasıl yönetileceğini de öğretti. Milli Eğitim Bakanlığı ve Adalet Bakanlığı gibi resmi kurumlarla yürütülen bürokratik süreçler, bir gezinin güvenli ve öğretici şekilde planlanması ve özel günlerde okul iklimine katkı sağlama süreçleri doğrudan deneyimlenmiş oldu. " +
+
+        "Elde edilen verim ve öğrencilerden alınan dönütler oldukça olumlu olduğu için planlamada önemli bir eksiklik hissedilmemiştir. Aynı etkinlik tekrar gerçekleştirilecek olsa yine aynı titizlikle uygulanmasının tercih edileceği düşünülmektedir. " +
+
+        "Kendimizi başarılı buluyoruz çünkü çocukların zihninde “Adalet” kavramına dair kalıcı ve olumlu bir iz bırakıldığı gözlemlenmiştir. Öğrencilerin etkinlik sonrasında da adalet, eşitlik ve hak kavramları üzerine düşünmeye devam etmeleri ve küçük yaş grubunda olmalarına rağmen bu kavramları kendi yaşamlarından örneklerle sorgulamaları, etkinliğin amacına ulaştığını göstermektedir. Böylece hem bizim hem de öğrencilerimiz için unutulmaz bir farkındalık ve deneyim süreci tamamlanmıştır.",
+
+    en:
+        "Our school selection process was very smooth and productive. The biggest reason for choosing Bilgi Bulut Primary School was its active event culture and the cooperative attitude of the administrative staff. The school atmosphere was highly suitable because it followed a student-centered approach. The school principal’s competence, awareness of students’ developmental processes, and guidance provided to us helped prevent possible problems before they even occurred. The principal and teachers supported us at every stage, from obtaining official permissions to organizing the trip logistics. " +
+
+        "During this process, the classroom teacher of the class where we carried out the activity showed great dedication in helping us gain active teaching experience. Through constructive criticism and valuable feedback, the teacher contributed significantly to our professional development. At times, the teacher entrusted the classroom to us, allowing us to experience how theoretical knowledge could be transformed into practice in a real classroom environment. " +
+
+        "The idea that abstract concepts such as justice and rights could become permanent not only through explanation but also through observation and experiential learning motivated us to choose this activity. Allowing children to experience the courthouse atmosphere and ask questions directly to a judge provided an opportunity to bring theoretical knowledge into real life. " +
+
+        "We took active roles in all stages planned within the scope of the Justice Club activities. The process included creating prior knowledge through storytelling in the classroom, writing down students’ questions, a courthouse visit, an interview with a judge, a drama activity in the courtroom, and a creative writing activity. In addition, we participated as observers during the April 23 preparations and supported the decorations and some rehearsals. " +
+
+        "In order to keep student motivation high, an introduction was made using characters such as “Winnie the Pooh,” which appealed to children’s interests. Before the trip, students were given responsibilities and asked to prepare questions. Rule brochures and activity sheets helped them feel like “young researchers.” Presenting flowers to the judge also made students feel like an important part of the process. " +
+
+        "As a result, students were observed to be cognitively knowledgeable and highly inquisitive about the topic. Emotionally, they were excited and curious from the moment they entered the courthouse. The judge’s warm attitude and the gifts given to students significantly increased their engagement and willingness to learn. " +
+
+        "This experience taught us not only how to teach in a classroom but also how to manage an out-of-school organization. We directly experienced the bureaucratic processes carried out with official institutions such as the Ministry of National Education and the Ministry of Justice, as well as how to organize a safe and educational trip and contribute to the school climate during special occasions. " +
+
+        "Since the efficiency of the activity and the feedback received from students were highly positive, no major shortcomings were felt in the planning process. If the same activity were to be repeated, it would again be carried out with the same level of care and attention. " +
+
+        "We consider ourselves successful because we believe we left a lasting and positive impression of the concept of “Justice” in the minds of children. The fact that students continued to think about justice, equality, and rights even after the activity, and questioned these concepts using examples from their own lives despite their young age, demonstrated that the activity achieved its goals. Thus, an unforgettable process of awareness and experience was completed for both us and our students."
+},
     images: [
-      "assets/images/placeholder.jpg"
+      "assets/images/odoo1.1.png",
     ],
-    coverImage: "assets/images/placeholder.jpg"
+    coverImage: "assets/images/odoo1.1.png"
 
   },
 
 odoo2: {
     category: "gallery3",
     title: {
-        tr: "Halk Oyunları Etkinliği",
-        en: "Folk Games Activity"
+        tr: "Akvaryum Etkinliği",
+        en: "Aquarium Activity"
     },
     shortDesc: {
-        tr: "Halk oyunları ile etkinlik yapıldı.",
-        en: "An activity was held with folk games."
-    },
-    longDesc: {
-        tr: "Öğrenciler geleneksel halk oyunları ile tanıştı ve bu oyunlar üzerinden kültürel bilinç kazandı.",
-        en: "Students were introduced to traditional folk games and gained cultural awareness through these activities."
-    },
-    images: [
-        "assets/images/placeholder.jpg"
-    ],
-    coverImage: "assets/images/placeholder.jpg"
+    tr: "Ceyda ÇOLAK, Beyza YAŞASIN, Dilara GÜLOĞLU ve Yusuf Emin GÜL tarafından Nimet Alaattinoğlu İlkokulu’nda gerçekleştirilen Akvaryum Etkinliği.",
+    
+    en: "Aquarium Activity organized by Ceyda ÇOLAK, Beyza YAŞASIN, Dilara GÜLOĞLU, and Yusuf Emin GÜL at Nimet Alaattinoğlu Primary School."
 },
-};
+   longDesc: {
+    tr:
+        "Etkinlik sürecinde okul seçimi aşamasında herhangi bir ciddi sorun yaşanmamıştır. Nimet Alaattinoğlu İlkokulu’nun ulaşım açısından uygun olması, yönetim ve sınıf öğretmenlerinin iş birliğine açık ve destekleyici tutumları ile program dışı etkinliklere olumlu yaklaşımı bu okulu tercih etmemizde belirleyici olmuştur. " +
 
+        "Seçilen etkinlik olan Antalya Akvaryum gezisi, öğrencilerin sınıf dışı öğrenme ortamlarında doğrudan gözlem yaparak öğrenme fırsatı bulması, öğrenmenin kalıcı ve etkili hale gelmesi ve çevre bilinci kazandırması açısından bizi motive etmiştir. Özellikle deniz yaşamı üzerinden ekosistemlerin önemi, çevrenin korunması ve canlıların doğal yaşam alanlarının tanınması gibi konularla ilişkilendirilebilmesi etkinliğin tercih edilmesinde etkili olmuştur. Ayrıca öğrencilerin merak duygusunu artırması ve aktif katılım sağlayabilecekleri bir öğrenme ortamı sunması da önemli bir motivasyon kaynağı olmuştur. " +
+
+        "Etkinlik sürecinde hem planlama hem de uygulama aşamalarında aktif görev alınmıştır. Gezi öncesinde öğrencilerle hazırlık çalışmaları yapılmış, gezi kuralları açıklanmış ve soru-cevap yöntemiyle öğrencilerin bilişsel süreçleri harekete geçirilerek etkinliğe hazırbulunuşlukları artırılmıştır. Öğrencilerin dikkat, algı ve anlamlandırma becerileri desteklenmiş, aynı zamanda motivasyonları yükseltilmiştir. " +
+
+        "Hazırlık aşamasında öğrencilerin yaratıcılığını ve düşünme becerilerini geliştirmek amacıyla akvaryum tasarlama etkinliği yapılmış, “Hayalimdeki Balık” çizim çalışması ve “Ben bir balık olsaydım…” konulu yazma etkinliği uygulanmıştır. Bu çalışmalarla öğrencilerin kendilerini ifade etme, empati kurma ve yaratıcı düşünme becerileri desteklenmiştir. " +
+
+        "Çevre bilincini geliştirmek amacıyla iki kavanoz (temiz ve kirli su) kullanılarak su kirliliği somut şekilde gösterilmiş, öğrencilerin gözlem yapmaları sağlanmıştır. “Hangi suda yaşamak isterdiniz?” sorusu ile neden-sonuç ilişkisi kurmaları ve eleştirel düşünmeleri desteklenmiştir. " +
+
+        "Akvaryum gezisi sırasında öğrencilere görev ve gözlem kartları dağıtılmış, en çok beğendikleri balıkları incelemeleri istenmiştir. Öğrencilerin aktif gözlem yapmaları, merak ettikleri konular üzerine sorular sormaları ve öğrenmeyi deneyimlemeleri sağlanmıştır. Gezi sonrasında ise istasyon tekniği kullanılarak öğrenmeler pekiştirilmiş, öğrencilerin hem bireysel hem de grup çalışmalarıyla iş birliği ve iletişim becerileri desteklenmiştir. " +
+
+        "Öğrencilerin etkinlik sürecine yönelik bilişsel ve duyuşsal motivasyonlarının oldukça yüksek olduğu gözlemlenmiştir. Öğrenciler yeni bilgileri öğrenmeye istekli olmuş, dikkatle gözlem yapmış ve sorular sorarak sürece aktif katılım göstermiştir. Duyuşsal olarak ise heyecanlı, mutlu ve istekli oldukları; özellikle akvaryum gezisi sürecinde bu motivasyonun arttığı görülmüştür. " +
+
+        "Motivasyonu artırmak için görsel materyaller, soru-cevap etkinlikleri, yaratıcı çizim ve yazma çalışmaları ile istasyon tekniği kullanılmıştır. Bu yöntemler öğrencilerin derse ilgisini artırmış, öğrenmeyi daha eğlenceli ve kalıcı hale getirmiştir. " +
+
+        "Etkinlik süreci öğrenciler açısından çevre bilinci, gözlem yapma, sorgulama, yaratıcı düşünme ve empati kurma becerilerinin gelişmesine katkı sağlamıştır. Bizim açımızdan ise planlama, sınıf yönetimi, farklı öğretim yöntemlerini uygulama ve öğrenciyle etkili iletişim kurma becerilerimizi geliştirme fırsatı sunmuştur. Ayrıca grup çalışması ve görev dağılımı konusunda bazı eksiklerimizin olduğu fark edilerek bu alanlarda gelişim gerektiği görülmüştür. " +
+
+        "Genel olarak etkinliğin amaçlarına ulaşıldığı düşünülmektedir. Öğrencilerin etkinliklere aktif katılım göstermesi, olumlu geri dönütler vermesi ve öğrenme sürecine istekli şekilde dahil olmaları bunun göstergesi olmuştur. Etkinlik sonrasında öğrenciler çizim ve yazma çalışmalarını keyifli bulduklarını ifade etmişlerdir.",
+
+    en:
+        "No serious problems were encountered during the school selection process. The accessibility of Nimet Alaattinoğlu Primary School, the cooperative and supportive attitudes of the administration and classroom teachers, and the school’s positive approach toward extracurricular activities were the main reasons for choosing this school. " +
+
+        "The selected activity, the Antalya Aquarium trip, motivated us because it provided students with the opportunity to learn through direct observation in an out-of-class learning environment, increased the permanence and effectiveness of learning, and helped develop environmental awareness. In particular, the activity could be associated with topics such as marine life, the importance of ecosystems, environmental protection, and recognizing the natural habitats of living creatures. In addition, increasing students’ curiosity and providing an active learning environment were also important motivating factors. " +
+
+        "During the activity process, active roles were taken both in the planning and implementation stages. Before the trip, preparation activities were carried out with the students, the rules of the trip were explained, and students’ cognitive processes were activated through question-and-answer activities to increase their readiness for the activity. Their attention, perception, and comprehension skills were supported while their motivation was also increased. " +
+
+        "In the preparation stage, an aquarium design activity, a drawing activity titled “The Fish of My Dreams,” and a writing activity called “If I Were a Fish…” were conducted to improve students’ creativity and thinking skills. Through these activities, students’ self-expression, empathy, and creative thinking skills were supported. " +
+
+        "To develop environmental awareness, water pollution was demonstrated concretely using two jars filled with clean and dirty water, allowing students to make observations. With the question “In which water would you prefer to live?”, students were encouraged to establish cause-and-effect relationships and think critically. " +
+
+        "During the aquarium trip, students were given task and observation cards and asked to examine the fish they liked most. Students were encouraged to make active observations, ask questions about topics they were curious about, and learn through experience. After the trip, learning was reinforced using the station technique, and students’ cooperation and communication skills were supported through both individual and group work. " +
+
+        "It was observed that students’ cognitive and emotional motivation toward the activity process was quite high. Students were eager to learn new information, carefully observed their surroundings, and actively participated by asking questions. Emotionally, they were excited, happy, and enthusiastic, and this motivation increased especially during the aquarium trip. " +
+
+        "To increase motivation, visual materials, question-and-answer activities, creative drawing and writing tasks, and the station technique were used. These methods increased students’ interest in the lesson and made learning more enjoyable and permanent. " +
+
+        "The activity process contributed to the development of students’ environmental awareness, observation, questioning, creative thinking, and empathy skills. From our perspective, it provided an opportunity to improve our planning, classroom management, application of different teaching methods, and effective communication with students. In addition, we realized that we had some shortcomings in group work and task distribution, and that improvement in these areas was necessary. " +
+
+        "Overall, it is believed that the activity achieved its goals. Students’ active participation, positive feedback, and willingness to engage in the learning process were indicators of this success. After the activity, students stated that they enjoyed the drawing and writing activities very much."
+},
+    images: [
+        "assets/images/odoo2.1.png",
+        "assets/images/odoo2.2.png",
+        "assets/images/odoo2.3.png",
+        "assets/images/odoo2.4.png",
+        "assets/images/odoo2.5.png",
+        "assets/images/odoo2.6.png",
+    ],
+    coverImage: "assets/images/odoo2.1.png"
+},
+odoo3: {
+    category: "gallery3",
+    title: {
+      tr: "Geleneksel Çocuk Oyunları Etkinliği",
+      en: "Traditional Children's Games Activity"
+    },
+    shortDesc: {
+    tr: "Muhammed Delil Taş tarafından Mahmutlar İlkokulu’nda gerçekleştirilen Geleneksel Çocuk Oyunları etkinlikleri.",
+    
+    en: "Traditional Children's Games activities organized by Muhammed Delil Taş at Mahmutlar Primary School."
+},
+    longDesc: {
+    tr:
+        "“Eğitimde Program Dışı Etkinlikler” dersi kapsamında, 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı kutlamaları için Mahmutlar İlkokulu’nda gönüllü öğrencilerle kapsamlı ve çok yönlü bir program hayata geçirilmiştir. Okulun merkezi konumu ve geniş bahçe imkanları, fiziksel aktivite gerektiren bu organizasyon için oldukça uygun bir zemin hazırlamış; okul idaresiyle kurulan hızlı iletişim ve yönetim tarafından sağlanan ses sistemi ile alan düzenleme destekleri sürecin verimliliğini üst düzeye çıkarmıştır. " +
+
+        "Program, çocukların ritim duygusunu geliştirecek kitlesel bir dans etkinliği ile kültürel bağlarını güçlendirecek geleneksel çocuk oyunları istasyonlarından oluşacak şekilde tasarlanmıştır. Uygulama aşamasında okul bahçesinde kurulan bu istasyonlarda çocuklarla birlikte Deve-Cüce, Sıcak-Soğuk, Gece-Gündüz, Meyve Sepeti ve Heykel Oyunu gibi geleneksel oyunlar bizzat yürütülmüş; dans etkinliğinde ise belirlenen koreografi üzerinde tüm sınıfların katılımıyla ritmik çalışmalar ve koordinasyon sağlanmıştır. " +
+
+        "Geleneksel çocuk oyunlarının basit malzemelerle büyük bir neşe kaynağı yaratması ve çocukları dijital ortamdan uzaklaştırarak somut fiziksel etkileşimlere yönlendirmesi, bu etkinliğin seçilmesindeki en temel motivasyon kaynağı olmuştur. Etkinlik süresince özellikle Meyve Sepeti ve Heykel Oyunu gibi hızlı tepki ve yüksek odaklanma gerektiren bölümlerde öğrencilerin bilişsel dikkatlerinin oldukça yüksek olduğu gözlemlenmiştir. Bayram coşkusuyla birleşen bu aktiviteler çocukları duyuşsal olarak da son derece mutlu etmiştir. " +
+
+        "Süreç boyunca öğrenci motivasyonunu üst seviyede tutabilmek adına oyunlar anlatılırken enerjik bir dil kullanılmış, her oyunun sonunda alkışlarla destek sağlanmış ve dans provaları eğlenceli bir yarışma havasına dönüştürülerek dinamizm korunmuştur. Oyunlar aracılığıyla öğrencilerin dikkat, hız ve grup içi koordinasyon becerileri desteklenirken; özellikle Heykel Oyunu çocukların sabır duygusunu, Sıcak-Soğuk Oyunu ise iş birliği yapma ve yönerge takip etme becerilerini ön plana çıkarmıştır. " +
+
+        "Etkinlik sürecinde ve sonrasında öğrencilerden alınan dönütler çalışmanın başarısını destekler nitelikte olmuştur. Öğrenciler en çok “Meyve Sepeti” ve “Deve-Cüce” oyunlarında eğlendiklerini belirtmiş ve bu oyunları teneffüslerde de oynamak istediklerini ifade etmişlerdir. Bu deneyim, uygulayıcılar açısından farklı yaş gruplarına aynı anda hitap edebilme becerisi kazandırmış ve kurallı oyunların çocuk gelişimindeki birleştirici gücünü somut şekilde göstermiştir. " +
+
+        "Süreç sonunda gerçekleştirilen öz değerlendirmede ise kalabalık gruplarda komut verme ve dikkat toplama teknikleri üzerine daha fazla pratik yapılması gerektiği fark edilmiştir. Aynı etkinlik tekrarlandığı takdirde oyun sayısının artırılması ve her oyun için ayrılan sürenin daha hassas planlanması gerektiği düşünülmüştür. Genel olarak değerlendirildiğinde planlanan tüm faaliyetlerin sorunsuz şekilde tamamlanması, çocukların geleneksel oyunları öğrenirken dans eşliğinde bayram ruhunu doyasıya yaşamaları ve etkinliklere aktif katılım göstermeleri, etkinliğin hedeflenen amaçlara başarıyla ulaştığını göstermektedir.",
+
+    en:
+        "Within the scope of the “Extracurricular Activities in Education” course, a comprehensive and multidimensional program was organized with volunteer students at Mahmutlar Primary School for the April 23 National Sovereignty and Children’s Day celebrations. The school’s central location and spacious garden area provided a highly suitable environment for this physically active organization. In addition, the fast communication established with the school administration and the support provided in terms of sound systems and area arrangements maximized the efficiency of the process. " +
+
+        "The program was designed to include a large-scale dance activity aimed at improving children’s sense of rhythm, along with traditional children’s game stations intended to strengthen their cultural connections. During the implementation process, traditional games such as Giant-Dwarf, Hot-Cold, Day-Night, Fruit Basket, and Statue Game were actively carried out with the students at stations set up in the school garden. In the dance activity, rhythmic exercises and coordination studies were conducted with the participation of all classes according to the planned choreography. " +
+
+        "The fact that traditional children’s games can create great joy with simple materials and move children away from digital environments into direct physical interaction was the main motivation behind choosing this activity. Throughout the event, students’ cognitive attention levels were observed to be especially high during games such as Fruit Basket and Statue Game, which required quick reactions and strong concentration. Combined with the excitement of the national holiday, these activities also made the students emotionally very happy. " +
+
+        "In order to keep student motivation at a high level throughout the process, the games were explained with energetic language, each activity was supported with applause at the end, and dance rehearsals were turned into a fun competition atmosphere to maintain dynamism. Through these games, students’ attention, speed, and group coordination skills were supported, while the Statue Game highlighted patience and the Hot-Cold Game improved cooperation and the ability to follow instructions. " +
+
+        "The feedback received from students during and after the activity clearly demonstrated the success of the program. Students stated that they enjoyed the “Fruit Basket” and “Giant-Dwarf” games the most and expressed their desire to continue playing these games during breaks. This experience helped the practitioners gain the ability to address different age groups simultaneously and concretely demonstrated the unifying power of rule-based games in child development. " +
+
+        "At the end of the process, self-evaluation revealed that more practice was needed in giving commands and gathering attention in crowded groups. If the same activity were to be repeated, it was suggested that the number of games could be increased and the time allocated for each game could be planned more carefully. Overall, the successful completion of all planned activities, the students’ enjoyment of the holiday spirit through dance and traditional games, and their active participation demonstrated that the activity successfully achieved all of its intended objectives."
+},
+    images: [
+      "assets/images/odoo3.1.png",
+      "assets/images/odoo3.2.png",
+      "assets/images/odoo3.3.png",
+        "assets/images/odoo3.4.png",
+        "assets/images/odoo3.5.png",
+    ],
+    coverImage: "assets/images/odoo3.1.png"
+
+  },
+
+};
+ 
 
 function renderAllGalleries() {
 
