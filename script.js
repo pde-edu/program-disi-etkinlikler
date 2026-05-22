@@ -646,10 +646,29 @@ longDesc: {
     en: "Activities organized by Helen Yücedağ, Seda Kurtay, Edanur Koluman, Rojin Akman, and Arzu Akkuş at Fatma Özmüftüoğlu Primary School within the scope of Tourism Week."
 },
 
-    longDesc: {     
-        tr: "Bu etkinlikte öğrenciler turizmin önemini öğrendi, grup çalışmaları yaptı ve gezi düzenledi.",
-        en: "In this event, students learned about the importance of tourism, worked in groups, and organized a trip."
-    },
+   longDesc: {
+    tr:
+        "Gerçekleştirilen bu sınıf dışı eğitim etkinliği, okul yönetimi ve sınıf öğretmeninin sürece son derece sıcak bakması, yasal izinler ile ulaşım organizasyonu konularında sağladıkları büyük kolaylıklar sayesinde tamamen sorunsuz bir şekilde hayata geçirilmiştir. Yenilikçi eğitim yaklaşımlarına açık olan okulun idari süreçleri hızla çözmesi ve öğretmenlerin rehberlik desteği, çalışmanın başarısında önemli bir rol oynamıştır. Projenin seçilmesindeki en büyük motivasyon kaynağı ise 3. sınıf Hayat Bilgisi dersinde yer alan “Yakın çevresinde yer alan tarihi, doğal ve turistik yerlerin özelliklerini tanıtır” kazanımını somutlaştırabilme fırsatı olmuştur. Öğrencilerin sarnıçlardaki yankıyı bizzat duyması, herbaryumdaki doğa mirasına tanıklık etmesi ve en önemlisi kilim dokuma atölyesi aracılığıyla kültürü kendi elleriyle üreterek içselleştirmesi fikri, çalışma grubuna büyük bir ilham vermiştir. " +
+
+        "Bu doğrultuda grup üyeleriyle birlikte gezi öncesi saha keşfi yapılmış; “Kaşif Pasaportları”, bilmeceler ve dokuma tezgâhları gibi materyaller ortaklaşa hazırlanmıştır. Gezi esnasında ise istasyon liderliği, akran öğretimi kolaylaştırıcılığı ve kilim dokuma atölyesinde öğrencilere birebir rehberlik etme görevleri başarıyla üstlenilmiştir. Etkinlik boyunca öğrencilerin hem bilişsel hem de duyuşsal motivasyonları en üst seviyede seyretmiştir. Bu motivasyonu canlı tutmak adına çocuklara geleneksel birer öğrenci gibi değil, birer “Tarih Kâşifi” olarak yaklaşılmıştır. Gezi öncesinde bilmecelerle merak duygusu uyandırılmış, ziyaret edilen her mekânda çocukların pasaportlarına onay mührü basılmış ve gruplara ayrılan öğrencilere akran öğretimi sorumluluğu verilmiştir. " +
+
+        "Gelecekte bu etkinlik tekrarlanacak olursa, Herbaryum istasyonunda öğrencilerin bitkileri daha yakından inceleyebilmesi için sürece büyüteç veya basit mikroskopların eklenmesi düşünülmektedir. Ayrıca açık alanda yönerge verme tekniklerinin daha da geliştirilmesi gerektiği bir öz eleştiri ve gelişim alanı olarak not edilmiştir. " +
+
+        "Tüm bu süreç, çalışma grubuna sınıf dışı eğitim ortamlarında kalabalık bir grubu yönetme, zamanı etkili kullanma ve dış mekânın dikkat dağıtıcı unsurlarına karşı kriz yönetimi becerilerini kazandırmıştır. Etkinlik ise çocukların merak duygularını, akran öğretimi sayesinde iş birliği becerilerini ve kilim dokuma yoluyla ince motor becerilerini ön plana çıkarmıştır. Öğrencilerden süreç boyunca ve sonrasında son derece heyecanlı ve anlamlı dönütler alınmıştır. Çocukların; eskiden su bulmanın ne kadar zor olduğunu fark ettiklerini söylemeleri, kendi dokudukları kilimleri odalarına asacaklarını belirtmeleri ve tarih dedektifi olmanın eğlencesinden bahsetmeleri, gezi sonrasındaki yaratıcı yazma formlarında tarihe dair kurdukları empatiyle birleşerek etkinliğin amacına ulaştığını net bir şekilde ortaya koymuştur. " +
+
+        "Sonuç olarak tüm öğrencilerin pasaportlarını eksiksiz doldurması, her birinin farklı renklerde ama ortak bir hikâyeyi anlatan kilim parçaları dokuması ve gün sonunda tarihi koruma bilincini kendi cümleleriyle ifade edebilmeleri, projenin kesin bir başarıya ulaştığını göstermektedir. Bu çalışma ile sadece bir gezi yapılmamış; çocukların zihninde Alanya’nın tarihine dair kalıcı ve derin bir anı inşa edilmiştir.",
+
+    en:
+        "This out-of-class educational activity was carried out completely smoothly thanks to the highly supportive attitude of the school administration and classroom teacher, as well as the great convenience they provided regarding legal permissions and transportation organization. The school’s openness to innovative educational approaches, the rapid handling of administrative processes, and the guidance provided by teachers played an important role in the success of the study. The greatest source of motivation for selecting this project was the opportunity to concretize the 3rd grade Life Science learning outcome: “Recognizes the characteristics of historical, natural, and touristic places in the nearby environment.” The idea of students personally hearing the echoes in the cisterns, witnessing the natural heritage in the herbarium, and most importantly internalizing culture by producing it with their own hands through the carpet weaving workshop inspired the study group greatly. " +
+
+        "In this direction, a field exploration was conducted before the trip together with the group members, and materials such as “Explorer Passports,” riddles, and weaving looms were collaboratively prepared. During the trip, responsibilities such as station leadership, peer teaching facilitation, and one-on-one guidance for students in the carpet weaving workshop were successfully undertaken. Throughout the activity, students’ cognitive and emotional motivation remained at the highest level. In order to maintain this motivation, children were approached not as traditional students but as “History Explorers.” Curiosity was stimulated through riddles before the trip, students’ passports were stamped at every visited location, and students divided into groups were given peer teaching responsibilities. " +
+
+        "If this activity is repeated in the future, adding magnifying glasses or simple microscopes to the herbarium station is being considered so that students can examine plants more closely. In addition, improving instruction-giving techniques in outdoor environments was noted as an area for self-evaluation and development. " +
+
+        "This entire process provided the study group with skills such as managing large groups in out-of-class educational settings, using time effectively, and handling distractions in outdoor environments through crisis management. The activity also highlighted children’s curiosity, cooperation skills through peer teaching, and fine motor skills through carpet weaving. Extremely enthusiastic and meaningful feedback was received from students during and after the process. Students stated that they realized how difficult it was to find water in the past, mentioned that they would hang the carpets they had woven in their rooms, and talked about the enjoyment of being a history detective. Combined with the empathy they demonstrated in their creative writing forms after the trip, these responses clearly showed that the activity achieved its purpose. " +
+
+        "As a result, the fact that all students completed their passports fully, each student wove carpet pieces in different colors but telling a common story, and they were able to express awareness about protecting history in their own words at the end of the day demonstrated that the project achieved definite success. Through this study, not only was a trip organized, but also a lasting and deep memory about the history of Alanya was built in the minds of the children."
+},
     images: [
         "assets/images/etkinlik10.1.png",
         "assets/images/etkinlik10.2.png",
@@ -669,18 +688,41 @@ longDesc: {
         en: "World Health Day"
     },  
     shortDesc: {
-        tr: "Sağlıklı yaşam farkındalığı etkinliği yapıldı.",
-        en: "Health awareness activities were conducted."
-    },  
+    tr: "İclal GENÇ, Rumeysa ŞEN ve Behican KARAL tarafından Atatürk İlkokulu’nda Dünya Sağlık Haftası kapsamında gerçekleştirilen etkinlikler.",
+    
+    en: "Activities organized by İclal GENÇ, Rumeysa ŞEN, and Behican KARAL at Atatürk Primary School within the scope of World Health Week."
+},  
     longDesc: {
-        tr: "Öğrenciler sağlıklı yaşam, hijyen ve spor konularında etkinlikler gerçekleştirdi.",
-        en: "Students engaged in activities about healthy living, hygiene, and sports." 
-    },
+    tr:
+        "Okul seçiminde, okul yönetiminin ve öğretmenlerin iş birliğine açık, destekleyici tutumlarını ve okulun ulaşılabilir konumunu önceliklendirdik. İki güne yayılan ve toplam 4 ders saatinden oluşan uygulamalı eğitim sürecimiz planlı ve verimli bir şekilde gerçekleştirilmiştir. " +
+
+        "1. Gün: Hemşire Hilal ERDANA tarafından “Hijyen Eğitimi”, öğretmen adayı İclal GENÇ tarafından ise “Ağız ve Diş Sağlığı Eğitimi” verilmiştir. Öğrenciler hijyen kuralları, kişisel bakım ve ağız-diş sağlığının önemi hakkında bilgilendirilmiş; süreç boyunca soru-cevap etkinlikleriyle aktif katılım göstermişlerdir. " +
+
+        "2. Gün: İclal GENÇ tarafından gerçekleştirilen “Beslenme Eğitimi”nin ardından öğrencilerle birlikte hazırlanan sağlıklı kahvaltı tabakları eşliğinde interaktif bir öğün etkinliği gerçekleştirilmiştir. Programın son bölümünde ise Fizyoterapist Mukaddes TEKİN, teorik egzersiz dersinin ardından okul bahçesinde uygulamalı fiziksel aktiviteler yaptırmıştır. Böylece öğrenciler sağlıklı yaşam alışkanlıklarını uygulamalı şekilde deneyimleme fırsatı bulmuşlardır. " +
+
+        "Etkinlik süresince okul yönetimi ve sınıf öğretmeni, sınıf yönetimini ve içerik kontrolünü tamamen grubumuza bırakarak bizlere duydukları güveni ve desteklerini göstermişlerdir. Öğrencilerin bilişsel ve duyuşsal motivasyonlarının oldukça yüksek olduğu gözlemlenmiştir. Temizlik, spor ve beslenme konularına olan ilgileri sayesinde dersler soru-cevap etkinlikleri ve kişisel deneyim paylaşımlarıyla oldukça aktif ve verimli geçmiştir. " +
+
+        "Uygulamalı eğitimler ve bahçe etkinlikleri sayesinde öğrencilerde sağlık bilincinin pekiştiği ve tüm öğrencilerin sürece aktif katılım sağladığı gözlemlenmiştir. Bu deneyim bizlere, dışarıdan gelen uzman desteğinin (hemşire, fizyoterapist vb.) öğrencilerin ilgisini çekmede ne kadar etkili olduğunu ve teorik bilginin uygulama ile birleştiğinde kalıcı öğrenme sağladığını göstermiştir. Genel olarak değerlendirildiğinde etkinliğin amaçlarına ulaştığı ve hem mesleki gelişimimiz hem de öğrencilerin farkındalık kazanması açısından başarılı bir süreç olduğu düşünülmektedir.",
+
+    en:
+        "In selecting the school, we prioritized the supportive and cooperative attitudes of the school administration and teachers, as well as the school’s accessible location. Our practice-based educational process, which lasted for two days and covered a total of four class hours, was carried out in a planned and productive manner. " +
+
+        "Day 1: Nurse Hilal ERDANA provided “Hygiene Education,” while teacher candidate İclal GENÇ delivered “Oral and Dental Health Education.” Students were informed about hygiene rules, personal care, and the importance of oral and dental health, and they actively participated through question-and-answer activities throughout the process. " +
+
+        "Day 2: Following the “Nutrition Education” conducted by İclal GENÇ, an interactive meal activity was organized with healthy breakfast plates prepared together with the students. In the final part of the program, Physiotherapist Mukaddes TEKİN conducted practical physical activities in the school garden after a theoretical exercise lesson. Thus, students had the opportunity to experience healthy lifestyle habits through hands-on activities. " +
+
+        "Throughout the activity, the school administration and classroom teacher demonstrated their trust and support by leaving classroom management and content control entirely to our group. It was observed that students’ cognitive and emotional motivation levels were quite high. Due to their interest in hygiene, sports, and nutrition, the lessons became highly interactive and productive through question-and-answer activities and personal experience sharing. " +
+
+        "Thanks to the practical lessons and outdoor activities, it was observed that students’ awareness of health was reinforced and that all students actively participated in the process. This experience showed us how effective the support of external experts such as nurses and physiotherapists can be in attracting students’ attention and how theoretical knowledge becomes permanent when combined with practice. Overall, it is believed that the activity achieved its goals and became a successful process both for our professional development and for increasing students’ awareness."
+},
     images: [
-        "assets/images/placeholder.jpg",   
-        "assets/images/placeholder.jpg"
+        "assets/images/etkinlik11.1.png",   
+        "assets/images/etkinlik11.2.png",
+        "assets/images/etkinlik11.3.png",
+        "assets/images/etkinlik11.4.png",
+        "assets/images/etkinlik11.5.png",
     ],  
-    coverImage: "assets/images/placeholder.jpg"
+    coverImage: "assets/images/etkinlik11.1.png"
     },
 
 
@@ -902,17 +944,35 @@ bayram6: {
         en: "April 23rd"
     },
     shortDesc: {
-        tr: "Ulusal Egemenlik ve Çocuk Bayramı",
-        en: "National Sovereignty and Children's Day"
-    },
+    tr: "Helen YÜCEDAĞ, Seda KURTAY, Edanur KOLUMAN, Rojin AKMAN ve Arzu AKKUŞ tarafından Fatma Özmüftüoğlu İlkokulu’nda 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı kapsamında gerçekleştirilen etkinlikler.",
+    
+    en: "Activities organized by Helen YÜCEDAĞ, Seda KURTAY, Edanur KOLUMAN, Rojin AKMAN, and Arzu AKKUŞ at Fatma Özmüftüoğlu Primary School within the scope of April 23 National Sovereignty and Children's Day."
+},
     longDesc: {
-        tr: "Okul etkinlikleri ile kutlandı.",
-        en: "Celebrated with school activities."
-    },  
+    tr:
+        "Etkinliklerin planlanmasında ve yürütülmesinde aktif rol aldık. 23 Nisan’da 3. sınıfların (5 şube) dans gösterilerini üstlendik ve hangi gösteriyi yapacaklarını şube öğretmenleri ile birlikte belirledik. Yaklaşık bir ay (4 hafta) boyunca süren tüm provaları bizler yaptırdık; grup arkadaşlarımızın hepsinin ayrıca görev üstlendiği, iş birliği içerisinde yürüttüğümüz bir süreç oldu. " +
+
+        "Provalar esnasında çocukların motivasyonunu artırmak amacıyla onların da eğleneceği ve gösteri ile bağlantılı oyunlar oynattık. Bu durum çocukların provalarda daha coşkulu ve istekli olmalarını sağladı. Gösteri sırasında kullanılan ve çocukların etkinlik sonunda birleştirdiği puzzle şeklindeki pankartları özenle, öğrencilerin kolay kullanabileceği şekilde hazırladık. Bunun yanında bayram coşkusunu yansıtan, hatıra niteliği taşıyan renkli ve yazılı bir 23 Nisan panosu hazırladık. " +
+
+        "23 Nisan günü öğrencileri büyük bir heyecanla izledik ve gösteri sırasında sahneye onlarla birlikte çıkarak motivasyonlarını artırıp destek olduk. Bir öğretmen adayı olarak öğrencilerle etkileşimli çalışarak prova sürecini nasıl yönetebileceğimizi deneyimleme fırsatı bulduk. Çocukların süreç içerisindeki davranışlarını gözlemledik ve bu süreçte öğrencilere nasıl yaklaşmamız gerektiğini görmüş olduk. " +
+
+        "Süreç boyunca karşılaşılabilecek problemler ve bu problemlere nasıl çözüm geliştirilebileceği konusunda öğretmen adayı arkadaşlarımızla birlikte ortak kararlar aldık. Ayrıca bir öğretmenin zümreleriyle olan iletişimine de yakından şahit olduk. Ulusal Egemenlik ve Çocuk Bayramı’nda görev almak ve provalarını gerçekleştirdiğimiz gösterilerin sonucunu görmek bizim için çok güzel ve anlamlı bir deneyim oldu. Bu deneyimi yaşamamıza katkı sağlayan öğretmenimiz Dr. Öğr. Üyesi Sibel DAL’a teşekkür ederiz.",
+
+    en:
+        "We took an active role in the planning and implementation of the activities. During the April 23 celebrations, we were responsible for the dance performances of the 3rd grade classes (5 sections) and selected the performances together with the classroom teachers. We conducted all rehearsals for approximately one month (4 weeks), and the process was carried out collaboratively with all group members taking different responsibilities. " +
+
+        "During the rehearsals, we organized games related to the performances in order to increase the children’s motivation and help them enjoy the process. This helped the students become more enthusiastic and eager during rehearsals. We carefully prepared puzzle-shaped banners used during the performance, which the children combined at the end of the show, in a way that was easy for them to use. In addition, we prepared a colorful April 23 bulletin board with meaningful writings that reflected the excitement and spirit of the holiday. " +
+
+        "On April 23, we watched the students with great excitement and supported them by joining them on stage during the performance to increase their motivation. As prospective teachers, we gained experience in managing rehearsal processes through interactive work with students. We also had the opportunity to observe students’ behaviors throughout the process and learned how to approach children in different situations. " +
+
+        "Throughout the process, we discussed possible problems and developed solutions together with our fellow teacher candidates. We also closely observed the communication between teachers and their colleagues. Taking part in the National Sovereignty and Children’s Day celebrations and witnessing the final result of the performances we rehearsed was a very meaningful and memorable experience for us. We would like to thank our instructor, Dr. Lecturer Sibel DAL, for giving us the opportunity to experience this valuable process."
+},  
     images: [
-        "assets/images/placeholder.jpg"
+        "assets/images/bayram6.1.png",
+        "assets/images/bayram6.2.png",
+        "assets/images/bayram6.3.png",
     ],  
-    coverImage: "assets/images/placeholder.jpg"
+    coverImage: "assets/images/bayram6.2.png"
   },
 
 bayram7: { 
@@ -921,18 +981,31 @@ bayram7: {
         tr: "23 Nisan", 
         en: "April 23rd"
     },  
-    shortDesc: {    
-        tr: "Ulusal Egemenlik ve Çocuk Bayramı",
-        en: "National Sovereignty and Children's Day"
-    },
+    shortDesc: {
+    tr: "İclal GENÇ, Rumeysa ŞEN ve Behican KARAL tarafından Atatürk İlkokulu’nda 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı kapsamında gerçekleştirilen etkinlikler.",
+    
+    en: "Activities organized by İclal GENÇ, Rumeysa ŞEN, and Behican KARAL at Atatürk Primary School within the scope of April 23 National Sovereignty and Children's Day."
+},
     longDesc: {
-        tr: "Okul etkinlikleri ile kutlandı.",
-        en: "Celebrated with school activities."
-    },
+    tr:
+        "21 Nisan’da  3. sınıf öğrencileriyle birlikte sınıf süsleme etkinlikleri gerçekleştirilmiştir. Öğrencilerle iş birliği içerisinde çalışılarak sınıf ortamı etkinliğin temasına uygun şekilde hazırlanmış, öğrencilerin sürece aktif katılım göstermeleri desteklenmiştir. Yapılan süsleme çalışmaları sayesinde öğrencilerin hem sosyal etkileşimleri güçlenmiş hem de etkinliklere karşı motivasyonları artmıştır. " +
+
+        "Öğrencilerin gösteriler öncesinde kostümlerini giymelerine yardımcı olunmuş, hazırlık sürecinde öğrencilerin heyecanlarına ortak olunmuştur. Gün boyunca etkinlikler gözlemlenmiş ve öğrencilerin bayram coşkusunu yaşayarak öğrenmeleri desteklenmiştir. " +
+
+        "Bu süreçte öğrencilerin etkinliklere karşı oldukça istekli ve heyecanlı oldukları gözlemlenmiştir. Hem Dünya Sağlık Haftası hem de 23 Nisan etkinlikleri sayesinde öğrencilerin sosyal gelişimlerine katkı sağlanmış, okul ortamında birlik, beraberlik ve paylaşım duygularının güçlendiği düşünülmektedir.",
+
+    en:
+       "On April 21, classroom decoration activities were carried out together with 3rd grade students. The classroom environment was prepared in accordance with the theme of the activity through cooperative work with the students, and students were encouraged to participate actively in the process. Thanks to these decoration activities, both the students’ social interaction was strengthened and their motivation toward the activities increased."+
+        "The activities were observed during the day, and students were encouraged to experience and learn the spirit of the national holiday actively. " +
+        "Throughout this process, students were observed to be highly enthusiastic and motivated toward the activities. It is believed that both the World Health Week and April 23 activities contributed positively to students’ social development and strengthened the feelings of unity, togetherness, and sharing within the school environment."
+},
     images: [
-        "assets/images/placeholder.jpg"
+        "assets/images/bayram7.1.png",
+        "assets/images/bayram7.2.png",
+        "assets/images/bayram7.3.png",
+        "assets/images/bayram7.4.png"
     ],  
-    coverImage: "assets/images/placeholder.jpg"
+    coverImage: "assets/images/bayram7.4.png"
   },
 
 bayram8: {
