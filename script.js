@@ -337,26 +337,30 @@ Overall, World Health Week activities were an educational, enjoyable, and memora
     category: "gallery1",
 
     title: { 
-        tr: "Orman Haftası",
-        en: "Forest Week"
+        tr: "Turizm Haftası",
+        en: "Tourism Week"
     },
 
     shortDesc: {
-        tr: "Ormanların önemi hakkında etkinlik yapıldı.",
-        en: "Activities about the importance of forests were held."
+        tr: "Turizm hakkında etkinlik yapıldı.",
+        en: "Activities about tourism were held."
     },  
 
     longDesc: {
-        tr: "Bu etkinlikte öğrenciler ormanların ekosistemdeki rolünü öğrendi, doğa yürüyüşleri yaptı ve ağaç dikti.",
-        en: "In this activity, students learned about the role of forests in the ecosystem, went on nature walks, and planted trees."
+        tr: "Bu etkinlikte öğrenciler turizm konusunda bilgi sahibi oldular, yerel kültürleri keşfettiler ve etkinliklerde bulundular.",
+        en: "In this activity, students gained knowledge about tourism, explored local cultures, and participated in various events."
     },  
 
     images: [
-        "assets/images/placeholder.jpg",
-        "assets/images/placeholder.jpg"
+        "assets/images/etkinlik3.1.png",
+        "assets/images/etkinlik3.2.png",
+        "assets/images/etkinlik3.3.png",
+        "assets/images/etkinlik3.4.png",
+        "assets/images/etkinlik3.5.png",
+
     ],  
 
-  coverImage: "assets/images/placeholder.jpg"
+  coverImage: "assets/images/etkinlik3.1.png"
 },
 etkinlik4: {
     id: "etkinlik4",
@@ -369,9 +373,10 @@ etkinlik4: {
     }, 
 
     shortDesc: {
-        tr: "Öğrenciler müzeler haftası kapsamında etkinlik yaptı.",
-        en: "Students participated in Museums Week activities."
-    },
+    tr: "Meryem DOLU, Sevilay ERDOĞAN, Eda YAVUZ ve Sude Nur ÖZTÜRK tarafından Mahmutlar Kılıçarslan İlkokulu ve Köy Yaşam Merkezi’nde Müzeler Haftası kapsamında gerçekleştirilen etkinlikler.",
+    
+    en: "Activities organized by Meryem DOLU, Sevilay ERDOĞAN, Eda YAVUZ, and Sude Nur ÖZTÜRK at Mahmutlar Kılıçarslan Primary School and Village Life Center within the scope of Museum Week."
+},
 
     longDesc: {
         tr: "Bu etkinlikte öğrenciler müze kültürünü tanıdı, grup çalışmaları yaptı ve gözlem becerilerini geliştirdi.",
@@ -379,11 +384,16 @@ etkinlik4: {
     },  
 
     images: [
-        "assets/images/placeholder.jpg",
-        "assets/images/placeholder.jpg"
+        "assets/images/etkinlik4.1.png",
+        "assets/images/etkinlik4.2.png",
+        "assets/images/etkinlik4.3.png",
+        "assets/images/etkinlik4.4.png",
+        "assets/images/etkinlik4.5.png",
+        "assets/images/etkinlik4.6.png",
+        "assets/images/etkinlik4.7.png",
     ],
 
-    coverImage: "assets/images/placeholder.jpg"
+    coverImage: "assets/images/etkinlik4.7.png"
   }, 
   
     etkinlik5: {
