@@ -104,7 +104,11 @@ document.addEventListener("DOMContentLoaded", function () {
 renderAllGalleries();
     const modal = document.getElementById("imageModal");
     if (modal) modal.classList.remove("show");
+     modal.addEventListener("click", function(e){
 
+    if(e.target === modal){
+      closeImageModal();
+    }
     const params = new URLSearchParams(window.location.search);
     const eventId = params.get("id");
     const langParam = params.get("lang");
@@ -1457,7 +1461,6 @@ function openImageModal(src) {
 
   modalImg.src = src;
   modal.classList.add("show"); // FIX (display değil class kullan)
-  modal.style.display = "flex";
 }
 
 function closeImageModal() {
@@ -1494,34 +1497,4 @@ document.addEventListener("DOMContentLoaded", () => {
 const fadeElements = document.querySelectorAll(".fade-up");
 
 fadeElements.forEach(el => observer.observe(el));
-const imageModal = document.getElementById("imageModal");
-const modalImage = document.getElementById("modalImage");
-
-/* Detail gallery içindeki tüm görseller */
-
-document.querySelectorAll(".detail-gallery img").forEach(img => {
-
-  img.addEventListener("click", () => {
-
-    imageModal.classList.add("show");
-
-    modalImage.src = img.src;
-  });
-
-});
-
-/* Modal kapatma */
-
-function closeImageModal() {
-  imageModal.classList.remove("show");
-}
-
-/* Siyah alana tıklayınca kapansın */
-
-imageModal.addEventListener("click", (e) => {
-
-  if (e.target === imageModal) {
-    closeImageModal();
-  }
-
 });
