@@ -1494,3 +1494,34 @@ document.addEventListener("DOMContentLoaded", () => {
 const fadeElements = document.querySelectorAll(".fade-up");
 
 fadeElements.forEach(el => observer.observe(el));
+const imageModal = document.getElementById("imageModal");
+const modalImage = document.getElementById("modalImage");
+
+/* Detail gallery içindeki tüm görseller */
+
+document.querySelectorAll(".detail-gallery img").forEach(img => {
+
+  img.addEventListener("click", () => {
+
+    imageModal.classList.add("show");
+
+    modalImage.src = img.src;
+  });
+
+});
+
+/* Modal kapatma */
+
+function closeImageModal() {
+  imageModal.classList.remove("show");
+}
+
+/* Siyah alana tıklayınca kapansın */
+
+imageModal.addEventListener("click", (e) => {
+
+  if (e.target === imageModal) {
+    closeImageModal();
+  }
+
+});
