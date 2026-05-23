@@ -346,10 +346,86 @@ Overall, World Health Week activities were an educational, enjoyable, and memora
         en: "Activities about tourism were held."
     },  
 
-    longDesc: {
-        tr: "Bu etkinlikte öğrenciler turizm konusunda bilgi sahibi oldular, yerel kültürleri keşfettiler ve etkinliklerde bulundular.",
-        en: "In this activity, students gained knowledge about tourism, explored local cultures, and participated in various events."
-    },  
+   longDesc: {
+    tr: `
+Bu çalışma; Alanya Alaaddin Keykubat Üniversitesi (ALKÜ) Sınıf Öğretmenliği Eğitimi Ana Bilim Dalı 3. sınıf öğrencilerinden oluşan Nagihan KARAKAYA, Sılanur OKUR, Merve GÜLER ve Beyzanur KARABURÇ tarafından, tamamen gönüllülük esasına dayalı bir liderlikle yürütülmüştür.
+
+Etkinliğimiz, 15-22 Nisan Turizm Haftası kapsamında, Antalya’nın Alanya ilçesinde yer alan Kestel İlkokulu’nda, 2. sınıf düzeyindeki öğrencilerle gerçekleştirilmiştir. Temel amacımız, erken çocukluk dönemindeki öğrencilere turizm bilincini aşılamak, kültürel mirasımızı tanıtmak ve bunu yaparken aktif öğrenme yöntemlerini kullanmaktır.
+
+Okul seçimi sürecinde, daha önceden de birlikte etkinlikler yürüttüğümüz Kestel İlkokulu tercih edilmiştir. Görüşmelerimiz ve resmi izin süreçlerimiz oldukça olumlu seyretmiş, okul yönetimi ve sınıf öğretmenimizle kurulan güçlü iletişim sayesinde okul seçiminde ve koordinasyonda herhangi bir sıkıntı yaşanmamıştır.
+
+Turizm Haftası’nı seçmemizdeki en büyük etken, yaşadığımız bölgenin bir turizm kenti olmasıydı. Öğrencilerimize “Yerli Turistler” diyerek etkinliğimize başladık. Onlara fotoğraf makineleri hazırladık ve gördükleri yerlerin hayali fotoğraflarını çekmelerini istedik. Somut ve soyut kültürel miras unsurlarını oyunla birleştirmek, birer öğretmen adayı olarak bizleri fazlasıyla heyecanlandırdı.
+
+Ders danışman öğretmenimizin yönlendirdiği okul, almamız gereken sorumluluğu bize sağlayamadığı için ve okulun ulaşımı da bize zor olduğu için yeni bir okul seçtik. Bu okulla daha önceden topluluğumuzla yürüttüğümüz etkinlikler olduğundan dolayı okula aşinaydık. Ancak izin sürecimiz okul değiştirdiğimiz için aksadı. Bu durum 23 Nisan kutlamalarında gözlemci olarak rol almamıza sebep oldu. Belirli gün ve haftalar kutlamasında herhangi bir sorun yaşamadık.
+
+Çocukların gezi etkinliğinden keyif alabilecek olması bizim temel amacımızdı. Sonunda da öğrencilerimizden güzel geri dönüşler aldık. Dolayısıyla amacımıza ulaştık.
+
+23 Nisan’da gözlemci olacağımızdan dolayı hazırlık sürecinde sadece provaları izleme şansımız oldu. 23 Nisan günü çocukların heyecanına ortak olduk. Sergiledikleri oyunları büyük bir keyifle izledik. Anı olarak fotoğraf ve video çekindik.
+
+Kale gezisinden önce Alanya Belediyesi’nden öğrencilerimizi Alanya Kalesi’ne geziye götüreceğimize dair gerekli izinler alındı. Bu süreçte dilekçeler tarafımızca hazırlandı ve okul yönetimi gerekli mercilere başvuruda bulundu. Ardından öğrencilere veli izin belgeleri dağıtıldı. Gezi günü okulun ayarladığı servislerle iki şube olarak gezimize başladık. Öğrencilerimiz birer turist, bizler ise birer rehberdik.
+
+Gezi kapsamında sırasıyla İç Kale, Bedesten, Kültür Evi, Herbaryum ve Süleymaniye Camii ziyaret edildi. Yapılan anlatımlar sırasında öğrencilerin merak duygularının arttığı gözlemlendi. Hazırladığımız fotoğraf makineleriyle öğrenciler ziyaret ettikleri alanların hayali fotoğraflarını çekerek anılarını zihinlerine kazıdılar.
+
+Öğrencilerin bilişsel motivasyonlarının gezi boyunca oldukça yüksek olduğu gözlemlendi. 2. sınıf düzeyinde soyut kalabilecek tarihi ve kültürel kavramlar, yerinde öğrenme yöntemiyle somutlaştırıldı. Herbaryum ziyaretinde öğrenciler farklı bitki ve hayvan türlerini dikkatle inceleyerek biyolojik çeşitliliğe karşı merak geliştirdiler. Süleymaniye Camii, Bedesten, Kültür Evi ve İç Kale gezilerinde öğrenciler dikkatle dinlediler ve çeşitli sorular sorarak yeni bilgileri anlamlandırmaya çalıştılar.
+
+Öğrenciler yalnızca pasif birer dinleyici olmadılar; görerek, dokunarak ve mekanın atmosferini hissederek öğrenme sürecine aktif şekilde katıldılar. Bu durumun akademik bilgilerin kalıcılığını artırdığı düşünülmektedir.
+
+Yolculuk esnasında öğrencilerle birlikte şarkılar söylendi. Hazırlanan fotoğraf makineleri öğrencilerin boyunlarına asıldı ve “Bugün sizler birer yerli turistsiniz.” denilerek öğrencilerin motivasyonu artırıldı. İlgi çekici bir gezi rotası oluşturuldu ve Kale’de piknik yapıldı. Öğrencilerin piknik alanından ayrılmak istememeleri etkinlikten ne kadar keyif aldıklarının göstergesi oldu.
+
+Gezi sonrasında sınıfa dönülerek değerlendirme etkinlikleri gerçekleştirildi. Bu süreçte Altı Şapka Tekniği kullanıldı ve öğrenciler etkinlik hakkındaki düşüncelerini paylaştılar. Ayrıca öğrencilere dondurma ikram edildi ve yüz boyama etkinlikleri yapıldı. Öğrencilerin bu etkinliklerden büyük keyif aldığı gözlemlendi.
+
+Kestel İlkokulu’nun atmosferi hem 23 Nisan etkinlikleri hem de gezi süreci için oldukça uygundu. Okul yönetimi ulaşım, izin süreçleri, ücretsiz giriş desteği ve kahvaltı organizasyonu gibi birçok konuda destek sağladı. Öğretmenlerin ve okul yönetiminin tüm gün boyunca sürece eşlik etmesi de önemli bir destek unsuru oldu.
+
+Etkinliğin amacına ulaştığı düşünülmektedir. Özellikle İç Kale ve Bedesten ziyaretleri öğrencilerin tarihî miras kavramını somutlaştırmalarını sağlarken, Herbaryum sayesinde Alanya’nın doğası ve bitki örtüsü hakkında farkındalık kazandıkları gözlemlendi. Kültür Evi ise geçmiş yaşam kültürünü doğrudan gözlemlemelerine fırsat sundu.
+
+Etkinlik tekrar gerçekleştirilecek olursa, sınıf sayısının bire düşürülmesinin daha verimli olacağı düşünülmektedir. Ayrıca zaman açısından daha geniş bir planlama yapılabilirse Kızılkule ve Tersane gibi yeni durakların da gezi rotasına eklenebileceği öngörülmektedir.
+
+Bu süreç sayesinde öğrencilerin çevrelerini pasif birer izleyici olarak değil, aktif birer araştırmacı olarak görmeleri desteklenmiştir. Öğrencilerin detaylara dikkat etme, neden-sonuç ilişkisi kurma, geçmiş ile günümüz arasında bağlantı kurma ve kültürel değerlere karşı duyarlılık geliştirme becerileri ön plana çıkmıştır.
+
+Gezi süreci aynı zamanda öğrencilerin sosyal uyum, arkadaşlık ilişkileri, öz kontrol, sorumluluk alma ve açık alanda güvenli hareket etme becerilerini de desteklemiştir. Her ne kadar öğrenci sayısının fazla olması nedeniyle zaman zaman sınıf hakimiyeti konusunda zorluk yaşansa da süreç genel olarak başarılı bir şekilde yönetilmiştir.
+
+Etkinlik sonunda hem okul yönetiminden hem sınıf öğretmenlerinden hem de öğrencilerden alınan olumlu geri bildirimler, çalışmanın başarılı olduğunu göstermiştir. Bu süreç, hem öğrenciler hem de öğretmen adayları açısından unutulmaz ve öğretici bir deneyim olmuştur.
+    `,
+    en: `
+This project was carried out voluntarily by Nagihan KARAKAYA, Sılanur OKUR, Merve GÜLER, and Beyzanur KARABURÇ, who are third-year students in the Department of Primary School Teaching at Alanya Alaaddin Keykubat University (ALKÜ).
+
+The activity was organized within the scope of Tourism Week (15–22 April) with second-grade students at Kestel Primary School in Alanya, Antalya. The main aim of the project was to help young students develop tourism awareness, recognize cultural heritage, and experience active learning methods.
+
+During the school selection process, Kestel Primary School was preferred because our group had previously carried out activities there. Communication with the school administration and classroom teacher was very positive, and no problems were experienced during the permission or coordination processes.
+
+One of the biggest motivations for choosing Tourism Week was the fact that the region where we live is an important tourism city. We introduced the students as “Local Tourists” and prepared paper cameras for them. Students were asked to take imaginary photographs of the places they visited. Combining tangible and intangible cultural heritage elements with games and active participation was very exciting for us as teacher candidates.
+
+Initially, another school recommended by our academic advisor was considered; however, due to transportation difficulties and limited opportunities for responsibility-taking, we changed our school preference. Since we were already familiar with Kestel Primary School through previous community projects, the adaptation process was easy. However, the school change caused delays in permission procedures, which resulted in our participation in the 23 April celebrations only as observers.
+
+Our main goal was for the children to enjoy the educational trip, and the positive feedback we received from the students showed that we successfully achieved this goal.
+
+Because we participated in the 23 April celebrations as observers, we only had the opportunity to watch the rehearsal process. On the day of the celebration, we shared the students’ excitement, enjoyed watching their performances, and took photos and videos as memories.
+
+Before the castle trip, official permissions were obtained from the Alanya Municipality for student entrance and transportation. Petition documents were prepared by our group, and the school administration completed the official applications. Parent permission forms were then distributed to students. On the day of the trip, transportation arranged by the school allowed us to begin the tour with two classrooms. Students became tourists, while we acted as tour guides.
+
+During the trip, students visited İç Kale, Bedesten, Kültür Evi, Herbaryum, and Süleymaniye Mosque. As explanations were provided throughout the trip, students’ curiosity visibly increased. Using the cameras we prepared, students took imaginary photographs and created meaningful memories connected to the places they visited.
+
+Students’ cognitive motivation remained very high throughout the trip. Historical and cultural concepts that might otherwise remain abstract for second-grade students were concretized through place-based learning experiences. During the Herbarium visit, students carefully examined different plant and animal species and developed curiosity about biodiversity. While visiting Süleymaniye Mosque, Bedesten, Kültür Evi, and İç Kale, students listened attentively and asked various questions to better understand the information presented.
+
+Students were not passive listeners during the process. Instead, they actively participated by observing, touching, and experiencing the atmosphere of the historical places. This active participation contributed to the permanence of their learning.
+
+During the journey, songs were sung together with the students. The cameras prepared for them were hung around their necks, and they were encouraged with the statement, “Today, you are local tourists.” An engaging travel route was created, and a picnic was organized at the castle. Students’ unwillingness to leave the picnic area showed how much they enjoyed the experience.
+
+After the trip, evaluation activities were conducted in the classroom. During this stage, the Six Thinking Hats Technique was used, and students shared their opinions about the activity. Ice cream was also distributed, and face-painting activities were organized. Students were observed to enjoy these activities greatly.
+
+The atmosphere of Kestel Primary School was highly suitable for both the 23 April celebrations and the educational trip. The school administration supported the process by organizing transportation, permission procedures, free entrance arrangements, and breakfast supplies. The support of teachers and administrators throughout the day contributed greatly to the success of the event.
+
+It is believed that the activity successfully achieved its goals. Visits to İç Kale and Bedesten helped students concretize the concept of historical heritage, while the Herbarium increased their awareness of Alanya’s nature and plant diversity. Kültür Evi provided students with the opportunity to directly observe elements of past daily life and culture.
+
+If the trip were to be repeated, it is believed that organizing the activity with only one classroom would make classroom management easier. In addition, if more time were available, locations such as Kızılkule and the Shipyard could also be added to the route.
+
+Throughout the process, students were encouraged to view their surroundings not as passive observers but as active researchers. Their abilities to notice details, establish cause-and-effect relationships, connect past and present, and develop sensitivity toward cultural values became more visible.
+
+The trip also contributed to students’ social adaptation, friendships, self-control, responsibility-taking, and safe movement in open environments. Although managing a large number of students occasionally created difficulties in maintaining classroom authority, the process was generally carried out successfully.
+
+At the end of the project, the positive feedback received from the school administration, classroom teachers, and students demonstrated that the activity was successful. Overall, the process became an unforgettable and highly educational experience for both the students and the teacher candidates.
+    `
+},  
 
     images: [
         "assets/images/etkinlik3.1.png",
@@ -448,23 +524,58 @@ The school administration and teachers supported us throughout the process and p
     category: "gallery1",    
 
     title: {
-        tr: "Müzeler Haftası",
-        en: "Museums Week"  
+        tr: "18 Mart Çanakkale Zaferi, Müzeler Haftası",
+        en: "18 March Çanakkale Victory, Museums Week"  
     },
 
     shortDesc: {
-        tr: "Öğrenciler müzeler haftası kapsamında etkinlik yaptı.",
-        en: "Students participated in Museums Week activities."
-    },
+    tr: "Songül Karademir, Elif Nisa Kestek ve İbrahim Halil Akkuş tarafından Nezihat Abdullah Doğan İlkokulu’nda gerçekleştirilen 18 Mart Çanakkale Zaferi ve Müzeler Haftası etkinlikleri.",
+    en: "18 March Çanakkale Victory and Museum Week activities carried out at Nezihat Abdullah Doğan Primary School by Songül Karademir, Elif Nisa Kestek, and İbrahim Halil Akkuş."
+},
     longDesc: {
-        tr: "Bu etkinlikte öğrenciler müze kültürünü tanıdı, grup çalışmaları yaptı ve gözlem becerilerini geliştirdi.",
-        en: "Students explored museum culture, worked in groups and developed observation skills."
-    },
+    tr: `
+Okul seçiminde herhangi bir sorun yaşanmadı. Belirlediğimiz okul destekleyici ve etkinliklere açık bir okuldu. Çocuklara kendilerine ait bir müze oluşturtmak; müzelerin ve tarihi eserlerin önemini empati kurarak benimsemelerini sağlamak, her birine kendini ifade etme fırsatı sunmak ve düşüncelerinin önemli olduğunu hissettirmek açısından bizleri motive etti.
+
+İlk olarak 18 Mart Çanakkale Zaferi etkinliklerinde, Çanakkale mücadelesi ve askerlerimizin yaşadığı zorlukları anlatmak amacıyla öğrencilere askerlerin yemek listesini hazırladık ve bir köşeye dönemi yansıtan temsili eşyalar yerleştirdik. Üzüm hoşafı ve ekmek dağıtarak öğrencilerin bir öğünü deneyimlemelerini sağladık. Böylece öğrencilerin empati kurmaları, zorlu mücadeleyi anlamaları ve vatan sevgisini kavramaları amaçlandı.
+
+Müzeler Haftası kapsamında ise öğrencilerden kendilerine ve ailelerine ait önemli, geçmişi olan eşyalar getirmeleri istendi. Daha sonra sınıfta bir müze köşesi oluşturuldu. Öğrencilere eserin adı, sahibi ve kısa hikâyesinin yazılı olduğu kartlar dağıtıldı. Öğrenciler kartları doldurduktan sonra sırayla eşyalarının hikâyelerini anlatarak sınıf müzesini oluşturdular. Sınıf müzesinin adı ise “Vızıltı 44” tekniği kullanılarak belirlendi. Dörder kişilik gruplar belirlenen sürede isim önerileri sundu ve demokratik oylama sonucunda müzenin adı seçildi.
+
+Müze gezisi öncesinde öğrencilere müzelerin ne olduğu, müzelerde nasıl davranılması gerektiği ve dikkat edilmesi gereken kurallar sunum yöntemiyle anlatıldı. Ayrıca öğrencilerin yakalarına hazırladığımız müze rozetleri takıldı. Müze gezisi sırasında öğrenciler rehberi dikkatle dinleyerek eserler hakkında bilgi edindiler.
+
+Öğrencilerin bilişsel ve duyuşsal motivasyonlarının oldukça yüksek olduğu gözlemlendi. Öğrenciler sorulan sorulara dikkatle cevap verdiler ve etkinliklere aktif katılım sağladılar. Duyuşsal açıdan heyecanlı ve istekli oldukları görüldü. Öğrencilerin dikkatini çekmek ve motivasyonlarını artırmak amacıyla etkinlikler onların gelişim düzeylerine uygun şekilde hazırlandı. Müze gezisi öncesinde sınıflarının adının yazdığı rozetlerin takılmasıyla aidiyet duyguları desteklendi ve ekip olarak bir keşfe çıkıldığı hissi oluşturuldu.
+
+Okulun oldukça kalabalık olması zaman zaman bazı zorluklar oluştursa da okul yönetimi ihtiyaç duyulan her konuda destek sağladı. Etkinliklerin amacına ulaştığı düşünülmektedir. Özellikle öğrencilerin sınıfta oluşturulan müze köşesini özenle korumaları ve müze gezisinde aynı duyarlılığı göstermeleri sürecin olumlu etkilerini ortaya koymuştur.
+
+Etkinlikler sonrasında öğrencilerden olumlu dönütler alındı. Öğrenciler etkinlikleri çok sevdiklerini, eğlendiklerini ve yeni bilgiler öğrendiklerini ifade ettiler. Bir sonraki etkinlikte öğrencilerin sınıf müzesine yeni eşyalar getirerek köşeyi geliştirmeye devam etmeleri, müzenin önemini kavradıklarının göstergesi oldu.
+
+Eğitimde Program Dışı Etkinlikler dersi kapsamında gerçekleştirilen bu süreç sayesinde sınıf yönetimi, zaman yönetimi, etkinlik planlama ve öğrencilerin bilişsel-duyuşsal düzeylerine uygun etkinlik hazırlama konularında uygulamalı deneyim kazanıldı. Yapılan etkinliklerin öğrencilerin iletişim becerilerini, özgüvenlerini, empati kurma ve kendini ifade etme becerilerini geliştirdiği gözlemlendi. Süreç boyunca öğrencilerin etkinliklere istekli ve aktif katılım göstermesi, etkinliklerin başarılı ve amacına uygun şekilde gerçekleştirildiğini göstermiştir.
+    `,
+    en: `
+There were no major problems during the school selection process. The school we selected was supportive and open to educational activities. Encouraging children to create their own classroom museum helped them better understand the importance of museums and historical artifacts through empathy, while also giving each student the opportunity to express themselves and feel that their ideas were valuable.
+
+As part of the 18 March Çanakkale Victory activities, we prepared a symbolic military meal menu and created a special corner with items representing the period in order to help students understand the hardships experienced by soldiers during the Çanakkale War. Students were served grape compote and bread so they could experience a symbolic wartime meal. The aim was to help them empathize with the soldiers, understand the challenges of war, and develop a sense of patriotism.
+
+During Museum Week, students were asked to bring meaningful items belonging to themselves or their families that had a historical or emotional story. A classroom museum corner was then created. Students were given cards containing the name of the item, the owner, and a short story about it. After filling out the cards, each student introduced their object and shared its story with the class. The name of the classroom museum was chosen using the “Buzz 44” technique, where groups of four students suggested names and voted democratically for the final choice.
+
+Before the museum visit, students were informed about what museums are, how to behave in museums, and the rules that should be followed during the visit. Museum badges prepared by our team were attached to the students’ clothes to strengthen their sense of belonging and teamwork. During the museum trip, students listened carefully to the guide and learned about the exhibited artifacts.
+
+It was observed that students’ cognitive and emotional motivation levels were very high throughout the activities. Students answered questions attentively and participated actively in all activities. Emotionally, they were enthusiastic, excited, and eager to learn. Activities were carefully designed according to students’ developmental levels to maintain their attention and motivation.
+
+Although the school environment was quite crowded at times, the administration provided all necessary support. It was observed that the students carefully protected the classroom museum corner and showed the same sensitivity during the museum trip, demonstrating that the activities achieved their intended goals.
+
+Positive feedback was received from the students after the activities. They expressed that they enjoyed the activities, had fun, and learned many new things. During later visits, students continued bringing additional objects to expand the classroom museum, which showed that they understood the importance and purpose of the project.
+
+Through these activities carried out within the scope of the “Out-of-School Activities in Education” course, practical experience was gained in classroom management, time management, activity planning, and preparing activities appropriate to students’ cognitive and emotional development levels. The activities also contributed to the development of students’ communication skills, self-confidence, empathy, and self-expression abilities. The active and enthusiastic participation of students throughout the process demonstrated that the activities were successful and effectively achieved their goals.
+    `
+},
     images: [
-        "assets/images/placeholder.jpg",
-        "assets/images/placeholder.jpg"
+        "assets/images/etkinlik6.1.png",
+        "assets/images/etkinlik6.2.png",
+        "assets/images/etkinlik6.3.png",
+        "assets/images/etkinlik6.4.png",
+        "assets/images/etkinlik6.5.png",
     ],
-    coverImage: "assets/images/placeholder.jpg"
+    coverImage: "assets/images/etkinlik6.1.png"
   }, 
 
      etkinlik7: {
@@ -1223,6 +1334,11 @@ odoo1: {
     images: [
       "assets/images/odoo1.1.png",
       "assets/images/odoo1.2.png",
+      "assets/images/odoo1.3.png",
+      "assets/images/odoo1.4.png",
+      "assets/images/odoo1.5.png",
+      "assets/images/odoo1.6.png",
+      "assets/images/odoo1.7.png",
     ],
     coverImage: "assets/images/odoo1.1.png"
 
