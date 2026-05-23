@@ -342,9 +342,10 @@ Overall, World Health Week activities were an educational, enjoyable, and memora
     },
 
     shortDesc: {
-        tr: "Turizm hakkında etkinlik yapıldı.",
-        en: "Activities about tourism were held."
-    },  
+    tr: "15-22 Nisan Turizm Haftası kapsamında, Nagihan KARAKAYA, Sılanur OKUR, Merve GÜLER ve Beyzanur KARABURÇ tarafından Alanya/Antalya’da bulunan Kestel İlkokulu’nda gerçekleştirilen etkinliklerde öğrencilerin turizm bilinci, kültürel miras farkındalığı ve yerinde öğrenme deneyimleri desteklenmiştir.",
+    
+    en: "Within the scope of Tourism Week (15–22 April), activities carried out at Kestel Primary School in Alanya/Antalya by Nagihan KARAKAYA, Sılanur OKUR, Merve GÜLER, and Beyzanur KARABURÇ aimed to improve students’ tourism awareness, cultural heritage understanding, and place-based learning experiences."
+},  
 
    longDesc: {
     tr: `
@@ -729,30 +730,6 @@ longDesc: {
     coverImage: "assets/images/etkinlik8.1.png"
     },   
 
-    etkinlik9: {
-    id: "etkinlik9",
-    category: "gallery1",   
-
-    title: {
-        tr: "Şehitler Günü",
-        en: "Martyrs' Day"
-    },  
-
-    shortDesc: {
-        tr: "Şehitler günü etkinliği yapıldı.",
-        en: "An event was held for Martyrs' Day."   
-    },
-
-    longDesc: {
-        tr: "Bu etkinlikte öğrenciler şehitlerimizin hayatını öğrendi, anma töreni düzenledi ve şiir dinletisi gerçekleştirdi.",
-        en: "In this event, students learned about the lives of our martyrs, organized a commemoration ceremony, and held a poetry recital."
-    },  
-    images: [
-        "assets/images/placeholder.jpg",
-        "assets/images/placeholder.jpg" 
-    ],
-    coverImage: "assets/images/placeholder.jpg"
-  }, 
        
       etkinlik10: {
     id: "etkinlik10",
@@ -1238,48 +1215,6 @@ bayram12: {
     ],  
     coverImage: "assets/images/placeholder.jpg"
   },
-
-bayram13: {
-    category: "gallery2",
-    title: {
-        tr: "23 Nisan",
-        en: "April 23rd"
-    },
-    shortDesc: {
-        tr: "Ulusal Egemenlik ve Çocuk Bayramı",
-        en: "National Sovereignty and Children's Day"
-    },
-    longDesc: {
-        tr: "Okul etkinlikleri ile kutlandı.",
-        en: "Celebrated with school activities."
-    },  
-
-    images: [
-        "assets/images/placeholder.jpg"
-    ],  
-    coverImage: "assets/images/placeholder.jpg"
-  },
-
-bayram14: {
-    category: "gallery2",
-    title: {
-        tr: "23 Nisan", 
-        en: "April 23rd"
-    },  
-    shortDesc: {    
-        tr: "Ulusal Egemenlik ve Çocuk Bayramı",
-        en: "National Sovereignty and Children's Day"
-    },
-    longDesc: {
-        tr: "Okul etkinlikleri ile kutlandı.",
-        en: "Celebrated with school activities."
-    },
-    images: [
-        "assets/images/placeholder.jpg"
-    ],  
-    coverImage: "assets/images/placeholder.jpg"
-  },
-
 
 
 odoo1: {
