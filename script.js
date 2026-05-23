@@ -101,34 +101,57 @@ function openModal(card, eventId) {
     modal.classList.add("show");
 }
 document.addEventListener("DOMContentLoaded", function () {
-renderAllGalleries();
-    const modal = document.getElementById("imageModal");
-    if (modal) modal.classList.remove("show");
-     modal.addEventListener("click", function(e){
 
-    if(e.target === modal){
-      closeImageModal();
+    renderAllGalleries();
+
+    const modal = document.getElementById("imageModal");
+
+    if (modal) {
+
+        modal.classList.remove("show");
+
+        modal.addEventListener("click", function (e) {
+
+            if (e.target === modal) {
+                closeImageModal();
+            }
+
+        });
     }
+
     const params = new URLSearchParams(window.location.search);
+
     const eventId = params.get("id");
+
     const langParam = params.get("lang");
 
     if (langParam === "tr" || langParam === "en") {
+
         currentLang = langParam;
+
         localStorage.setItem("selectedLang", langParam);
+
     } else {
+
         const savedLang = localStorage.getItem("selectedLang");
+
         if (savedLang === "tr" || savedLang === "en") {
             currentLang = savedLang;
         }
     }
+
     loadDetailPage();
+
     setLanguage(currentLang);
+
     autoScrollGallery();
 
     document.querySelectorAll(".auto-scroll").forEach(gallery => {
+
         gallery.addEventListener("mouseenter", () => autoScrollPaused = true);
+
         gallery.addEventListener("mouseleave", () => autoScrollPaused = false);
+
     });
 
     if (eventId && events[eventId]) {
@@ -136,23 +159,45 @@ renderAllGalleries();
         const event = events[eventId];
 
         const titleEl = document.getElementById("detailTitle");
+
         const textEl = document.getElementById("detailText");
+
         const gallery = document.getElementById("detailGallery");
 
-        if (titleEl) titleEl.innerText = event.title[currentLang];
-        if (textEl) textEl.innerText = event.longDesc[currentLang];
+        if (titleEl) {
+            titleEl.innerText = event.title[currentLang];
+        }
+
+        if (textEl) {
+            textEl.innerText = event.longDesc[currentLang];
+        }
 
         if (gallery) {
-            gallery.innerHTML = ""; // 🔥 duplicate fix
+
+            gallery.innerHTML = "";
+
             event.images.forEach(imgSrc => {
+
                 const img = document.createElement("img");
+
                 img.src = imgSrc;
+
                 img.style.width = "250px";
+
                 img.style.margin = "10px";
+
+                img.style.cursor = "pointer";
+
+                img.onclick = function () {
+                    openImageModal(imgSrc);
+                };
+
                 gallery.appendChild(img);
+
             });
         }
     }
+
 });
 function goToDetailPage() {
     if(selectedEventId){
@@ -1497,4 +1542,4 @@ document.addEventListener("DOMContentLoaded", () => {
 const fadeElements = document.querySelectorAll(".fade-up");
 
 fadeElements.forEach(el => observer.observe(el));
-});
+
