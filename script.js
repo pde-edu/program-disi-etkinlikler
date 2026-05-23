@@ -5,8 +5,22 @@ let currentLang = "tr";
 ========================= */
 function setLanguage(lang) {
 
-    currentLang = lang;
-    localStorage.setItem("selectedLang", lang);
+   currentLang = lang;
+localStorage.setItem("selectedLang", lang);
+
+/* Aktif buton efekti */
+
+const trBtn = document.getElementById("tr-btn");
+const enBtn = document.getElementById("en-btn");
+
+trBtn?.classList.remove("active");
+enBtn?.classList.remove("active");
+
+if(lang === "tr"){
+    trBtn?.classList.add("active");
+}else{
+    enBtn?.classList.add("active");
+}
 
     renderAllGalleries();
 

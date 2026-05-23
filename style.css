@@ -15,23 +15,34 @@
   overflow-x: hidden;
 }
 header {
+  position: sticky;
+  top: 0;
+  z-index: 9999;
+
   display: flex;
   justify-content: space-between;
   align-items: center;
-position: sticky;
-  top: 0;
 
-  z-index: 999;
+  padding: 16px 42px;
 
-  backdrop-filter: blur(16px);
-  padding: 18px 40px;
+  background:
+    linear-gradient(
+      135deg,
+      rgba(15,23,42,0.92),
+      rgba(30,41,59,0.88)
+    );
 
-  background: rgba(15, 23, 42, 0.92);
+  backdrop-filter: blur(18px);
 
-  backdrop-filter: blur(10px);
+  border-bottom:
+    1px solid rgba(255,255,255,0.08);
 
-  border-bottom: 1px solid rgba(255,255,255,0.08);
-   transition: 0.35s ease;
+  box-shadow:
+    0 10px 30px rgba(0,0,0,0.12);
+
+  transition:
+    background 0.35s ease,
+    transform 0.35s ease;
 }
 
 header:hover {
@@ -40,42 +51,153 @@ header:hover {
 
 
 .left-names {
-  font-weight: 600;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+
   color: #f8fafc;
-  font-size: 15px;
+
+  font-size: 14px;
+  font-weight: 500;
+
+  letter-spacing: 0.3px;
+
+  line-height: 1.5;
 }
 
 .logo-area {
-  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 
 .logo-area img {
-  height: 70px;
+  height: 74px;
+
+  filter:
+    drop-shadow(0 4px 12px rgba(0,0,0,0.25));
+
+  transition:
+    transform 0.35s ease;
+}
+
+.logo-area img:hover {
+  transform: scale(1.04);
+}
+.logo-text {
+  margin-top: 8px;
+
+  color: rgba(255,255,255,0.85);
+
+  font-size: 13px;
+
+  letter-spacing: 1px;
+
+  text-transform: uppercase;
+}
+.language-switch {
+  display: flex;
+  align-items: center;
+  gap: 10px;
 }
 
 .language-switch button {
-  padding: 8px 14px;
+  padding: 10px 18px;
 
-  border: 1px solid rgba(255,255,255,0.15);
+  border-radius: 14px;
 
-  background: rgba(255,255,255,0.08);
+  border:
+    1px solid rgba(255,255,255,0.12);
+
+  background:
+    rgba(255,255,255,0.08);
 
   color: white;
 
-  margin-left: 8px;
-
-  border-radius: 10px;
+  font-weight: 600;
 
   cursor: pointer;
 
-  transition: 0.3s;
+  backdrop-filter: blur(10px);
+
+  transition:
+    all 0.3s ease;
+    position: relative;
+  overflow: hidden;
+}
+.language-switch button.active {
+
+  background:
+    linear-gradient(
+      135deg,
+      #ffffff,
+      #dbeafe
+    );
+
+  color: #0f172a;
+
+  border:
+    1px solid rgba(255,255,255,0.6);
+
+  box-shadow:
+    0 8px 24px rgba(255,255,255,0.18);
+
+  transform: translateY(-2px);
+}
+
+/* Hafif glow efekti */
+
+.language-switch button.active::before {
+
+  content: "";
+
+  position: absolute;
+
+  inset: 0;
+
+  border-radius: inherit;
+
+  background:
+    linear-gradient(
+      135deg,
+      rgba(255,255,255,0.35),
+      transparent
+    );
+
+  pointer-events: none;
 }
 
 .language-switch button:hover {
-  background: rgba(255,255,255,0.18);
+
+  background:
+    rgba(255,255,255,0.16);
+
+  transform:
+    translateY(-2px);
+
+  box-shadow:
+    0 8px 20px rgba(0,0,0,0.15);
 }
+header::after {
+  content: "";
 
+  position: absolute;
 
+  left: 0;
+  bottom: 0;
+
+  width: 100%;
+  height: 1px;
+
+  background:
+    linear-gradient(
+      to right,
+      transparent,
+      rgba(255,255,255,0.25),
+      transparent
+    );
+}
 
 #hero-tr,
 #hero-en {
@@ -1105,4 +1227,26 @@ header {
     opacity: 1;
   }
 
+}
+@media(max-width: 768px){
+
+  header {
+    padding: 18px 20px;
+
+    flex-direction: column;
+
+    gap: 18px;
+  }
+
+  .logo-area img {
+    height: 60px;
+  }
+
+  .left-names {
+    text-align: center;
+  }
+
+  .logo-text {
+    font-size: 11px;
+  }
 }
