@@ -40,11 +40,59 @@ header {
   box-shadow:
     0 10px 30px rgba(0,0,0,0.12);
 
-  transition:
+   transition:
+    padding 0.35s ease,
     background 0.35s ease,
+    box-shadow 0.35s ease,
     transform 0.35s ease;
 }
 
+/* Scroll olunca küçülen navbar */
+header.scrolled {
+  padding: 10px 38px;
+
+  background: rgba(15, 23, 42, 0.75);
+  backdrop-filter: blur(20px);
+
+  box-shadow: 0 12px 30px rgba(0,0,0,0.18);
+}
+
+/* Logo küçülme efekti */
+header.scrolled .logo-area img {
+  height: 58px;
+  transition: 0.3s ease;
+}
+
+/* Navbar içindeki yazılara hafif giriş efekti */
+header * {
+  transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+header.scrolled .left-names {
+  transform: translateY(-1px);
+  opacity: 0.95;
+}
+header::before {
+  content: "";
+
+  position: absolute;
+  inset: 0;
+
+  background: radial-gradient(
+    circle at center,
+    rgba(255,255,255,0.08),
+    transparent 60%
+  );
+
+  opacity: 0;
+  transition: 0.4s ease;
+
+  pointer-events: none;
+}
+
+header:hover::before {
+  opacity: 1;
+}
 header:hover {
   background: rgba(15, 23, 42, 0.96);
 }
