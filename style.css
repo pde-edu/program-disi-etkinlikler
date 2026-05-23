@@ -1298,3 +1298,52 @@ header {
     font-size: 11px;
   }
 }
+
+body::before,
+body::after {
+  content: "";
+  position: fixed;
+  width: 520px;
+  height: 520px;
+  border-radius: 50%;
+  filter: blur(90px);
+  opacity: 0.35;
+  z-index: -1;
+  pointer-events: none;
+}
+body::before {
+  left: -220px;
+  top: 20%;
+
+  background: radial-gradient(
+    circle,
+    rgba(96,165,250,0.9),
+    transparent 60%
+  );
+}
+body::after {
+  right: -220px;
+  top: 60%;
+
+  background: radial-gradient(
+    circle,
+    rgba(167,139,250,0.9),
+    transparent 60%
+  );
+}
+@keyframes floatBlob {
+  0% {
+    transform: translateY(0px) scale(1);
+  }
+  50% {
+    transform: translateY(-25px) scale(1.05);
+  }
+  100% {
+    transform: translateY(0px) scale(1);
+  }
+}
+
+body::before,
+body::after {
+  animation: floatBlob 10s ease-in-out infinite;
+}
