@@ -102,7 +102,7 @@ function openModal(card, eventId) {
 }
 document.addEventListener("DOMContentLoaded", function () {
 
-    renderAllGalleries();
+   
 
     const modal = document.getElementById("imageModal");
 
@@ -1443,6 +1443,7 @@ odoo3: {
 
 };
  
+renderAllGalleries();
 
 function renderAllGalleries() {
 
@@ -1528,14 +1529,15 @@ document.addEventListener("DOMContentLoaded", () => {
 
   const loader = document.getElementById("loader");
 
-  // 🔥 GÜVENLİK: loader var mı kontrol et
-  if (!loader) return;
+  if (loader) {
 
-  loader.style.opacity = "0";
+    loader.style.opacity = "0";
 
-  setTimeout(() => {
-    loader.style.display = "none";
-  }, 500);
+    setTimeout(() => {
+      loader.style.display = "none";
+    }, 500);
+
+  }
 
 });
 
