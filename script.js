@@ -497,12 +497,6 @@ At the end of the project, the positive feedback received from the school admini
         "assets/images/etkinlik3.3.png",
         "assets/images/etkinlik3.4.png",
         "assets/images/etkinlik3.5.png",
-        "assets/images/etkinlik3.6.png",
-        "assets/images/etkinlik3.7.png",
-        "assets/images/etkinlik3.8.png",
-        "assets/images/etkinlik3.9.png",
-        "assets/images/etkinlik3.10.png",
-        "assets/images/etkinlik3.11.png",
     ],  
 
   coverImage: "assets/images/etkinlik3.1.png"
@@ -594,6 +588,12 @@ This meaningful Museum Week activity carried out at Mahmutlar Kılıçarslan Pri
         "assets/images/etkinlik4.5.png",
         "assets/images/etkinlik4.6.png",
         "assets/images/etkinlik4.7.png",
+        "assets/images/etkinlik4.8.png",
+        "assets/images/etkinlik4.9.png",
+        "assets/images/etkinlik4.10.png",
+        "assets/images/etkinlik4.11.png",
+        "assets/images/etkinlik4.12.png",
+        "assets/images/etkinlik4.13.png",
     ],
 
     coverImage: "assets/images/etkinlik4.7.png"
