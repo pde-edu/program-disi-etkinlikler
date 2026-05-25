@@ -518,10 +518,68 @@ etkinlik4: {
     en: "Activities organized by Meryem DOLU, Sevilay ERDOĞAN, Eda YAVUZ, and Sude Nur ÖZTÜRK at Mahmutlar Kılıçarslan Primary School and Village Life Center within the scope of Museum Week."
 },
 
-    longDesc: {
-        tr: "Bu etkinlikte öğrenciler müze kültürünü tanıdı, grup çalışmaları yaptı ve gözlem becerilerini geliştirdi.",
-        en: "Students explored museum culture, worked in groups and developed observation skills."
-    },  
+longDesc: {
+    tr: `
+Mahmutlar Kılıçarslan İlkokulu ve Köy Yaşam Merkezi’nde gerçekleştirilen “Mazi Müzesi” etkinliği, Alanya Alaaddin Keykubat Üniversitesi Eğitim Fakültesi Temel Eğitim Bölümü Sınıf Eğitimi Anabilim Dalı 3. sınıf öğrencileri Meryem Dolu, Sevilay Erdoğan, Eda Yavuz ve Sude Nur Öztürk tarafından Eğitimde Program Dışı Etkinlikler dersi kapsamında planlanmıştır. 18–24 Mayıs Müzeler Haftası çerçevesinde gerçekleştirilen etkinlikte 3. ve 4. sınıf öğrencileri gönüllülük esasına dayalı olarak aktif görev almıştır.
+
+“Mazi Müzesi” temasıyla planlanan etkinlikte öğrencilerin yalnızca müze ziyaretçisi olmaları değil; aynı zamanda müze kurucusu, eser sahibi ve küratör rolünü deneyimlemeleri amaçlanmıştır. Okulun tercih edilmesinde, yaparak yaşayarak öğrenmeyi destekleyen eğitim anlayışı, etkinliklere açık yapısı ve öğrencilerle yakın çalışmaya imkân tanıyan ortamı etkili olmuştur. İlk olarak yalnızca 4. sınıflarla planlanan etkinlik, öğrenci sayısının az olması nedeniyle okul yönetiminin önerisiyle 3. sınıf öğrencilerinin de katılımıyla genişletilmiştir.
+
+Etkinlik süreci sergi gününden bir hafta önce başlamıştır. İlk aşamada öğrencilere Müzeler Haftası’nın anlamı ve kurulacak müzenin içeriği hakkında bilgi verilmiş, ön algı testi uygulanmış ve “müze” kavramını anlamlandırmalarını desteklemek amacıyla kavram haritası hazırlanmıştır. Ayrıca müze kurallarını içeren canlandırma etkinlikleri gerçekleştirilmiş ve öğrencilerin öğrenmeye yönelik merak duygularının artırılması hedeflenmiştir.
+
+Ders sonunda öğrencilere müze sergisinin ayrıntılarını içeren veli bilgilendirme metinleri ve davetiyeler dağıtılmıştır. Bunun yanında okul içerisinde etkinliği duyuran afişler hazırlanarak öğrencilerin yaklaşan etkinliği sürekli hatırlamaları ve sürece yönelik heyecan geliştirmeleri amaçlanmıştır.
+
+Müzenin kurulacağı hafta sergi alanı titizlikle hazırlanmış ve süslenmiştir. Öğrenciler evlerinden getirdikleri tarihî ve aile yadigârı eşyaları, hazırladıkları eser künyeleriyle birlikte sergi alanına yerleştirmiştir. Süreç boyunca öğrencilerin etkinliğe yoğun ilgi gösterdiği, müzenin kurulmasına yönelik büyük heyecan duydukları ve süsleme çalışmalarına gönüllü olarak katıldıkları gözlemlenmiştir.
+
+Sergi günü ilk olarak 4. sınıf öğrencileri sergi alanında görev almıştır. Öğrenciler getirdikleri eserleri velilerine tanıtarak eşyaların hikâyelerini anlatmış ve ziyaretçilere rehberlik yapmıştır. Daha sonra aynı süreç 3. sınıf öğrencileriyle devam ettirilmiştir. Böylece öğrenciler yalnızca sergi izleyicisi değil, aynı zamanda geçmişi temsil eden eserlerin anlatıcısı ve küratörü olma deneyimi yaşamıştır.
+
+Etkinlik sonunda öğrencilere son algı testi uygulanmış ve süreç değerlendirilmiştir. Öğrenciler gerçekleştirdikleri çalışmalarla ilgili düşüncelerini ve öğrendiklerini öğrenme günlüklerine yansıtmıştır. Ön ve son algı testleri ile öğrenme günlükleri aracılığıyla öğrencilerin bilgi, duygu ve deneyimlerinde meydana gelen değişimlerin değerlendirilmesi amaçlanmıştır.
+
+Etkinlik sürecinde okul müdürü ve sınıf öğretmenleri önemli ölçüde destek sağlamış ve planlama ile uygulama aşamalarında iş birliği içerisinde hareket edilmiştir. Öğrenciler ilk kez böyle bir Müzeler Haftası etkinliği gerçekleştirdiklerini ve bu deneyimden büyük heyecan duyduklarını ifade etmiştir. Daha önce müze ziyaretinde bulunmuş olsalar da kendi müzelerini kurup küratör rolü üstlenmenin onlar için unutulmaz bir deneyim olduğu belirtilmiştir.
+
+Veliler de etkinliğe olumlu geri bildirimlerde bulunmuştur. Sergi sürecini bir zaman yolculuğu olarak tanımlayan veliler, çocuklarının geçmişle bağ kurduklarını, kültürel mirasa yönelik farkındalık geliştirdiklerini ve etkinlikten büyük keyif aldıklarını ifade etmiştir.
+
+Gerçekleştirilen çalışma ile öğrencilerin müze kavramını tanımaları, kültürel miras ve tarih bilinci kazanmaları, geçmişten günümüze aktarılan eşyaların değerini fark etmeleri ve aktif öğrenme sürecine katılmaları amaçlanmıştır. Bunun yanında araştırma yapma, gözlem yapma, iletişim kurma, sorumluluk alma ve iş birliği becerilerinin geliştirilmesi hedeflenmiştir.
+
+Öğrencilerin hem bilişsel hem de duyuşsal motivasyonlarının oldukça yüksek olduğu gözlemlenmiştir. Tarihî eserlerin hikâyelerini araştırmaları ve eser künyeleri hazırlamaları bilişsel motivasyonlarını artırırken; kendi eşyalarını sergileyecek olmaları, küratör rolü üstlenmeleri ve ailelerinin sergiyi ziyaret edecek olması duyuşsal motivasyonlarını güçlendirmiştir.
+
+Etkinliğin büyük ölçüde amaçlarına ulaştığı değerlendirilmiştir. Öğrencilerin müze kavramını daha yakından tanıdığı, kültürel mirasa ilişkin farkındalık geliştirdiği ve iletişim kurma, sorumluluk alma, sunum yapma ile kendini ifade etme becerilerinde gelişim gösterdiği gözlemlenmiştir.
+
+Grup üyeleri, aynı etkinliği yeniden gerçekleştirme fırsatı bulmaları hâlinde süreci daha uzun bir zamana yaymayı, öğrencilerin eser araştırmalarına daha fazla süre ayırmalarını sağlamayı ve sergiyi dijital materyallerle zenginleştirmeyi planladıklarını ifade etmiştir. Bu deneyimin kendilerine yalnızca etkinlik planlama ve organizasyon becerisi kazandırmadığı; aynı zamanda zaman yönetimi, büyük grupları yönlendirme ve okul-aile iş birliğinin önemini deneyimleme fırsatı sunduğu belirtilmiştir.
+
+Mahmutlar Kılıçarslan İlkokulu ve Köy Yaşam Merkezi’nde gerçekleştirilen bu anlamlı Müzeler Haftası etkinliği, öğrencilerin geçmişle bağ kurduğu, öğrenmeyi yaşayarak deneyimlediği ve kültürel değerlerin gelecek kuşaklara aktarılmasına katkı sunan unutulmaz bir eğitim deneyimi olarak hafızalarda yer etmiştir.
+    `,
+    
+    en: `
+The “Mazi Museum” activity carried out at Mahmutlar Kılıçarslan Primary School and Village Life Center was organized by Alanya Alaaddin Keykubat University Faculty of Education, Department of Primary Education, third-year students Meryem Dolu, Sevilay Erdoğan, Eda Yavuz, and Sude Nur Öztürk within the scope of the Out-of-School Activities in Education course. The event was held during Museum Week between May 18–24, and 3rd and 4th grade students actively participated on a voluntary basis.
+
+The activity was planned under the theme of “Mazi Museum” with the aim of enabling students not only to become museum visitors but also to experience the roles of museum founders, artifact owners, and curators. The school was chosen because of its educational approach supporting experiential learning, its openness to educational activities, and its suitable environment for close interaction with students. Although the activity was initially planned only for 4th grade students, 3rd grade students were later included upon the suggestion of the school administration due to the limited number of participants.
+
+The preparation process began one week before the exhibition day. In the first stage, students were informed about the meaning of Museum Week and the content of the museum to be created. A preliminary perception test was conducted, and a concept map was prepared to support students’ understanding of the concept of “museum.” In addition, role-play activities about museum rules were organized to strengthen students’ curiosity and readiness for learning.
+
+At the end of the lesson, invitation letters and parent information forms containing details about the exhibition were distributed to students. Posters announcing the event were also displayed around the school to help students remain excited and aware of the upcoming museum activity.
+
+During the week of the exhibition, the exhibition area was carefully prepared and decorated. Students placed historical and family heirloom objects brought from their homes into the exhibition area together with artifact labels they had prepared. Throughout the process, students showed great interest and excitement toward building the museum and willingly participated in decoration activities.
+
+On the exhibition day, 4th grade students first took part in presenting the exhibition area. Students introduced their artifacts to their parents, explained the stories behind the objects, and guided visitors through the exhibition. Afterwards, the same process continued with the participation of 3rd grade students. In this way, students experienced being not only visitors but also narrators and curators representing the past.
+
+At the end of the activity, a final perception test was conducted to evaluate the process. Students reflected their thoughts and learning experiences in learning journals. Through the comparison of pre- and post-perception tests together with learning journals, it was aimed to evaluate the changes in students’ knowledge, emotions, and experiences.
+
+During the activity process, the school principal and classroom teachers provided significant support and cooperated closely in both the planning and implementation stages. Students stated that it was the first time they had participated in such a Museum Week activity and expressed great excitement about the experience. Although many of them had previously visited museums, they emphasized that creating and managing their own museum was a unique and unforgettable experience.
+
+Parents also provided highly positive feedback about the activity. They described the exhibition process as a journey through time and stated that their children developed a connection with the past, increased their awareness of cultural heritage, and greatly enjoyed the activity.
+
+The activity aimed to help students understand the concept of museums, gain awareness about cultural heritage and history, recognize the value of objects transferred from past to present, and participate actively in the learning process. In addition, the development of research, observation, communication, responsibility-taking, and cooperation skills was also targeted.
+
+It was observed that students’ cognitive and emotional motivation levels were quite high throughout the process. Researching the stories of historical objects and preparing artifact labels increased their cognitive motivation, while displaying their own belongings, taking on the role of curator, and having their families visit the exhibition strengthened their emotional motivation.
+
+The activity was evaluated as largely successful in achieving its objectives. Students became more familiar with the concept of museums, developed awareness about cultural heritage, and improved their communication, responsibility-taking, presentation, and self-expression skills.
+
+Group members stated that if they had the opportunity to organize the same activity again, they would extend the duration of the process, allow students more time for artifact research, and enrich the exhibition with digital materials. They also emphasized that this experience provided them not only with event planning and organizational skills but also with opportunities to improve time management, large-group coordination, and school-family cooperation skills.
+
+This meaningful Museum Week activity carried out at Mahmutlar Kılıçarslan Primary School and Village Life Center remained in memory as an unforgettable educational experience where students connected with the past, learned through direct experience, and contributed to the transfer of cultural values to future generations.
+    `
+},
+
 
     images: [
         "assets/images/etkinlik4.1.png",
@@ -1559,3 +1617,12 @@ const fadeElements = document.querySelectorAll(".fade-up");
 
 fadeElements.forEach(el => observer.observe(el));
 
+window.addEventListener("scroll", () => {
+  const header = document.querySelector("header");
+
+  if (window.scrollY > 50) {
+    header.classList.add("scrolled");
+  } else {
+    header.classList.remove("scrolled");
+  }
+});
