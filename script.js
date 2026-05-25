@@ -1417,21 +1417,64 @@ At the end of the process, it was observed that properly guiding students’ exi
 bayram12: {
     category: "gallery2",
     title: {   
-        tr: "23 Nisan",
-        en: "April 23rd"
+        tr: "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı",
+        en: "April 23rd National Sovereignty and Children's Day"
     },  
-    shortDesc: {
-        tr: "Ulusal Egemenlik ve Çocuk Bayramı",
-        en: "National Sovereignty and Children's Day"
-    },
-    longDesc: {
-        tr: "Okul etkinlikleri ile kutlandı.",
-        en: "Celebrated with school activities."
-    },  
+   shortDesc: {
+    tr: "Meryem Dolu, Sevilay Erdoğan, Eda Yavuz ve Sude Nur Öztürk tarafından Mahmutlar Kılıçarslan İlkokulu ve Köy Yaşam Merkezi’nde 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı kapsamında Dünya Çocukları temalı eğitsel oyunlar ve bayram etkinlikleri gerçekleştirildi.",
+    
+    en: "Educational games and Children of the World themed activities were organized at Mahmutlar Kılıçarslan Primary School and Village Life Center by Meryem Dolu, Sevilay Erdoğan, Eda Yavuz, and Sude Nur Öztürk within the scope of the April 23 National Sovereignty and Children’s Day celebrations."
+},
+   longDesc: {
+    tr: `
+23 Nisan Ulusal Egemenlik ve Çocuk Bayramı kapsamında Mahmutlar Kılıçarslan İlkokulu ve Köy Yaşam Merkezi’nde gerçekleştirilen etkinlikler, öğrenciler, öğretmenler ve veliler için unutulmaz bir bayram atmosferi oluşturmuştur. Alanya Alaaddin Keykubat Üniversitesi Eğitim Fakültesi Temel Eğitim Bölümü Sınıf Eğitimi Anabilim Dalı 3. sınıf öğrencileri Meryem Dolu, Sevilay Erdoğan, Eda Yavuz ve Sude Nur Öztürk, etkinlik sürecinde aktif rol alarak öğrencilerle birebir ilgilenmiş ve bayram coşkusunun daha güçlü hissedilmesine katkı sağlamıştır.
+
+Etkinlik hazırlıkları bayram gününden haftalar önce başlamıştır. Üniversite öğrencileri belirli aralıklarla okulu ziyaret ederek 3. ve 4. sınıf öğrencileriyle kaynaşmış, birlikte oyunlar oynayarak öğrencilerle güçlü bir iletişim kurmuştur. Özellikle “Molekül” ve “Kale-Prens” oyunlarının öğretildiği prova süreçlerinde öğrencilerin oldukça heyecanlı, enerjik ve istekli oldukları gözlemlenmiştir. Öğrenciler oyunlar aracılığıyla takım ruhu geliştirmiş, iş birliği kurmuş ve eğlenerek öğrenme sürecine aktif katılım sağlamıştır.
+
+23 Nisan günü okul, “Dünya Çocukları” konseptiyle rengârenk bir festival alanına dönüşmüştür. Öğrenciler farklı ülkelere ait kıyafetlerle etkinliğe katılmış, kültürel çeşitliliği yansıtan görüntüler oluşturmuştur. Üniversite öğrencileri tarafından her çocuğa temsil ettiği ülkenin bayrağı dağıtılmış ve öğrenciler ellerindeki bayraklarla dünya çocuklarının kardeşliğini simgeleyen anlamlı bir atmosfer oluşturmuştur.
+
+Program günün anlam ve önemine ilişkin konuşmalarla başlamış, ardından öğrenciler kırmızı halıda yürüyerek büyük alkış toplamıştır. Çocukların kendilerini özgüvenli ve özel hissettikleri gözlemlenmiştir. Veliler öğrencilerini gururla izlerken, öğrencilerin sahne deneyimi sayesinde kendilerini ifade etme becerilerinin desteklendiği görülmüştür.
+
+Etkinliğin ilerleyen aşamalarında gerçekleştirilen maskot gösterileri öğrencilerin eğlenceli vakit geçirmesini sağlamıştır. Ardından öğrencilere yemek, dondurma, patlamış mısır ve çeşitli hediyeler dağıtılmıştır. Gün boyunca öğrencilerin oldukça mutlu ve heyecanlı oldukları gözlemlenmiştir.
+
+Etkinlik kapsamında gerçekleştirilen “Molekül” ve “Kale-Prens” oyunları öğrencilerin yoğun ilgisiyle karşılanmıştır. Molekül oyununda öğrenciler müzik eşliğinde hareket ederek verilen yönergelere uygun şekilde gruplar oluşturmuştur. Bu süreçte dikkat becerileri, hızlı düşünme yetileri ve grup hâlinde hareket etme becerileri desteklenmiştir. Öğrencilerin birbirlerini oyuna dahil etmeye çalışmaları dayanışma ve arkadaşlık duygularını güçlendirmiştir.
+
+Kale-Prens oyununda ise öğrenciler takım hâlinde hareket ederek strateji geliştirmiş ve arkadaşlarını korumaya çalışmıştır. Oyun sırasında öğrencilerin sürekli iletişim kurduğu, birbirlerini desteklediği ve iş birliği içerisinde hareket ettiği gözlemlenmiştir. Çocukların oyunlara yoğun ilgi göstermesi nedeniyle etkinlik alanında sık sık kahkahalar ve tezahüratlar yükselmiştir. Bazı öğrenciler oyunların tekrar oynanmasını istemiş ve gönüllü olarak etkinliklere katılım göstermeye devam etmiştir.
+
+Etkinlik sonunda gerçekleştirilen kapanış programıyla birlikte öğrenciler hem eğlenmiş hem de 23 Nisan’ın birlik, kardeşlik ve çocuklara verilen değeri simgeleyen anlamını yaşayarak öğrenme fırsatı bulmuştur. Gerçekleştirilen etkinliklerin öğrencilerin sosyal iletişim becerilerini, iş birliği duygularını, özgüvenlerini ve kültürel farkındalıklarını desteklediği gözlemlenmiştir.
+
+Bu süreç, grup üyelerine etkinlik planlama, büyük grupları yönetme, öğrencilerle etkili iletişim kurma ve okul-aile iş birliğinin önemini deneyimleme fırsatı sunmuştur. Öğrencilerden, velilerden ve okul yönetiminden alınan olumlu geri bildirimler doğrultusunda etkinliğin amaçlarına başarılı bir şekilde ulaştığı değerlendirilmiştir.
+    `,
+    
+    en: `
+The activities organized within the scope of the 23 April National Sovereignty and Children’s Day at Mahmutlar Kılıçarslan Primary School and Village Life Center created an unforgettable celebration atmosphere for students, teachers, and parents. Third-year students from the Department of Primary Education at Alanya Alaaddin Keykubat University Faculty of Education — Meryem Dolu, Sevilay Erdoğan, Eda Yavuz, and Sude Nur Öztürk — actively participated in the process, worked closely with the students, and contributed to strengthening the excitement and joy of the celebration.
+
+The preparation process for the event started weeks before the celebration day. The university students visited the school regularly, spent time with the 3rd and 4th grade students, and built strong communication through games and interactive activities. During the rehearsals of the “Molecule” and “Castle-Prince” games, students were observed to be highly energetic, enthusiastic, and eager to participate. Through these games, students improved their teamwork skills, cooperation abilities, and active participation in the learning process.
+
+On April 23rd, the school turned into a colorful festival area with the theme of “Children of the World.” Students attended the event wearing costumes representing different countries, creating a vibrant atmosphere reflecting cultural diversity. University students distributed flags representing each child’s assigned country, symbolizing unity, friendship, and solidarity among children around the world.
+
+The program began with speeches emphasizing the importance and meaning of the day. Afterwards, students walked on a red carpet and received great applause. It was observed that the children felt confident and special during this moment. Parents proudly watched their children, while students had the opportunity to improve their self-expression and stage confidence.
+
+Later in the program, mascot performances added excitement and entertainment to the celebration. Students were also offered food, ice cream, popcorn, and various gifts throughout the day. It was clearly observed that the children were happy, excited, and highly engaged during the activities.
+
+The “Molecule” and “Castle-Prince” games attracted great interest from the students. In the Molecule game, students moved with music and quickly formed groups according to the instructions given. Through this activity, their attention skills, quick thinking abilities, and teamwork skills were supported. Students’ efforts to include each other in the games strengthened their sense of friendship and cooperation.
+
+In the Castle-Prince game, students worked together as teams, developed strategies, and tried to protect their teammates. Throughout the game, students constantly communicated, supported one another, and cooperated actively. Due to the students’ enthusiasm, the event area was frequently filled with laughter and cheering. Some students expressed that they wanted to replay the games and voluntarily continued participating in the activities.
+
+At the end of the event, the closing ceremony allowed students to both enjoy themselves and experience the true meaning of April 23rd, symbolizing unity, friendship, and the value given to children. The activities were observed to contribute positively to students’ social communication skills, cooperation abilities, self-confidence, and cultural awareness.
+
+This process also provided valuable experience for the group members in event planning, classroom and group management, effective communication with students, and understanding the importance of school-family cooperation. Based on the positive feedback received from students, parents, and the school administration, the event was considered highly successful in achieving its intended goals.
+    `
+}, 
     images: [
-        "assets/images/placeholder.jpg"
+        "assets/images/bayram12.1.png",
+        "assets/images/bayram12.2.png",
+        "assets/images/bayram12.3.png",
+        "assets/images/bayram12.4.png",
+        "assets/images/bayram12.5.png",
+        
     ],  
-    coverImage: "assets/images/placeholder.jpg"
+    coverImage: "assets/images/bayram12.1.png"
   },
 
 
