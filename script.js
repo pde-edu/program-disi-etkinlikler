@@ -1472,6 +1472,15 @@ This process also provided valuable experience for the group members in event pl
         "assets/images/bayram12.3.png",
         "assets/images/bayram12.4.png",
         "assets/images/bayram12.5.png",
+        "assets/images/bayram12.6.png",
+        "assets/images/bayram12.7.png",
+        "assets/images/bayram12.8.png",
+        "assets/images/bayram12.9.png",
+        "assets/images/bayram12.10.png",
+        "assets/images/bayram12.11.png",
+        "assets/images/bayram12.12.png",
+        "assets/images/bayram12.13.png",
+        "assets/images/bayram12.14.png",
         
     ],  
     coverImage: "assets/images/bayram12.1.png"
