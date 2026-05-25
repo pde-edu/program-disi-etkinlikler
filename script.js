@@ -953,8 +953,8 @@ longDesc: {
 bayram1: {
     category: "gallery2",
     title: {
-      tr: "23 Nisan",
-      en: "April 23rd"
+      tr: "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı",
+      en: "April 23rd National Sovereignty and Children's Day"
     },
 shortDesc: {
   tr: `Sema ASLAN, Sıla ÇETİNTAŞ, İsmahan ŞAHİN ve Yusuf Samet BULUT tarafından 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı kapsamında gerçekleştirilen eğitsel ve sosyal etkinlikler.`,
@@ -990,8 +990,8 @@ Throughout the celebration process, the excitement and happiness of the students
 bayram2: {
     category: "gallery2",
     title: {
-        tr: "23 Nisan",
-        en: "April 23rd"
+        tr: "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı",
+        en: "April 23rd National Sovereignty and Children's Day"
     },  
     shortDesc: {
     tr: "Samet Söyler, Enes Polat, Berat Arslan, Mert Çetintaş ve Ziyettin Devrîş tarafından Kızılcaşehir İlkokulu’nda 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı kapsamında gerçekleştirilen etkinlikler.",
@@ -1030,8 +1030,8 @@ bayram2: {
 bayram3: {
     category: "gallery2",
     title: {
-        tr: "23 Nisan", 
-        en: "April 23rd"
+        tr: "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı", 
+        en: "April 23rd National Sovereignty and Children's Day"
     },  
     shortDesc: {
     tr: "Melisa Karataş, Lokman Ernez ve Kenan Bozkurt tarafından Kemal Şuberi İlkokulu’nda 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı kapsamında gerçekleştirilen etkinlikler.",
@@ -1054,8 +1054,8 @@ bayram3: {
 bayram4: {
     category: "gallery2",
     title: {
-        tr: "23 Nisan", 
-        en: "April 23rd"
+        tr: "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı", 
+        en: "April 23rd National Sovereignty and Children's Day"
     },  
  shortDesc: {
     tr: "Halime Cemre Keleş, Selenay Deniz, Gülten Çapar, Gizem Düldül, Furkan Saygılı ve Dilan Oktay tarafından Hayate Hanım İlkokulu’nda 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı kapsamında gerçekleştirilen etkinlikler.",
@@ -1128,8 +1128,8 @@ longDesc: {
 bayram5: {  
     category: "gallery2",
     title: {
-        tr: "23 Nisan",
-        en: "April 23rd"
+        tr: "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı",
+        en: "April 23rd National Sovereignty and Children's Day"
     },  
     shortDesc: {
     tr: "Erva Gül Orçin, Gamze Gül Işık, Esma Atalay, Volkan Tunç ve Mustafa Kemal Çelik tarafından Alantur Ayhan Şahenk İlkokulu’nda 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı kapsamında gerçekleştirilen etkinlikler.",
@@ -1164,8 +1164,8 @@ bayram5: {
 bayram6: {
     category: "gallery2",
     title: {    
-        tr: "23 Nisan",
-        en: "April 23rd"
+        tr: "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı",
+        en: "April 23rd National Sovereignty and Children's Day"
     },
     shortDesc: {
     tr: "Helen YÜCEDAĞ, Seda KURTAY, Edanur KOLUMAN, Rojin AKMAN ve Arzu AKKUŞ tarafından Fatma Özmüftüoğlu İlkokulu’nda 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı kapsamında gerçekleştirilen etkinlikler.",
@@ -1202,8 +1202,8 @@ bayram6: {
 bayram7: { 
     category: "gallery2",
     title: {
-        tr: "23 Nisan", 
-        en: "April 23rd"
+        tr: "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı", 
+        en: "April 23rd National Sovereignty and Children's Day"
     },  
     shortDesc: {
     tr: "İclal GENÇ, Rumeysa ŞEN ve Behican KARAL tarafından Atatürk İlkokulu’nda 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı kapsamında gerçekleştirilen etkinlikler.",
@@ -1235,8 +1235,8 @@ bayram7: {
 bayram8: {
     category: "gallery2",
     title: {    
-        tr: "23 Nisan",
-        en: "April 23rd"
+        tr: "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı",
+        en: "April 23rd National Sovereignty and Children's Day"
     },  
     shortDesc: {
         tr: "Ulusal Egemenlik ve Çocuk Bayramı",
@@ -1258,8 +1258,8 @@ bayram8: {
 bayram9: {
     category: "gallery2",
     title: {
-        tr: "23 Nisan",
-        en: "April 23rd"
+        tr: "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı",
+        en: "April 23rd National Sovereignty and Children's Day"
     },  
    shortDesc: {
     tr: "Fatma Erdoğan, Fatma Aydın, Hazal Kulaz ve Zeynep Su Sağlamer tarafından Bilgi Bulut İlkokulu’nda gerçekleştirilen 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı etkinlikleri.",
@@ -1284,42 +1284,134 @@ Our team participated in the preparations for the April 23 National Sovereignty 
 bayram10: {
     category: "gallery2",
     title: {
-        tr: "23 Nisan",
-        en: "April 23rd"
+        tr: "19 Mayıs Atatürk’ü Anma, Gençlik ve Spor Bayramı",
+        en: "19 May Commemoration of Atatürk, Youth and Sports Day"
     },      
-    shortDesc: {
-        tr: "Ulusal Egemenlik ve Çocuk Bayramı",
-        en: "National Sovereignty and Children's Day"
-    },
+   shortDesc: {
+    tr: "Gökhan Deniz, İrem Gündüz, Mehmet Abdullah Aslan, Muhammed Peker ve Yusuf Renas Gündoğdu tarafından, 19 Mayıs Atatürk’ü Anma, Gençlik ve Spor Bayramı kapsamında İnönü İlkokulu’nda geleneksel oyun ve koro etkinlikleri gerçekleştirilmiştir.",
+    
+    en: "Traditional games and choir activities were organized at İnönü Primary School by Gökhan Deniz, İrem Gündüz, Mehmet Abdullah Aslan, Muhammed Peker, and Yusuf Renas Gündoğdu as part of the 19 May Commemoration of Atatürk, Youth and Sports Day celebrations."
+},
     longDesc: {
-        tr: "Okul etkinlikleri ile kutlandı.",
-        en: "Celebrated with school activities."
-    },  
+    tr: `
+Bu çalışma, Eğitimde Program Dışı Etkinlikler dersi kapsamında Dr. Öğr. Üyesi Sibel Dal hocamızın yönlendirmesiyle İnönü İlkokulu’nda grubumuz tarafından gerçekleştirilmiştir. Etkinliğe grup üyeleri gönüllü olarak katılım sağlamıştır. Seçilen ilkokulun müziğe, oyunlara ve yarışmalara olan ilgisi ile dinamik yapısı, etkinliklerin planlanması ve yürütülmesi sürecinde önemli bir motivasyon kaynağı olmuştur.
+
+Gerçekleştirilen etkinliklerden ilki “Yağ Satarım Bal Satarım” oyunudur. Bu etkinlikte oyun alanının hazırlanması, yarışmacı öğrencilerin belirlenmesi, öğrencilerin hizalanması ve hakemlik süreçlerinde aktif rol alınmıştır. Etkinlik yaklaşık üç hafta boyunca haftada bir gün prova yapılarak hazırlanmıştır. Öğrencilerin oyun sürecine yoğun ilgi gösterdiği ve kurallara uyma konusunda istekli davrandıkları gözlemlenmiştir.
+
+Bir diğer etkinlik ise “Tohumlar Fidana” isimli koro çalışmasıdır. Bu etkinlikte grup üyeleri aktif görev almış; Gökhan Deniz yönlendirici rol üstlenirken Mehmet, Muhammed ve Renas yardımcı rolünde yer almıştır. Koro çalışması, 19 Mayıs Atatürk’ü Anma, Gençlik ve Spor Bayramı kapsamında okulda gösteri olarak sunulmuştur. Öğrenciler şarkı çalışmalarına büyük bir heyecanla katılmış ve canlı gitar eşliğinde yapılan provalar motivasyonlarını artırmıştır.
+
+Gerçekleştirilen tüm etkinliklerde 2. sınıf öğrencilerinin bilişsel ve duyuşsal katılım düzeylerinin oldukça yüksek olduğu gözlemlenmiştir. Program dışı etkinliklerin öğrencilerin yalnızca fiziksel ve sanatsal becerilerini değil; aynı zamanda dikkat, odaklanma ve iş birliği becerilerini de geliştirdiği görülmüştür. Süreç boyunca öğrenciler etkinliklere yoğun ilgi göstermiş ve etkinliklerle güçlü bir duygusal bağ kurmuştur.
+
+Öğrencilerin motivasyonunu artırmak amacıyla dinamik ve eğlenceli yöntemler kullanılmıştır. “Yağ Satarım Bal Satarım” oyununda çocukların doğal ilgisi adil bir yönetim anlayışı ve uygun alan düzenlemesiyle desteklenmiştir. “Tohumlar Fidana” koro çalışmasında ise etkinliğin açık havada ve canlı gitar eşliğinde gerçekleştirileceğinin belirtilmesi öğrencilerin heyecanını artırmış ve çalışmalara daha büyük bir istekle katılmalarını sağlamıştır.
+
+Okul atmosferinin ve öğretmenlerin yaklaşımının etkinlikler için oldukça uygun olduğu görülmüştür. Öğretmenler sürecin başından itibaren destekleyici bir tutum sergilemiş, aileler de etkinliklere katkı sağlayarak sürecin kolaylaşmasına yardımcı olmuştur. Özellikle koro çalışması için gerekli enstrümanların temin edilmesinde velilerin desteği önemli bir katkı sağlamıştır.
+
+Etkinliklerin belirlenen amaçlara büyük ölçüde ulaştığı değerlendirilmiştir. “Yağ Satarım Bal Satarım” oyunu sayesinde öğrencilerin kurallara uyma, sıra bekleme ve iş birliği becerilerinde gelişim gözlemlenmiştir. Koro çalışması ise öğrencilerin ritim duygularını, özgüvenlerini ve topluluk önünde performans sergileme becerilerini desteklemiştir. Öğrencilerin süreç boyunca gösterdiği yüksek motivasyon ile öğretmen ve velilerin desteği, etkinliklerin verimli bir şekilde tamamlanmasını sağlamıştır.
+
+Etkinliklerin tekrar gerçekleştirilmesi durumunda, koro çalışmasına farklı ritim aletlerinin eklenmesi ve canlı enstrüman çeşitliliğinin artırılması planlanmaktadır. Ayrıca açık hava etkinliklerinde hava koşullarının daha ayrıntılı düşünülmesi gerektiği fark edilmiştir. Özellikle hakemlik yapılan süreçlerde ve öğrencilerin açık alanda uzun süre bulunduğu etkinliklerde şapka, güneş kremi ve gölgelik alan gibi koruyucu önlemlerin önceden planlanmasının önemli olduğu değerlendirilmiştir.
+
+Öğrencilerden alınan geri bildirimler oldukça olumlu olmuştur. Süreç boyunca öğrencilerin mutluluğu, enerjileri ve etkinliklerin devam etmesini istemeleri etkinliklerin başarısını gösteren en önemli dönütlerden biri olmuştur.
+
+Bu deneyim sayesinde çocukların yüksek içsel motivasyonlarının canlı müzik, oyun ve açık hava etkinlikleriyle desteklendiğinde öğrenme sürecinin çok daha etkili hâle geldiği görülmüştür. Aynı zamanda okul, öğretmen ve veli iş birliğinin etkinliklerin başarısındaki önemi daha yakından deneyimlenmiştir. Açık alan etkinliklerinde saha yönetimi, hava koşulları ve güvenlik önlemlerinin planlanmasının ne kadar önemli olduğu da uygulamalı olarak öğrenilmiştir.
+
+Süreç sonunda, çocukların mevcut enerjilerini ve isteklerini doğru şekilde yönlendirebilmenin etkinliklerin verimini artırdığı gözlemlenmiştir. Yapılan çalışmaların hem öğrenciler hem de grup üyeleri açısından öğretici, eğlenceli ve unutulmaz bir deneyim olduğu değerlendirilmiştir.
+    `,
+
+    en: `
+This study was carried out by our group at İnönü Primary School under the guidance of Dr. Lecturer Sibel Dal within the scope of the Out-of-School Activities in Education course. All group members participated voluntarily in the activities. The school’s dynamic structure and students’ interest in music, games, and competitions became an important source of motivation throughout the planning and implementation process.
+
+The first activity organized was the traditional game “Yağ Satarım Bal Satarım.” During this activity, active roles were taken in preparing the play area, selecting participants, organizing students, and refereeing the game. The activity was prepared through weekly rehearsals over a period of approximately three weeks. It was observed that students showed great interest in the game and willingly followed the rules.
+
+Another activity was the choir performance titled “Tohumlar Fidana.” Group members actively participated in this process; Gökhan Deniz acted as the leader while Mehmet, Muhammed, and Renas took supporting roles. The choir performance was presented as part of the 19 May Commemoration of Atatürk, Youth and Sports Day celebrations at the school. Students participated enthusiastically in the rehearsals, and practicing with live guitar accompaniment significantly increased their motivation.
+
+It was observed that the cognitive and emotional participation levels of the 2nd grade students were very high throughout all activities. These out-of-school activities contributed not only to students’ physical and artistic development but also to their attention, concentration, and cooperation skills. Students showed strong interest and developed a positive emotional connection with the activities.
+
+Dynamic and enjoyable methods were used to increase student motivation. In the “Yağ Satarım Bal Satarım” game, children’s natural interest was maintained through fair management and proper organization of the activity area. During the “Tohumlar Fidana” choir rehearsals, students were informed that the performance would take place outdoors with live guitar accompaniment, which greatly increased their excitement and willingness to participate.
+
+The school atmosphere and teachers’ attitudes were highly supportive throughout the process. Teachers provided support from the very beginning, while parents also contributed by helping provide the necessary instruments and materials for the choir performance.
+
+The activities were evaluated as highly successful in achieving their intended objectives. Through the “Yağ Satarım Bal Satarım” game, students improved their ability to follow rules, wait their turn, and cooperate with others. The choir activity supported students’ sense of rhythm, self-confidence, and ability to perform in front of an audience. The high motivation of the students together with the support of teachers and parents contributed greatly to the successful completion of the activities.
+
+If the activities were to be organized again, the group would like to increase the variety of live instruments and include additional rhythm instruments in the choir performance. It was also realized that outdoor activities require more detailed planning regarding weather conditions. Protective measures such as hats, sunscreen, and shaded areas should be considered in advance, especially during long outdoor activities and refereeing processes.
+
+The feedback received from students was highly positive. Students’ happiness, energy, and desire for the activities to continue were among the clearest indicators of the success of the process.
+
+This experience demonstrated that supporting children’s natural motivation through live music, games, and outdoor activities makes the learning process much more effective. It also highlighted the importance of cooperation among schools, teachers, and parents in ensuring successful educational activities. In addition, the importance of field management, weather conditions, and safety precautions in outdoor activities was learned through direct experience.
+
+At the end of the process, it was observed that properly directing students’ existing energy and enthusiasm significantly increased the effectiveness of the activities. The entire process was considered an educational, enjoyable, and unforgettable experience for both the students and the group members.
+    `
+},  
 
     images: [
-        "assets/images/placeholder.jpg"
+        "assets/images/bayram10.1.png",
+        "assets/images/bayram10.2.png",
+        "assets/images/bayram10.3.png",
+        "assets/images/bayram10.4.png",
+        "assets/images/bayram10.5.png",
+        "assets/images/bayram10.6.png",
     ],  
-    coverImage: "assets/images/placeholder.jpg"
+    coverImage: "assets/images/bayram10.1.png"
   },
 
 bayram11: {
     category: "gallery2",
     title: {    
-        tr: "23 Nisan",
-        en: "April 23rd"
+        tr: "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı",
+        en: "April 23rd National Sovereignty and Children's Day "
     },  
-    shortDesc: {
-        tr: "Ulusal Egemenlik ve Çocuk Bayramı",
-        en: "National Sovereignty and Children's Day"
-    },
+   shortDesc: {
+    tr: "Gökhan Deniz, İrem Gündüz, Mehmet Abdullah Aslan, Muhammed Peker ve Yusuf Renas Gündoğdu tarafından, 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı kapsamında İnönü İlkokulu’nda Türk Halk Dansları gösteri çalışmaları gerçekleştirilmiştir.",
+    
+    en: "Turkish Folk Dance performance rehearsals were organized at İnönü Primary School by Gökhan Deniz, İrem Gündüz, Mehmet Abdullah Aslan, Muhammed Peker, and Yusuf Renas Gündoğdu as part of the 23 April National Sovereignty and Children’s Day celebrations."
+},
     longDesc: {
-        tr: "Okul etkinlikleri ile kutlandı.",
-        en: "Celebrated with school activities."
-    },  
+    tr: `
+Bu çalışma, Eğitimde Program Dışı Etkinlikler dersi kapsamında Dr. Öğr. Üyesi Sibel Dal hocamızın yönlendirmesiyle İnönü İlkokulu’nda grubumuz tarafından gerçekleştirilmiştir. Etkinliğe grup üyeleri gönüllü olarak katılım sağlamıştır. Seçilen ilkokulun müziğe, yarışmalara ve etkinliklere olan ilgisi ile dinamik yapısı, etkinliklerin planlanması ve yürütülmesi sürecinde önemli bir motivasyon kaynağı olmuştur.
+
+23 Nisan Ulusal Egemenlik ve Çocuk Bayramı kapsamında gerçekleştirilen etkinlikte, İrem Gündüz’ün önderliğinde 2. sınıf öğrencilerine Türk Halk Dansları çalıştırılmıştır. Gösteri provaları yaklaşık bir aylık süreçte haftada bir gün düzenli olarak gerçekleştirilmiş, gerekli durumlarda hafta içindeki diğer günlerde de ek çalışmalar yapılmıştır. Diğer grup üyeleri ise süreçte gözlemci ve yardımcı roller üstlenmiştir.
+
+Etkinlik sürecinde 2. sınıf öğrencilerinin bilişsel ve duyuşsal katılım düzeylerinin oldukça yüksek olduğu gözlemlenmiştir. Öğrenciler etkinliklere büyük bir ilgiyle yaklaşmış, süreç boyunca istekli ve aktif bir katılım göstermiştir. Gerçekleştirilen program dışı etkinliklerin öğrencilerin yalnızca fiziksel ve sanatsal becerilerini geliştirmediği; aynı zamanda dikkat, odaklanma ve ritim becerilerini de desteklediği görülmüştür. Bunun yanında öğrencilerin etkinlik sürecine karşı güçlü ve olumlu bir duygusal bağ geliştirdikleri gözlemlenmiştir.
+
+Öğrencilerin motivasyonunu artırmak amacıyla süreç boyunca eğlenceli ve dinamik yöntemler kullanılmıştır. 23 Nisan provalarında bayram coşkusu eğlenceli bir atmosfere dönüştürülmüş, öğrencilerin hem eğlenmeleri hem de disiplinli bir şekilde prova yapmaları desteklenmiştir. Bu yaklaşım öğrencilerin etkinliklere olan ilgisini artırmış ve provaların daha verimli ilerlemesini sağlamıştır.
+
+Okul atmosferinin ve öğretmenlerin yaklaşımının etkinlikler için oldukça uygun olduğu görülmüştür. Öğretmenler sürecin başından itibaren destekleyici bir tutum sergilemiş, aileler de etkinliklere katkı sağlayarak sürecin kolaylaşmasına yardımcı olmuştur. Öğretmen, veli ve grup üyeleri arasındaki güçlü iletişim ve iş birliği etkinliklerin başarılı bir şekilde yürütülmesini desteklemiştir.
+
+Gerçekleştirilen etkinliklerin belirlenen amaçlara başarıyla ulaştığı değerlendirilmiştir. 23 Nisan gösteri çalışmaları sayesinde öğrencilerin koordinasyon becerileri, ritim duyguları ve sahne performansları gelişmiştir. Bayram coşkusunun öğrenciler tarafından sahneye başarılı bir şekilde taşındığı gözlemlenmiştir. Öğrencilerin süreç boyunca gösterdiği yüksek motivasyon ve etkinliklere duydukları ilgi, hedeflenen kazanımların elde edilmesini sağlamıştır.
+
+Öğrencilerden alınan geri bildirimler oldukça olumlu olmuştur. Süreç boyunca çocukların mutluluğu, enerjileri ve etkinliklerin devam etmesini istemeleri etkinliklerin başarısını gösteren en önemli dönütlerden biri olmuştur.
+
+Bu deneyim sayesinde okul, öğretmen ve veli iş birliğinin etkinliklerin başarısındaki büyük rolü daha yakından görülmüştür. Ayrıca açık alan uygulamalarında saha yönetimi, hava koşulları ve organizasyon süreçlerinin planlanmasının önemine dair uygulamalı deneyim kazanılmıştır.
+
+Süreç sonunda çocukların mevcut enerjilerini ve isteklerini doğru şekilde yönlendirebilmenin etkinliklerin verimini artırdığı gözlemlenmiştir. Yapılan çalışmaların hem öğrenciler hem de grup üyeleri açısından öğretici, eğlenceli ve unutulmaz bir deneyim olduğu değerlendirilmiştir.
+    `,
+
+    en: `
+This study was carried out by our group at İnönü Primary School under the guidance of Dr. Lecturer Sibel Dal within the scope of the Out-of-School Activities in Education course. Group members participated in the activities voluntarily. The school’s dynamic structure and students’ interest in music, competitions, and activities became an important source of motivation throughout the planning and implementation process.
+
+As part of the 23 April National Sovereignty and Children’s Day celebrations, Turkish Folk Dance rehearsals were organized for 2nd grade students under the leadership of İrem Gündüz. Rehearsals were carried out regularly once a week for approximately one month, and additional practices were organized on weekdays when necessary. Other group members took part in the process as observers and assistants.
+
+Throughout the activity process, it was observed that the cognitive and emotional participation levels of the 2nd grade students were very high. Students showed great interest in the activities and participated actively and enthusiastically throughout the process. These out-of-school activities contributed not only to students’ physical and artistic development but also to their attention, concentration, and rhythm skills. In addition, students developed a strong and positive emotional connection with the activities.
+
+Fun and dynamic methods were used throughout the process to increase student motivation. During the 23 April rehearsals, the excitement of the national celebration was transformed into an enjoyable atmosphere, allowing students to have fun while also rehearsing in a disciplined way. This approach increased students’ interest in the activities and made the rehearsals more productive.
+
+The school atmosphere and teachers’ attitudes were highly suitable for the activities. Teachers provided support from the beginning of the process, while parents also contributed to the activities and helped facilitate the process. Strong communication and cooperation among teachers, parents, and group members supported the successful implementation of the activities.
+
+The activities were evaluated as successful in achieving their intended objectives. Through the 23 April performance rehearsals, students improved their coordination skills, sense of rhythm, and stage performance abilities. It was observed that students successfully reflected the excitement and spirit of the national celebration on stage. Their high motivation and strong interest throughout the process contributed greatly to achieving the targeted outcomes.
+
+The feedback received from students was highly positive. Students’ happiness, energy, and unwillingness for the activities to end were among the clearest indicators of the success of the process.
+
+This experience highlighted the significant role of cooperation among schools, teachers, and parents in the success of educational activities. In addition, practical experience was gained regarding field management, weather conditions, and organizational planning in outdoor activities.
+
+At the end of the process, it was observed that properly guiding students’ existing energy and enthusiasm increased the effectiveness of the activities. The entire process was considered an educational, enjoyable, and unforgettable experience for both the students and the group members.
+    `
+},  
     images: [
-        "assets/images/placeholder.jpg"
+        "assets/images/bayram11.1.png",
+        "assets/images/bayram11.2.png",
+        "assets/images/bayram11.3.png",
+        "assets/images/bayram11.4.png",
     ],  
-    coverImage: "assets/images/placeholder.jpg"
+    coverImage: "assets/images/bayram11.3.png"
   },
 
 bayram12: {
