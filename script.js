@@ -497,7 +497,12 @@ At the end of the project, the positive feedback received from the school admini
         "assets/images/etkinlik3.3.png",
         "assets/images/etkinlik3.4.png",
         "assets/images/etkinlik3.5.png",
-
+        "assets/images/etkinlik3.6.png",
+        "assets/images/etkinlik3.7.png",
+        "assets/images/etkinlik3.8.png",
+        "assets/images/etkinlik3.9.png",
+        "assets/images/etkinlik3.10.png",
+        "assets/images/etkinlik3.11.png",
     ],  
 
   coverImage: "assets/images/etkinlik3.1.png"
