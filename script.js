@@ -1145,6 +1145,7 @@ This study was carried out within the scope of the “Out-of-School Activities i
     },  
 
 etkinlik13: {
+    id: "etkinlik13",
     category: "gallery3",
     title: {
       tr: "Dünya Oyun Günü- Geleneksel Çocuk Oyunları Etkinliği",
