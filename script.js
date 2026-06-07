@@ -1234,21 +1234,18 @@ Overall, the activities conducted for World Play Day were highly productive for 
   `
 },
     images: [
-      "assets/images/etkinlik13.1.png",
-      "assets/images/etkinlik13.2.png",
-      "assets/images/etkinlik13.3.png",
-        "assets/images/etkinlik13.4.png",
-        "assets/images/etkinlik13.5.png",
+    "assets/images/etkinlik13.1.png",
+    "assets/images/etkinlik13.2.png",
+    "assets/images/etkinlik13.3.png",
+    "assets/images/etkinlik13.4.png",
+    "assets/images/etkinlik13.5.png",
     "assets/images/etkinlik13.6.png",
     "assets/images/etkinlik13.7.png",
     "assets/images/etkinlik13.8.png",
     "assets/images/etkinlik13.9.png",
     ],
-    coverImage: "assets/images/etkinlik13.1.png"
-
+    coverImage: "assets/images/etkinlik13.2.png"
   },
-
-
 
         bayram1: {
     category: "gallery2",
@@ -2090,7 +2087,6 @@ Overall, the Antalya Aquarium trip successfully achieved its objectives. It cont
     coverImage: "assets/images/odoo2.1.png"
 },
  
-
 };
  
 renderAllGalleries();
