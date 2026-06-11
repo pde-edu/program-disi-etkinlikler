@@ -1229,27 +1229,78 @@ In conclusion, the fact that all students completed their explorer passports, cr
     en: "Activities organized by İclal GENÇ, Rumeysa ŞEN, and Behican KARAL at Atatürk Primary School within the scope of World Health Week."
 },  
     longDesc: {
-    tr:
-        "Okul seçiminde, okul yönetiminin ve öğretmenlerin iş birliğine açık, destekleyici tutumlarını ve okulun ulaşılabilir konumunu önceliklendirdik. İki güne yayılan ve toplam 4 ders saatinden oluşan uygulamalı eğitim sürecimiz planlı ve verimli bir şekilde gerçekleştirilmiştir. " +
+    tr:`
+        Etkinliğin Tanıtımı
 
-        "1. Gün: Hemşire Hilal ERDANA tarafından “Hijyen Eğitimi”, öğretmen adayı İclal GENÇ tarafından ise “Ağız ve Diş Sağlığı Eğitimi” verilmiştir. Öğrenciler hijyen kuralları, kişisel bakım ve ağız-diş sağlığının önemi hakkında bilgilendirilmiş; süreç boyunca soru-cevap etkinlikleriyle aktif katılım göstermişlerdir. " +
+Eğitimde Program Dışı Etkinlikler dersi kapsamında, İclal Genç, Behican Karal ve Rumeysa Şen’den oluşan üç kişilik grubumuzla 3. sınıf öğrencilerine yönelik “Sağlık Haftası” etkinlikleri gerçekleştirdik. Toplam dört hafta süren ve dört ders saatini kapsayan bu çalışmanın temel amacı, öğrencilerin kişisel bakım süreçlerinde kaynakları verimli kullanmalarını sağlamak ve sağlıklı yaşam için dengeli beslenmenin önemini kavramalarına yardımcı olmaktı.
 
-        "2. Gün: İclal GENÇ tarafından gerçekleştirilen “Beslenme Eğitimi”nin ardından öğrencilerle birlikte hazırlanan sağlıklı kahvaltı tabakları eşliğinde interaktif bir öğün etkinliği gerçekleştirilmiştir. Programın son bölümünde ise Fizyoterapist Mukaddes TEKİN, teorik egzersiz dersinin ardından okul bahçesinde uygulamalı fiziksel aktiviteler yaptırmıştır. Böylece öğrenciler sağlıklı yaşam alışkanlıklarını uygulamalı şekilde deneyimleme fırsatı bulmuşlardır. " +
+Etkinliğin Konusu ve Amacı
 
-        "Etkinlik süresince okul yönetimi ve sınıf öğretmeni, sınıf yönetimini ve içerik kontrolünü tamamen grubumuza bırakarak bizlere duydukları güveni ve desteklerini göstermişlerdir. Öğrencilerin bilişsel ve duyuşsal motivasyonlarının oldukça yüksek olduğu gözlemlenmiştir. Temizlik, spor ve beslenme konularına olan ilgileri sayesinde dersler soru-cevap etkinlikleri ve kişisel deneyim paylaşımlarıyla oldukça aktif ve verimli geçmiştir. " +
+Sağlık Haftası kapsamında planlanan etkinliklerde öğrencilerin kişisel hijyen alışkanlıklarını geliştirmeleri, ağız ve diş sağlığının önemini kavramaları, dengeli beslenme konusunda bilinç kazanmaları ve fiziksel sağlıklarını korumaya yönelik farkındalık geliştirmeleri amaçlanmıştır. Ayrıca öğrencilerin sağlıkla ilgili bilgileri günlük yaşamlarına aktarabilmeleri ve sağlıklı yaşam alışkanlıkları kazanmaları hedeflenmiştir.
 
-        "Uygulamalı eğitimler ve bahçe etkinlikleri sayesinde öğrencilerde sağlık bilincinin pekiştiği ve tüm öğrencilerin sürece aktif katılım sağladığı gözlemlenmiştir. Bu deneyim bizlere, dışarıdan gelen uzman desteğinin (hemşire, fizyoterapist vb.) öğrencilerin ilgisini çekmede ne kadar etkili olduğunu ve teorik bilginin uygulama ile birleştiğinde kalıcı öğrenme sağladığını göstermiştir. Genel olarak değerlendirildiğinde etkinliğin amaçlarına ulaştığı ve hem mesleki gelişimimiz hem de öğrencilerin farkındalık kazanması açısından başarılı bir süreç olduğu düşünülmektedir.",
+Hazırlık Süreci
 
-    en:
-        "In selecting the school, we prioritized the supportive and cooperative attitudes of the school administration and teachers, as well as the school’s accessible location. Our practice-based educational process, which lasted for two days and covered a total of four class hours, was carried out in a planned and productive manner. " +
+Etkinlik sürecimizin ilk haftasında okulumuzu ziyaret ederek bilgilendirme amaçlı görüşmeler gerçekleştirdik ve gerekli izinleri aldık. Ziyaret ettiğimiz okulda Sağlık Haftası kapsamında planlanmış özel bir program bulunmadığından, ikinci haftada bu belirli gün ve haftanın önemi hakkında okul yönetimi ve öğrencilerle bilgilendirme çalışmaları yaptık.
 
-        "Day 1: Nurse Hilal ERDANA provided “Hygiene Education,” while teacher candidate İclal GENÇ delivered “Oral and Dental Health Education.” Students were informed about hygiene rules, personal care, and the importance of oral and dental health, and they actively participated through question-and-answer activities throughout the process. " +
+Hazırlık aşamasında grup üyeleri arasında görev dağılımı yaparak kullanacağımız dev diş modelini, sunum materyallerini ve etkinlik planlarını hazırladık. Öğrencilerin ilgisini çekecek ve aktif katılımlarını sağlayacak uygulamalara yer vermeye özen gösterdik.
 
-        "Day 2: Following the “Nutrition Education” conducted by İclal GENÇ, an interactive meal activity was organized with healthy breakfast plates prepared together with the students. In the final part of the program, Physiotherapist Mukaddes TEKİN conducted practical physical activities in the school garden after a theoretical exercise lesson. Thus, students had the opportunity to experience healthy lifestyle habits through hands-on activities. " +
+Uygulama Günü
 
-        "Throughout the activity, the school administration and classroom teacher demonstrated their trust and support by leaving classroom management and content control entirely to our group. It was observed that students’ cognitive and emotional motivation levels were quite high. Due to their interest in hygiene, sports, and nutrition, the lessons became highly interactive and productive through question-and-answer activities and personal experience sharing. " +
+Sonraki iki hafta boyunca haftada iki gün okula giderek planladığımız etkinlikleri uyguladık. İlk dersimizde “Görünmez Kalkan” konseptiyle öğrencilerin dikkatini çekmeyi amaçladık. Oyun parkından sonra ellerini yıkamadan elma yiyen Ali’nin örnek olayını öğrencilerle birlikte tartıştık. Ardından Behican ve Rumeysa öğretmenler eşliğinde doğru el yıkama basamaklarını uygulamalı olarak gösterdik.
 
-        "Thanks to the practical lessons and outdoor activities, it was observed that students’ awareness of health was reinforced and that all students actively participated in the process. This experience showed us how effective the support of external experts such as nurses and physiotherapists can be in attracting students’ attention and how theoretical knowledge becomes permanent when combined with practice. Overall, it is believed that the activity achieved its goals and became a successful process both for our professional development and for increasing students’ awareness."
+İkinci dersimizde İclal öğretmen, hazırlanan “Dev Diş Modeli” üzerinde doğru diş fırçalama tekniklerini anlattı ve yukarıdan aşağıya süpürme hareketinin nasıl uygulanacağını gösterdi. Aynı gün öğrencilerin evlerinden getirdikleri yiyeceklerle birlikte “Sağlıklı Kahvaltı Sofrası” oluşturduk. Kahvaltı sırasında besin gruplarını inceleyerek dengeli beslenmenin önemi üzerine sohbet ettik.
+
+Etkinliğin bir diğer aşamasında ise bir fizyoterapistin rehberliğinde okul bahçesinde sabah egzersizleri gerçekleştirdik. Büyüme çağında görülebilen duruş bozukluklarını önlemeye yönelik hazırlanan bu egzersizler oyunlaştırılarak uygulandı ve öğrencilerin sürece eğlenerek katılması sağlandı.
+
+Gözlemlerimiz
+
+Etkinlik süreci boyunca öğrencilerin ve öğretmenlerin katılımı oldukça olumlu ve destekleyiciydi. Özellikle “İnsan Vücudu Kullanım Kılavuzu” sunumu ile okul bahçesinde gerçekleştirilen egzersiz etkinlikleri öğrencilerin dikkatini çekti ve onların sürece aktif katılım göstermelerini sağladı.
+
+Öğrencilerin uygulamalı etkinliklerde daha istekli oldukları, özellikle el yıkama, diş fırçalama ve egzersiz uygulamalarına büyük ilgi gösterdikleri gözlemlendi. Sağlık konularını günlük yaşamla ilişkilendirebildikleri ve öğrendiklerini paylaşmaktan keyif aldıkları görüldü.
+
+Çocuklardan Aldığımız Dönütler
+
+Etkinliklerin sonunda “Bugün vücudumuzun görünmez kalkanını güçlendirmek için neler yaptık?” sorusu etrafında açık uçlu bir değerlendirme ve yansıtma çemberi oluşturduk. Öğrenciler öğrendikleri bilgileri heyecanla paylaşarak hem hijyen kurallarını hem de sağlıklı beslenmeye ilişkin detayları ifade ettiler.
+
+Çocukların büyük çoğunluğu doğru el yıkama ve diş fırçalama alışkanlıklarının önemini vurgularken, sağlıklı beslenmenin büyüme ve gelişme üzerindeki etkileri hakkında da görüşlerini dile getirdi. Bu geri bildirimler, etkinliğin hedeflerine ulaştığını göstermesi açısından oldukça değerliydi.
+
+Bu Deneyimin Bize Kazandırdıkları
+
+Dört hafta süren bu süreç, öğretmenlik mesleğine ilişkin pek çok önemli deneyim kazanmamızı sağladı. Etkinlik planlama, uygulama, öğrenci katılımını sağlama ve sınıf yönetimi gibi alanlarda kendimizi geliştirme fırsatı bulduk.
+
+Ayrıca öğrencilerin yaşayarak ve uygulayarak öğrendikleri etkinliklerin ne kadar etkili olduğunu gözlemleme şansı elde ettik. Sağlık eğitiminin erken yaşlarda kazandırılmasının önemini daha iyi anladık ve okul dışı etkinliklerin öğrencilerin kalıcı öğrenmelerine önemli katkılar sunduğunu deneyimledik.
+
+Bu süreç boyunca edindiğimiz mesleki deneyimler ve kazanımlar, öğretmenlik mesleğine bakış açımızı geliştirmiştir. Bizlere bu deneyimi yaşama fırsatı sunan ve süreç boyunca rehberlik eden Doç. Dr. Sibel Dal’a teşekkürlerimizi sunarız.
+`,
+    en:`
+       Introduction of the Activity
+
+As part of our Out-of-School Activities in Education course, our three-member group consisting of İclal Genç, Behican Karal, and Rumeysa Şen carried out a series of “Health Week” activities for 3rd-grade students. The main purpose of this four-week project, which lasted for a total of four class hours, was to help children use resources efficiently during their personal hygiene routines and to raise their awareness of the importance of balanced nutrition for a healthy lifestyle.
+
+Preparation Process
+
+During the first week of the activity process, we visited the school, conducted informative meetings, and obtained the necessary permissions. Since the school we visited did not have a specifically planned Health Week program, we introduced the significance of this special week to the school during the second week. We divided responsibilities among ourselves and prepared the giant tooth model, presentations, and activity plans that would be used throughout the process.
+
+Implementation Day
+
+During the following two weeks, we visited the school twice a week and implemented our plans. In our first lesson, we attracted the students’ attention through the “Invisible Shield” concept. By discussing the case of Ali, who ate an apple without washing his hands after playing in the playground, Behican and Rumeysa teachers demonstrated the correct handwashing steps through practical application.
+
+In the second lesson, Teacher İclal explained proper toothbrushing techniques using the “Giant Tooth Model,” demonstrating the sweeping motion from top to bottom. On the same day, we set up a “Healthy Breakfast Table” together using the foods that the children brought from home and examined the different food groups on the table as a class.
+
+In another stage of the process, we carried out gamified morning exercise activities in the schoolyard under the guidance of a physiotherapist to help prevent posture disorders during the growth period.
+
+Our Observations
+
+The participation of both students and teachers was highly positive. In particular, the “Human Body User Manual” presentation and the exercise session held in the schoolyard enabled the children to become actively involved in the process.
+
+Feedback We Received from the Children
+
+At the end of the day, we organized an open-ended reflection circle around the question, “What did we do today to strengthen our body's invisible shield?” The children enthusiastically shared both hygiene practices and details about healthy nutrition with us.
+
+What This Experience Gained for Us
+
+This four-week process allowed us to gain many positive and challenging experiences related to the teaching profession. We would like to express our gratitude to Assoc. Prof. Dr. Sibel Dal, who provided us with the opportunity to gain this professional perspective and valuable experience through this course.
+ `
 },
     images: [
         "assets/images/etkinlik11.1.png",   
@@ -2236,17 +2287,90 @@ bayram7: {
     en: "Activities organized by İclal GENÇ, Rumeysa ŞEN, and Behican KARAL at Atatürk Primary School within the scope of April 23 National Sovereignty and Children's Day."
 },
     longDesc: {
-    tr:
-        "21 Nisan’da  3. sınıf öğrencileriyle birlikte sınıf süsleme etkinlikleri gerçekleştirilmiştir. Öğrencilerle iş birliği içerisinde çalışılarak sınıf ortamı etkinliğin temasına uygun şekilde hazırlanmış, öğrencilerin sürece aktif katılım göstermeleri desteklenmiştir. Yapılan süsleme çalışmaları sayesinde öğrencilerin hem sosyal etkileşimleri güçlenmiş hem de etkinliklere karşı motivasyonları artmıştır. " +
+    tr:`
+        Metni önceki raporlarla aynı akademik ve düzenli formatta şu şekilde düzenleyebilirsiniz:
 
-        "Öğrencilerin gösteriler öncesinde kostümlerini giymelerine yardımcı olunmuş, hazırlık sürecinde öğrencilerin heyecanlarına ortak olunmuştur. Gün boyunca etkinlikler gözlemlenmiş ve öğrencilerin bayram coşkusunu yaşayarak öğrenmeleri desteklenmiştir. " +
+Etkinliğin Tanıtımı
 
-        "Bu süreçte öğrencilerin etkinliklere karşı oldukça istekli ve heyecanlı oldukları gözlemlenmiştir. Hem Dünya Sağlık Haftası hem de 23 Nisan etkinlikleri sayesinde öğrencilerin sosyal gelişimlerine katkı sağlanmış, okul ortamında birlik, beraberlik ve paylaşım duygularının güçlendiği düşünülmektedir.",
+Eğitimde Program Dışı Etkinlikler dersi kapsamında üçüncü sınıf öğrencileriyle yürüttüğümüz çalışmaların bir diğer önemli ayağını 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı kutlamaları oluşturmuştur. Bu özel gün kapsamında okulda gerçekleştirilen kutlama programına destek olmak, öğrencilerin bayram coşkusunu paylaşmak ve hazırlık süreçlerine katkı sunmak amacıyla etkinliklere dâhil olduk. Süreç boyunca öğrencilerin heyecanlarına ortak olarak onların bayramı daha anlamlı ve keyifli bir şekilde yaşamalarına katkı sağlamayı hedefledik.
 
-    en:
-       "On April 21, classroom decoration activities were carried out together with 3rd grade students. The classroom environment was prepared in accordance with the theme of the activity through cooperative work with the students, and students were encouraged to participate actively in the process. Thanks to these decoration activities, both the students’ social interaction was strengthened and their motivation toward the activities increased."+
-        "The activities were observed during the day, and students were encouraged to experience and learn the spirit of the national holiday actively. " +
-        "Throughout this process, students were observed to be highly enthusiastic and motivated toward the activities. It is believed that both the World Health Week and April 23 activities contributed positively to students’ social development and strengthened the feelings of unity, togetherness, and sharing within the school environment."
+Etkinliğin Konusu ve Amacı
+
+Etkinliğin temel amacı, öğrencilerin 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı’nın anlam ve önemini yaşayarak öğrenmelerine katkıda bulunmak, millî değerler konusunda farkındalık geliştirmelerini desteklemek ve bayram coşkusunu birlikte paylaşmaktı. Aynı zamanda öğrencilerin sosyal etkinliklere aktif katılım göstermeleri, özgüven kazanmaları ve aidiyet duygularını güçlendirmeleri amaçlanmıştır.
+
+Hazırlık Süreci
+
+Okulumuzdaki 23 Nisan kutlama programı dönem başında planlanmış ve belirlenmiş olduğu için doğrudan planlama sürecinde yer alma fırsatımız olmadı. Ancak etkinlikten önceki hafta boyunca hazırlık çalışmalarına aktif olarak destek verdik.
+
+Bu kapsamda kırmızı ve beyaz balonlar, Türk bayrakları ve çeşitli el işi süslemeler kullanarak sınıfımızı bayram atmosferine uygun şekilde düzenledik. Yapılan süsleme çalışmaları sayesinde öğrenciler bayram coşkusunu kutlama gününden önce hissetmeye başladı. Hazırlık süreci boyunca öğrencilerle birlikte çalışarak onların etkinliğe yönelik heyecanlarını paylaşma fırsatı bulduk.
+
+Uygulama Günü
+
+23 Nisan sabahı erkenden okula giderek öğrencilerin hazırlık sürecine destek olduk. Gösteri öncesinde öğrencilerin geleneksel folklor kostümlerini giymelerine yardımcı olduk ve hazırlık aşamasında ihtiyaç duydukları konularda yanlarında yer aldık.
+
+Daha sonra tüm sınıfla birlikte okul bahçesine geçerek öğrencilerin gösteri sıralarını bekledikleri süreçte onlara eşlik ettik. Sınıfımız, Burdur yöresine ait folklor oyununu geleneksel kostümleriyle sahneleyerek başarılı bir performans sergiledi. Öğrencilerin sahnedeki özgüvenleri, heyecanları ve mutlulukları dikkat çekiciydi.
+
+Gözlemlerimiz
+
+Etkinlik süresince okul genelinde oldukça coşkulu ve hareketli bir atmosfer hâkimdi. Öğretmenler, öğrenciler ve diğer paydaşlar arasında güçlü bir iş birliği bulunduğu gözlemlendi. Sürece dâhil olduğumuz andan itibaren öğretmenlerle uyum içerisinde çalışarak öğrencilerin gösteri öncesinde yaşadıkları heyecanı ve stresi azaltmaya çalıştık.
+
+Öğrencilerin hazırlık aşamasından gösteri sonuna kadar yüksek motivasyonla sürece katıldıkları görüldü. Bayramın anlamına uygun olarak birlik, beraberlik ve paylaşım duygularının öğrenciler arasında güçlü bir şekilde hissedildiği gözlemlendi.
+
+Çocuklardan Aldığımız Dönütler
+
+Hazırlık sürecinde gerçekleştirdiğimiz yansıtma çemberinde öğrencilere “23 Nisan’da sahneye çıkarken ne hissedeceğiz?” sorusunu yönelttik. Gösteri günü geldiğinde ise bu sorunun cevabını öğrencilerin gözlerindeki heyecanda, mutluluklarında ve enerjilerinde açıkça gözlemledik.
+
+Öğrenciler sahneye çıkmaktan büyük mutluluk duyduklarını ifade ederken, gösterilerini başarıyla tamamlamanın verdiği gururu da arkadaşları ve öğretmenleriyle paylaştılar. Etkinlik boyunca sergiledikleri istekli katılım ve olumlu tutumlar, bayramın onlar için ne kadar anlamlı geçtiğinin önemli göstergelerinden biri oldu.
+
+Bu Deneyimin Bize Kazandırdıkları
+
+Bu deneyim, büyük ve kalabalık okul organizasyonlarında öğrencilerin motivasyonlarını nasıl destekleyebileceğimizi ve yoğun katılımlı etkinliklerde süreci nasıl yönetebileceğimizi yerinde gözlemleme fırsatı sundu. Özellikle öğrencilerin heyecanlarını doğru şekilde yönlendirebilmenin ve onlara güven verebilmenin öğretmenlik mesleğindeki önemini daha yakından deneyimledik.
+
+Ayrıca okul çapında gerçekleştirilen büyük organizasyonların planlanma ve uygulanma süreçlerini gözlemleyerek ekip çalışması, iletişim ve koordinasyon becerilerimizi geliştirme fırsatı bulduk. Öğrencilerin mutluluğuna ve başarılarına tanıklık etmek ise mesleki motivasyonumuz açısından oldukça değerli bir kazanım oldu.
+
+Bu değerli deneyimi kazanmamıza rehberlik eden ve süreç boyunca desteklerini esirgemeyen Doç. Dr. Sibel Dal’a teşekkürlerimizi sunarız.
+`,
+    en:`
+       Introduction of the Activity
+
+As part of the Out-of-School Activities in Education course, one of the other important components of the work we carried out with third-grade students was the celebration of National Sovereignty and Children's Day on April 23. We participated in the celebration program organized at the school to contribute to the festive atmosphere, share the students’ excitement, and support the preparation process. Throughout the event, we aimed to help students experience the holiday in a more meaningful and enjoyable way by sharing in their enthusiasm.
+
+Subject and Purpose of the Activity
+
+The main purpose of the activity was to contribute to students’ understanding of the meaning and importance of National Sovereignty and Children's Day through direct experience, to support the development of awareness regarding national values, and to share the joy of the celebration together. In addition, the activity aimed to encourage students’ active participation in social events, strengthen their self-confidence, and foster a sense of belonging.
+
+Preparation Process
+
+Since the April 23 celebration program at our school had already been planned and finalized at the beginning of the academic term, we did not have the opportunity to participate directly in the planning stage. However, we actively supported the preparation activities during the week leading up to the event.
+
+Within this scope, we decorated our classroom with red and white balloons, Turkish flags, and various handmade ornaments to create a festive atmosphere. These decorations enabled the students to begin feeling the excitement of the holiday even before the celebration day. During the preparation process, we worked together with the students and shared their enthusiasm for the upcoming event.
+
+Implementation Day
+
+On the morning of April 23, we arrived at the school early and assisted the students with their preparations. Before the performance, we helped the students put on their traditional folk dance costumes and supported them with any needs they had during the preparation stage.
+
+Afterward, we went to the schoolyard together with the class and accompanied the students while they waited for their turn to perform. Our class successfully presented a folk dance performance from the Burdur region while wearing traditional costumes. The students’ confidence, excitement, and happiness on stage were remarkable.
+
+Our Observations
+
+Throughout the event, a highly enthusiastic and lively atmosphere prevailed across the school. Strong cooperation was observed among teachers, students, and other stakeholders. From the moment we became involved in the process, we worked harmoniously with the teachers to help reduce the students’ stress and transform their pre-performance excitement into joy.
+
+It was observed that the students participated in the process with high motivation from the preparation stage until the end of the performance. In line with the spirit of the holiday, feelings of unity, togetherness, and sharing were strongly evident among the students.
+
+Feedback We Received from the Children
+
+During a reflection circle held in the preparation stage, we asked the students, “How do you think we will feel when we go on stage on April 23?” On the day of the performance, we clearly observed the answer to this question in the students’ sparkling eyes, happiness, and endless energy.
+
+The students expressed that they were very happy to perform on stage and proudly shared the joy of successfully completing their performance with their friends and teachers. Their enthusiastic participation and positive attitudes throughout the event were important indicators of how meaningful the celebration was for them.
+
+What This Experience Gained for Us
+
+This experience provided us with the opportunity to observe firsthand how to support students’ motivation during large-scale school organizations and how to manage processes involving large groups of participants. In particular, we experienced more closely the importance of guiding students’ excitement in a positive way and helping them feel confident, which are essential aspects of the teaching profession.
+
+We also had the opportunity to develop our teamwork, communication, and coordination skills by observing the planning and implementation processes of a large school-wide event. Witnessing the students’ happiness and achievements was a highly valuable source of professional motivation for us.
+
+We would like to express our sincere gratitude to Assoc. Prof. Dr. Sibel Dal for her guidance and support throughout the process, which enabled us to gain this valuable experience.
+`
 },
     images: [
         "assets/images/bayram7.1.png",
