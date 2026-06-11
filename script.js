@@ -504,64 +504,108 @@ etkinlik4: {
 
 longDesc: {
     tr: `
-Mahmutlar Kılıçarslan İlkokulu ve Köy Yaşam Merkezi’nde gerçekleştirilen “Mazi Müzesi” etkinliği, Alanya Alaaddin Keykubat Üniversitesi Eğitim Fakültesi Temel Eğitim Bölümü Sınıf Eğitimi Anabilim Dalı 3. sınıf öğrencileri Meryem Dolu, Sevilay Erdoğan, Eda Yavuz ve Sude Nur Öztürk tarafından Eğitimde Program Dışı Etkinlikler dersi kapsamında planlanmıştır. 18–24 Mayıs Müzeler Haftası çerçevesinde gerçekleştirilen etkinlikte 3. ve 4. sınıf öğrencileri gönüllülük esasına dayalı olarak aktif görev almıştır.
+Etkinliğin Tanıtımı
 
-“Mazi Müzesi” temasıyla planlanan etkinlikte öğrencilerin yalnızca müze ziyaretçisi olmaları değil; aynı zamanda müze kurucusu, eser sahibi ve küratör rolünü deneyimlemeleri amaçlanmıştır. Okulun tercih edilmesinde, yaparak yaşayarak öğrenmeyi destekleyen eğitim anlayışı, etkinliklere açık yapısı ve öğrencilerle yakın çalışmaya imkân tanıyan ortamı etkili olmuştur. İlk olarak yalnızca 4. sınıflarla planlanan etkinlik, öğrenci sayısının az olması nedeniyle okul yönetiminin önerisiyle 3. sınıf öğrencilerinin de katılımıyla genişletilmiştir.
+Alanya Alaaddin Keykubat Üniversitesi Eğitim Fakültesi Temel Eğitim Bölümü Sınıf Eğitimi Anabilim Dalı 3. sınıf öğrencileri Meryem Dolu, Sevilay Erdoğan, Eda Yavuz ve Sude Nur Öztürk tarafından, Eğitimde Program Dışı Etkinlikler dersi kapsamında 18–24 Mayıs Müzeler Haftası çerçevesinde anlamlı bir etkinlik gerçekleştirildi. Mahmutlar Kılıçarslan İlkokulu ve Köy Yaşam Merkezi’nde düzenlenen etkinlikte 3. ve 4. sınıf öğrencileri gönüllülük esasına dayalı olarak aktif görev aldı.
 
-Etkinlik süreci sergi gününden bir hafta önce başlamıştır. İlk aşamada öğrencilere Müzeler Haftası’nın anlamı ve kurulacak müzenin içeriği hakkında bilgi verilmiş, ön algı testi uygulanmış ve “müze” kavramını anlamlandırmalarını desteklemek amacıyla kavram haritası hazırlanmıştır. Ayrıca müze kurallarını içeren canlandırma etkinlikleri gerçekleştirilmiş ve öğrencilerin öğrenmeye yönelik merak duygularının artırılması hedeflenmiştir.
+Etkinliğin Konusu ve Amacı
 
-Ders sonunda öğrencilere müze sergisinin ayrıntılarını içeren veli bilgilendirme metinleri ve davetiyeler dağıtılmıştır. Bunun yanında okul içerisinde etkinliği duyuran afişler hazırlanarak öğrencilerin yaklaşan etkinliği sürekli hatırlamaları ve sürece yönelik heyecan geliştirmeleri amaçlanmıştır.
+“Mazi Müzesi” temasıyla planlanan etkinlik, öğrencilerin yalnızca müze ziyaretçisi olmalarını değil; aynı zamanda müze kurucusu, eser sahibi ve küratör rolünü deneyimlemelerini amaçladı. Okulun tercih edilmesinde, yaparak yaşayarak öğrenmeyi destekleyen eğitim anlayışı, etkinliklere açık yapısı ve öğrencilerle daha yakın çalışmaya imkân sağlayan okul ortamı etkili oldu.
 
-Müzenin kurulacağı hafta sergi alanı titizlikle hazırlanmış ve süslenmiştir. Öğrenciler evlerinden getirdikleri tarihî ve aile yadigârı eşyaları, hazırladıkları eser künyeleriyle birlikte sergi alanına yerleştirmiştir. Süreç boyunca öğrencilerin etkinliğe yoğun ilgi gösterdiği, müzenin kurulmasına yönelik büyük heyecan duydukları ve süsleme çalışmalarına gönüllü olarak katıldıkları gözlemlenmiştir.
+Hazırlık Süreci
 
-Sergi günü ilk olarak 4. sınıf öğrencileri sergi alanında görev almıştır. Öğrenciler getirdikleri eserleri velilerine tanıtarak eşyaların hikâyelerini anlatmış ve ziyaretçilere rehberlik yapmıştır. Daha sonra aynı süreç 3. sınıf öğrencileriyle devam ettirilmiştir. Böylece öğrenciler yalnızca sergi izleyicisi değil, aynı zamanda geçmişi temsil eden eserlerin anlatıcısı ve küratörü olma deneyimi yaşamıştır.
+Okul müdürüyle gerçekleştirilen ön görüşmelerin ardından etkinlik başlangıçta yalnızca 4. sınıf öğrencileriyle planlanmış olsa da, öğrenci sayısının az olması nedeniyle okul yönetiminin önerisiyle 3. sınıf öğrencileri de sürece dâhil edildi.
 
-Etkinlik sonunda öğrencilere son algı testi uygulanmış ve süreç değerlendirilmiştir. Öğrenciler gerçekleştirdikleri çalışmalarla ilgili düşüncelerini ve öğrendiklerini öğrenme günlüklerine yansıtmıştır. Ön ve son algı testleri ile öğrenme günlükleri aracılığıyla öğrencilerin bilgi, duygu ve deneyimlerinde meydana gelen değişimlerin değerlendirilmesi amaçlanmıştır.
+Etkinlik süreci sergi gününden bir hafta önce başladı. İlk aşamada 3. ve 4. sınıf öğrencilerine Müzeler Haftası’nın anlamı ve kurulacak müzenin içeriği hakkında bilgi vermek amacıyla bir ders saati planlandı. Bu süreçte öğrencilere ön algı testi uygulanırken, “müze” kavramını anlamlandırmalarını desteklemek amacıyla kavram haritası hazırlandı ve müze kurallarını içeren canlandırma etkinlikleri gerçekleştirildi. Böylece öğrencilerin müze kültürüne ilişkin ön bilgileri ortaya çıkarılırken, öğrenmeye yönelik merak duygularının da güçlendirilmesi hedeflendi.
 
-Etkinlik sürecinde okul müdürü ve sınıf öğretmenleri önemli ölçüde destek sağlamış ve planlama ile uygulama aşamalarında iş birliği içerisinde hareket edilmiştir. Öğrenciler ilk kez böyle bir Müzeler Haftası etkinliği gerçekleştirdiklerini ve bu deneyimden büyük heyecan duyduklarını ifade etmiştir. Daha önce müze ziyaretinde bulunmuş olsalar da kendi müzelerini kurup küratör rolü üstlenmenin onlar için unutulmaz bir deneyim olduğu belirtilmiştir.
+Ders sonunda öğrencilere müze sergisinin ayrıntılarını içeren veli bilgilendirme metinleri ve davetiyeler dağıtıldı. Bunun yanında okul içerisinde etkinliği duyuran afişler asılarak öğrencilerin yaklaşan müze etkinliğini sürekli hatırlamaları ve sürece yönelik heyecan geliştirmeleri amaçlandı.
 
-Veliler de etkinliğe olumlu geri bildirimlerde bulunmuştur. Sergi sürecini bir zaman yolculuğu olarak tanımlayan veliler, çocuklarının geçmişle bağ kurduklarını, kültürel mirasa yönelik farkındalık geliştirdiklerini ve etkinlikten büyük keyif aldıklarını ifade etmiştir.
+Müzenin kurulacağı hafta sergi alanı titizlikle düzenlenip süslendi. Öğrenciler evlerinden getirdikleri tarihî ve aile yadigârı eşyaları, hazırladıkları eser künyeleri ile birlikte sergi alanına yerleştirdi. Süreç boyunca öğrencilerin yoğun ilgi gösterdiği, müzenin kurulmasına yönelik büyük heyecan duydukları ve süsleme çalışmalarına gönüllü olarak katılmak istedikleri gözlemlendi. Bazı öğrenciler doğrudan süsleme çalışmalarında görev alarak etkinliğin hazırlanmasına katkı sundu.
 
-Gerçekleştirilen çalışma ile öğrencilerin müze kavramını tanımaları, kültürel miras ve tarih bilinci kazanmaları, geçmişten günümüze aktarılan eşyaların değerini fark etmeleri ve aktif öğrenme sürecine katılmaları amaçlanmıştır. Bunun yanında araştırma yapma, gözlem yapma, iletişim kurma, sorumluluk alma ve iş birliği becerilerinin geliştirilmesi hedeflenmiştir.
+Uygulama Günü
 
-Öğrencilerin hem bilişsel hem de duyuşsal motivasyonlarının oldukça yüksek olduğu gözlemlenmiştir. Tarihî eserlerin hikâyelerini araştırmaları ve eser künyeleri hazırlamaları bilişsel motivasyonlarını artırırken; kendi eşyalarını sergileyecek olmaları, küratör rolü üstlenmeleri ve ailelerinin sergiyi ziyaret edecek olması duyuşsal motivasyonlarını güçlendirmiştir.
+Sergi günü ilk olarak 4. sınıf öğrencileri sergi alanında yer aldı. Öğrenciler getirdikleri eserleri velilerine tanıtarak eşyaların hikâyelerini anlattı ve ziyaretçilere rehberlik yaptı. Velilerin sergiyi tamamlamasının ardından aynı süreç 3. sınıf öğrencileriyle sürdürüldü. Böylece öğrenciler yalnızca sergi izleyicisi değil, aynı zamanda geçmişi temsil eden eserlerin anlatıcısı ve küratörü olma deneyimi yaşadı.
 
-Etkinliğin büyük ölçüde amaçlarına ulaştığı değerlendirilmiştir. Öğrencilerin müze kavramını daha yakından tanıdığı, kültürel mirasa ilişkin farkındalık geliştirdiği ve iletişim kurma, sorumluluk alma, sunum yapma ile kendini ifade etme becerilerinde gelişim gösterdiği gözlemlenmiştir.
+Etkinliğin ardından 3. ve 4. sınıf öğrencilerine son algı testi uygulanarak süreç değerlendirmesi yapıldı. Öğrenciler, Müzeler Haftası kapsamında gerçekleştirdikleri çalışmalarla ilgili düşüncelerini ve öğrendiklerini öğrenme günlüklerine yansıttı. Ön ve son algı testleri ile öğrenme günlükleri aracılığıyla öğrencilerin bilgi, duygu ve deneyimlerinde meydana gelen değişimlerin değerlendirilmesi hedeflendi.
 
-Grup üyeleri, aynı etkinliği yeniden gerçekleştirme fırsatı bulmaları hâlinde süreci daha uzun bir zamana yaymayı, öğrencilerin eser araştırmalarına daha fazla süre ayırmalarını sağlamayı ve sergiyi dijital materyallerle zenginleştirmeyi planladıklarını ifade etmiştir. Bu deneyimin kendilerine yalnızca etkinlik planlama ve organizasyon becerisi kazandırmadığı; aynı zamanda zaman yönetimi, büyük grupları yönlendirme ve okul-aile iş birliğinin önemini deneyimleme fırsatı sunduğu belirtilmiştir.
+Gözlemlerimiz
 
-Mahmutlar Kılıçarslan İlkokulu ve Köy Yaşam Merkezi’nde gerçekleştirilen bu anlamlı Müzeler Haftası etkinliği, öğrencilerin geçmişle bağ kurduğu, öğrenmeyi yaşayarak deneyimlediği ve kültürel değerlerin gelecek kuşaklara aktarılmasına katkı sunan unutulmaz bir eğitim deneyimi olarak hafızalarda yer etmiştir.
-    `,
+Etkinlik sürecinde okul müdürü ve sınıf öğretmenleri önemli ölçüde destek sağlayarak planlama ve uygulama aşamalarında iş birliği içerisinde hareket etti. Öğrenciler ilk kez Müzeler Haftası etkinliği gerçekleştirdiklerini ve bu deneyimden büyük heyecan duyduklarını ifade etti. Daha önce müze ziyaretinde bulunmuş olsalar da, kendi müzelerini kurup küratör rolü üstlenmenin kendileri için farklı ve unutulmaz bir deneyim olduğunu dile getirdiler.
+
+Öğrencilerin hem bilişsel hem de duyuşsal motivasyonlarının oldukça yüksek olduğu gözlemlendi. Tarihî eserlerin hikâyelerini araştırmaları ve eser künyeleri hazırlamaları bilişsel motivasyonlarını artırırken, kendi eşyalarını sergileyecek olmaları, küratör rolü üstlenmeleri ve ailelerinin sergiyi ziyaret edecek olması duyuşsal motivasyonlarını güçlendirdi. Süreç boyunca öğrencilerin heyecanlı, istekli ve katılımcı bir tutum sergilediği görüldü.
+
+Çocuklardan Aldığımız Dönütler
+
+Öğrenciler, ilk kez kendi müzelerini kurma fırsatı bulduklarını ve bu süreçten büyük keyif aldıklarını ifade etti. Müze kurucusu ve küratör rolünü üstlenmek, geçmişe ait eşyaların hikâyelerini araştırmak ve ziyaretçilere sunmak onların ilgisini çekti. Öğrenme günlüklerinde öğrencilerin müzelerin önemini daha iyi kavradıkları ve kültürel mirasa yönelik farkındalık geliştirdikleri görüldü.
+
+Veliler de etkinliğe olumlu geri bildirimlerde bulundu. Sergi sürecini adeta bir zaman yolculuğu olarak tanımlayan veliler, çocuklarının geçmişle bağ kurduklarını, kültürel mirasa yönelik farkındalık geliştirdiklerini ve etkinlikten büyük keyif aldıklarını belirtti.
+
+Bu Deneyimin Bize Kazandırdıkları
+
+Gerçekleştirilen bu çalışma ile öğrencilerin müze kavramını tanımaları, kültürel miras ve tarih bilinci kazanmaları, geçmişten günümüze aktarılan eşyaların değerini fark etmeleri ve aktif öğrenme sürecine katılmaları amaçlandı. Bunun yanı sıra araştırma yapma, gözlem yapma, iletişim kurma, sorumluluk alma ve iş birliği becerilerinin geliştirilmesi hedeflendi. Aile yadigârı eşyalar aracılığıyla öğrencilerin aile geçmişleriyle bağ kurmaları ve kuşaklar arası etkileşimi deneyimlemeleri de etkinliğin önemli kazanımları arasında yer aldı.
+
+Etkinliğin büyük ölçüde amaçlarına ulaştığı değerlendirildi. Öğrenciler müze kavramını daha yakından tanırken kültürel mirasa ilişkin farkındalık geliştirdi; iletişim kurma, sorumluluk alma, sunum yapma ve kendilerini ifade etme becerilerinde gelişim gösterdi. Velilerin ve okul yönetiminin olumlu geri bildirimleri de etkinliğin başarısını destekleyen önemli göstergeler arasında yer aldı.
+
+Grup üyeleri, aynı etkinliği yeniden gerçekleştirme fırsatı bulmaları hâlinde süreci daha uzun bir zamana yaymayı, öğrencilerin eser araştırmalarına daha fazla süre ayırmalarını sağlamayı ve sergiyi dijital materyallerle zenginleştirmeyi planladıklarını ifade etti. Bu deneyimin kendilerine yalnızca etkinlik planlama ve organizasyon becerisi kazandırmadığını; aynı zamanda zaman yönetimi, büyük grupları yönlendirme ve okul-aile iş birliğinin önemini daha yakından deneyimleme fırsatı sunduğunu belirttiler.
+
+Tekrar Bu Etkinliği Yapacak Olursak
+
+Grup üyeleri, etkinliği yeniden gerçekleştirme fırsatı bulmaları durumunda süreci daha uzun bir zamana yaymayı, öğrencilerin araştırma aşamasına daha fazla zaman ayırmalarını sağlamayı ve müze sergisini dijital içeriklerle desteklemeyi planladıklarını ifade etti. Böylece öğrencilerin araştırma ve sunum süreçlerinden daha fazla yararlanabilecekleri değerlendirildi.
+
+Mahmutlar Kılıçarslan İlkokulu ve Köy Yaşam Merkezi’nde gerçekleştirilen bu anlamlı Müzeler Haftası etkinliği, öğrencilerin geçmişle bağ kurduğu, öğrenmeyi yaşayarak deneyimlediği ve kültürel değerlerin gelecek kuşaklara aktarılmasına katkı sunan unutulmaz bir eğitim deneyimi olarak hafızalarda yer etti.
+ `,
     
     en: `
-The “Mazi Museum” activity carried out at Mahmutlar Kılıçarslan Primary School and Village Life Center was organized by Alanya Alaaddin Keykubat University Faculty of Education, Department of Primary Education, third-year students Meryem Dolu, Sevilay Erdoğan, Eda Yavuz, and Sude Nur Öztürk within the scope of the Out-of-School Activities in Education course. The event was held during Museum Week between May 18–24, and 3rd and 4th grade students actively participated on a voluntary basis.
+Introduction of the Activity
 
-The activity was planned under the theme of “Mazi Museum” with the aim of enabling students not only to become museum visitors but also to experience the roles of museum founders, artifact owners, and curators. The school was chosen because of its educational approach supporting experiential learning, its openness to educational activities, and its suitable environment for close interaction with students. Although the activity was initially planned only for 4th grade students, 3rd grade students were later included upon the suggestion of the school administration due to the limited number of participants.
+A meaningful activity was carried out within the scope of Museums Week (May 18–24) by Meryem Dolu, Sevilay Erdoğan, Eda Yavuz, and Sude Nur Öztürk, third-year students in the Department of Primary Education at the Faculty of Education, Alanya Alaaddin Keykubat University, as part of the Out-of-School Activities in Education course. In the activity held at Mahmutlar Kılıçarslan Primary School and Village Life Center, 3rd and 4th grade students actively participated on a voluntary basis.
 
-The preparation process began one week before the exhibition day. In the first stage, students were informed about the meaning of Museum Week and the content of the museum to be created. A preliminary perception test was conducted, and a concept map was prepared to support students’ understanding of the concept of “museum.” In addition, role-play activities about museum rules were organized to strengthen students’ curiosity and readiness for learning.
+Subject and Purpose of the Activity
 
-At the end of the lesson, invitation letters and parent information forms containing details about the exhibition were distributed to students. Posters announcing the event were also displayed around the school to help students remain excited and aware of the upcoming museum activity.
+Planned under the theme of “Museum of the Past,” the activity aimed not only to enable students to become museum visitors but also to experience the roles of museum founders, artifact owners, and curators. The school's educational approach, which supports learning by doing and experiencing, its openness to activities, and its environment that allowed closer interaction with students were influential factors in choosing the school.
 
-During the week of the exhibition, the exhibition area was carefully prepared and decorated. Students placed historical and family heirloom objects brought from their homes into the exhibition area together with artifact labels they had prepared. Throughout the process, students showed great interest and excitement toward building the museum and willingly participated in decoration activities.
+Preparation Process
 
-On the exhibition day, 4th grade students first took part in presenting the exhibition area. Students introduced their artifacts to their parents, explained the stories behind the objects, and guided visitors through the exhibition. Afterwards, the same process continued with the participation of 3rd grade students. In this way, students experienced being not only visitors but also narrators and curators representing the past.
+Following preliminary meetings with the school principal, the activity was initially planned only for 4th-grade students. However, due to the limited number of students, 3rd-grade students were also included in the process upon the recommendation of the school administration.
 
-At the end of the activity, a final perception test was conducted to evaluate the process. Students reflected their thoughts and learning experiences in learning journals. Through the comparison of pre- and post-perception tests together with learning journals, it was aimed to evaluate the changes in students’ knowledge, emotions, and experiences.
+The activity process began one week before the exhibition day. In the first stage, a class period was planned to inform 3rd and 4th grade students about the significance of Museums Week and the content of the museum to be established. During this process, a pre-perception test was administered to the students, a concept map was prepared to support their understanding of the concept of “museum,” and dramatization activities involving museum rules were conducted. Thus, it was aimed both to reveal the students’ prior knowledge regarding museum culture and to strengthen their curiosity toward learning.
 
-During the activity process, the school principal and classroom teachers provided significant support and cooperated closely in both the planning and implementation stages. Students stated that it was the first time they had participated in such a Museum Week activity and expressed great excitement about the experience. Although many of them had previously visited museums, they emphasized that creating and managing their own museum was a unique and unforgettable experience.
+At the end of the lesson, parent information letters and invitations containing details about the museum exhibition were distributed to the students. In addition, posters announcing the activity were displayed throughout the school to help students continuously remember the upcoming museum event and develop excitement about the process.
 
-Parents also provided highly positive feedback about the activity. They described the exhibition process as a journey through time and stated that their children developed a connection with the past, increased their awareness of cultural heritage, and greatly enjoyed the activity.
+During the week in which the museum was to be established, the exhibition area was carefully arranged and decorated. Students placed historical items and family heirlooms brought from their homes in the exhibition area together with the artifact labels they had prepared. Throughout the process, it was observed that the students showed great interest, were highly excited about establishing the museum, and willingly participated in the decoration activities. Some students directly took part in the decoration work and contributed to the preparation of the event.
 
-The activity aimed to help students understand the concept of museums, gain awareness about cultural heritage and history, recognize the value of objects transferred from past to present, and participate actively in the learning process. In addition, the development of research, observation, communication, responsibility-taking, and cooperation skills was also targeted.
+Implementation Day
 
-It was observed that students’ cognitive and emotional motivation levels were quite high throughout the process. Researching the stories of historical objects and preparing artifact labels increased their cognitive motivation, while displaying their own belongings, taking on the role of curator, and having their families visit the exhibition strengthened their emotional motivation.
+On the exhibition day, the 4th-grade students first took their places in the exhibition area. They introduced the artifacts they had brought to their parents, shared the stories behind the items, and guided the visitors. After the parents completed their visit, the same process continued with the 3rd-grade students. In this way, students experienced being not only exhibition visitors but also narrators and curators of artifacts representing the past.
 
-The activity was evaluated as largely successful in achieving its objectives. Students became more familiar with the concept of museums, developed awareness about cultural heritage, and improved their communication, responsibility-taking, presentation, and self-expression skills.
+Following the activity, a post-perception test was administered to the 3rd and 4th grade students to evaluate the process. Students reflected their thoughts and what they had learned about the Museums Week activities in their learning journals. Through the pre- and post-perception tests and the learning journals, it was aimed to evaluate the changes that occurred in students’ knowledge, feelings, and experiences.
 
-Group members stated that if they had the opportunity to organize the same activity again, they would extend the duration of the process, allow students more time for artifact research, and enrich the exhibition with digital materials. They also emphasized that this experience provided them not only with event planning and organizational skills but also with opportunities to improve time management, large-group coordination, and school-family cooperation skills.
+Our Observations
 
-This meaningful Museum Week activity carried out at Mahmutlar Kılıçarslan Primary School and Village Life Center remained in memory as an unforgettable educational experience where students connected with the past, learned through direct experience, and contributed to the transfer of cultural values to future generations.
-    `
+During the activity process, the school principal and classroom teachers provided significant support and worked collaboratively during both the planning and implementation stages. The students stated that it was their first time participating in a Museums Week activity and that they were very excited about the experience. Although they had visited museums before, they expressed that establishing their own museum and taking on the role of curator was a unique and unforgettable experience for them.
+
+It was observed that the students’ cognitive and affective motivation levels were quite high. Researching the stories behind historical artifacts and preparing artifact labels increased their cognitive motivation, while exhibiting their own belongings, assuming the role of curator, and having their families visit the exhibition strengthened their affective motivation. Throughout the process, students displayed enthusiastic, willing, and participatory attitudes.
+
+Feedback We Received from the Children
+
+The students stated that they greatly enjoyed having the opportunity to establish their own museum for the first time. Taking on the role of museum founder and curator, researching the stories of historical objects, and presenting them to visitors attracted their interest. Their learning journals showed that they had gained a better understanding of the importance of museums and had developed greater awareness of cultural heritage.
+
+Parents also provided positive feedback about the activity. Describing the exhibition process as a journey through time, parents stated that their children had connected with the past, developed awareness of cultural heritage, and greatly enjoyed the activity.
+
+What This Experience Gained for Us
+
+This activity aimed to help students become familiar with the concept of museums, develop cultural heritage and historical awareness, recognize the value of objects passed down from the past to the present, and participate actively in the learning process. In addition, it aimed to develop students’ skills in research, observation, communication, responsibility, and cooperation. Enabling students to connect with their family histories through family heirlooms and experience intergenerational interaction was also among the important outcomes of the activity.
+
+It was concluded that the activity largely achieved its objectives. Students became more familiar with the concept of museums and developed awareness regarding cultural heritage. They also showed improvement in communication, responsibility-taking, presentation, and self-expression skills. Positive feedback from parents and the school administration served as important indicators supporting the success of the activity.
+
+The group members stated that if they had the opportunity to carry out the same activity again, they would spread the process over a longer period of time, allow students more time for artifact research, and enrich the exhibition with digital materials. They also emphasized that this experience not only improved their event planning and organizational skills but also provided valuable opportunities to experience time management, guiding large groups, and understanding the importance of school-family cooperation more closely.
+
+If We Were to Conduct This Activity Again
+
+The group members stated that if they were given the opportunity to conduct the activity again, they would extend the duration of the process, provide students with more time for the research stage, and support the museum exhibition with digital content. In this way, it was believed that students would benefit more from the research and presentation processes.
+
+This meaningful Museums Week activity carried out at Mahmutlar Kılıçarslan Primary School and Village Life Center remained in memory as an unforgettable educational experience in which students connected with the past, learned through experience, and contributed to the transfer of cultural values to future generations.
+   `
 },
 
 
@@ -1569,7 +1613,141 @@ In summary, the creation of the classroom museum and the subsequent institutiona
         coverImage: "assets/images/etkinlik15.1.png"
     },
 
+etkinlik16: {
+    id: "etkinlik16",
+    category: "gallery1",
+    title: {
+      tr: "Turizm Haftası - Kale Gezisi",
+      en: "Tourism Week - Castle Visit"
+    },
+   shortDesc: {
+  tr: "Nagihan Karakaya, Sılanur Okur, Merve Güler ve Beyzanur Karaburç tarafından Kestel İlkokulu 2. sınıf öğrencileriyle 15-22 Nisan Turizm Haftası kapsamında çeşitli etkinlikler gerçekleştirildi.",
+  en: "Various activities were carried out with 2nd-grade students at Kestel Primary School by Nagihan Karakaya, Sılanur Okur, Merve Güler, and Beyzanur Karaburç as part of Tourism Week (April 15–22)."
+},
+    longDesc: {
+  tr: `
+Etkinliğin Tanıtımı
 
+Alanya Alaaddin Keykubat Üniversitesi (ALKÜ) Sınıf Öğretmenliği Eğitimi Anabilim Dalı 3. sınıf öğrencileri olarak tamamen gönüllülük esasına dayalı bir liderlikle yürüttüğümüz bu çalışma, 15–22 Nisan Turizm Haftası kapsamında gerçekleştirilmiştir. Etkinliğimiz, Antalya’nın turizm açısından önemli ilçelerinden biri olan Alanya’da bulunan Kestel İlkokulu’nun 2. sınıf öğrencileriyle uygulanmıştır. Temel amacımız, erken çocukluk dönemindeki öğrencilere turizm bilinci kazandırmak, somut ve somut olmayan kültürel mirasımızı tanıtmak ve bunu yaparken aktif öğrenme yöntemlerinden yararlanmaktı. Bu süreçte çocukların gezi etkinliğinden keyif almaları öncelikli hedefimiz olmuş ve öğrencilerden alınan olumlu geri bildirimler doğrultusunda bu amaca ulaşıldığı görülmüştür.
+
+Etkinliğin Konusu ve Amacı
+
+Etkinlik kapsamında öğrencilerin yaşadıkları kentin tarihî, kültürel ve doğal zenginliklerini yerinde tanımaları amaçlanmıştır. Turizm Haftası çerçevesinde düzenlenen geziyle öğrencilerin turizm kavramına yönelik farkındalık kazanmaları, kültürel miras unsurlarını keşfetmeleri ve yaşadıkları çevreye karşı bilinç geliştirmeleri hedeflenmiştir. Ayrıca okul dışı öğrenme ortamlarının sunduğu fırsatlardan yararlanılarak öğrencilerin aktif katılım göstermeleri ve öğrenme sürecini yaşayarak deneyimlemeleri amaçlanmıştır.
+
+Hazırlık Süreci
+
+Ders danışman öğretmenimizin yönlendirdiği ilkokul, almamız gereken sorumluluğu bize sağlayamadığı ve ulaşım açısından çeşitli zorluklar içerdiği için etkinliği daha önce çalışmalar yürüttüğümüz Kestel İlkokulu’nda gerçekleştirmeye karar verdik. Okula aşina olmamız ve okul yönetimi ile sınıf öğretmenimizle kurduğumuz güçlü iletişim sayesinde okul seçimi ve koordinasyon sürecinde herhangi bir sorun yaşanmadı.
+
+Ancak okul değişikliği nedeniyle izin sürecinde bazı aksaklıklar yaşandı ve bu durum 23 Nisan kutlamalarında yalnızca gözlemci olarak yer almamıza neden oldu. Hazırlık sürecinde provaları izleme fırsatı bulduk; 23 Nisan günü ise öğrencilerin heyecanına ortak olarak sergiledikleri gösterileri izledik ve bu anları fotoğraf ve videolarla kayıt altına aldık.
+
+Turizm Haftası kapsamında planlanan kale gezisi için Alanya Belediyesi’nden öğrencilerin ücretsiz giriş yapabilmelerine yönelik gerekli izinlerin alınması amacıyla dilekçeleri hazırladık ve okul yönetimi aracılığıyla ilgili kurumlara başvurular gerçekleştirildi. Ardından öğrencilere veli izin belgeleri dağıtıldı. Gezi için okul tarafından ulaşım organize edildi, ücretsiz giriş desteği sağlandı ve kale içerisinde gerçekleştirilen kahvaltı etkinliği için gerekli yiyecekler temin edildi.
+
+Uygulama Günü
+
+Gezi günü okulun organize ettiği servislerle iki şube hâlinde yola çıktık. Öğrencilerimiz gezi boyunca birer turist, bizler ise onların rehberleri rolünü üstlendik. Yolculuk sırasında çeşitli şarkılar söyledik ve öğrencilerle eğlenceli vakit geçirdik. Öğrencileri motive etmek amacıyla “Bugün hepiniz birer yerli turistsiniz ve turistler gördükleri her anın fotoğrafını çeker.” diyerek hazırladığımız karton fotoğraf makinelerini boyunlarına astık.
+
+Öğrencilerin ilgisini çekecek şekilde planlanan gezi rotasında sırasıyla İç Kale, Bedesten, Kültür Evi, Herbaryum ve Süleymaniye Camii ziyaret edildi. Her durakta öğrencilerle tarihî ve kültürel yapılar hakkında sohbet edilerek bilgiler paylaşıldı.
+
+Kalede gerçekleştirdiğimiz piknik etkinliği öğrenciler tarafından büyük ilgi gördü. Hatta bazı öğrenciler piknik alanından ayrılmak istemediklerini ifade etti. Gezi programının tamamlanmasının ardından değerlendirme çalışmaları yapmak üzere okula geri dönüldü.
+
+Sınıfta yapılan değerlendirme etkinliğinde Altı Şapka Düşünme Tekniği kullanıldı. Öğrenciler etkinlik boyunca kullandıkları şapkaları oldukça ilgi çekici buldu. Gün boyunca yoğun bir program geçirdikleri için son ders saatinde öğrencilerle birlikte dondurma molası verildi. Ayrıca geziye götürdüğümüz yüz boyalarıyla öğrencilerin yüzleri boyanarak etkinlik daha eğlenceli hâle getirildi. Bu uygulama öğrencilerin büyük ilgisini çekti ve çocuklar hayali fotoğraf makineleriyle gezi boyunca pek çok anı canlandırarak eğlendi.
+
+Gözlemlerimiz
+
+Yerinde öğrenme yaklaşımıyla gerçekleştirilen bu gezi sayesinde öğrencilerin yaş grupları açısından soyut kalabilecek tarihî ve kültürel kavramları somutlaştırma fırsatı bulduk. Süreç boyunca öğrencilerin bilişsel motivasyonlarının oldukça yüksek olduğu gözlemlendi. Çocuklar yalnızca pasif dinleyiciler olarak kalmayıp; görerek, dokunarak ve ortamı deneyimleyerek öğrenme sürecine aktif olarak katıldılar.
+
+Özellikle Herbaryum ziyaretinde farklı bitki ve hayvan türlerini dikkatle incelemeleri, öğrencilerde biyolojik çeşitliliğe yönelik merak duygusunu artırdı. Süleymaniye Camii, Bedesten, Kültür Evi ve İç Kale ziyaretlerinde ise yapıların tarihî işlevlerini öğrenirken neden-sonuç ilişkileri kurdukları, dikkatle dinledikleri ve yeni bilgiler edinmek amacıyla çeşitli sorular sordukları görüldü.
+
+Sınıf ortamından çıkıp açık havada tarihî bir yarımadada bulunmaları öğrencilerin fiziksel ve sosyal gelişimlerini de destekledi. Arkadaşlarıyla birlikte hareket etmeleri sosyal uyumlarını artırırken, öğretmen rehberliğinde güvenli şekilde geziye katılmaları öz denetim, sorumluluk alma ve çevresel farkındalık becerilerini geliştirdi.
+
+Çocuklardan Aldığımız Dönütler
+
+Etkinlik boyunca öğrenciler öğrendikleri her yeni bilgiyi büyük bir merak ve heyecanla karşıladı. Yeni bilgiler öğrenmenin verdiği heyecanla sürekli sorular sormaları ve etkinliklere aktif katılım göstermeleri bizleri oldukça mutlu etti. Özellikle karton fotoğraf makineleriyle gerçekleştirdikleri etkinlik çocukların en çok ilgi gösterdiği uygulamalardan biri oldu.
+
+Gezi sonrasında sınıfta uyguladığımız Altı Şapka Düşünme Tekniği sayesinde öğrencilerin olumlu ve olumsuz görüşlerini paylaşmaları sağlandı ve yeni fikirler üretmeleri için beyin fırtınası yapıldı. Değerlendirme aşamasında öğrencilerin hafızalarında kalan bilgileri paylaşmaları istendi.
+
+Öğrenciler, İç Kale ve Bedesten sayesinde tarihî mirası daha yakından tanıdıklarını, Herbaryum ile doğaya ilişkin yeni bilgiler öğrendiklerini ve Kültür Evi aracılığıyla geçmiş yaşam biçimlerini gözlemleme fırsatı bulduklarını ifade etti. Geziyle ilgili genel görüşleri ise “Yorulduk ama çok güzel ve çok keyifliydi.” şeklinde oldu. Bu durum, öğrencilerin eğlenerek öğrendiklerini ve okul dışı öğrenme ortamlarına karşı olumlu tutum geliştirdiklerini göstermektedir.
+
+Bu Deneyimin Bize Kazandırdıkları
+
+Bu etkinlik, çocukların eğitiminde yalnızca teorik bilgilerin yeterli olmadığını ve öğrenmenin yerinde deneyimlenerek desteklenmesi gerektiğini bizlere açıkça gösterdi. Kalabalık öğrenci gruplarıyla çalışmanın zaman zaman zorlayıcı olduğu ve sınıf yönetimi konusunda çeşitli deneyimler kazandığımız bir süreç yaşadık.
+
+Bazı durumlarda öğrencilerin yüksek enerjileri ve meraklı soruları karşısında zorlandığımız anlar olsa da bu süreç bize sınıf dışı ortamlarda öğrenci yönetimi, kriz durumlarında soğukkanlı kalabilme, beklenmeyen gelişmeleri yönetebilme ve büyük grupları organize edebilme becerileri kazandırdı.
+
+Eğer etkinliği yeniden gerçekleştirme fırsatımız olsaydı, grup sayısını azaltmayı ve zaman açısından daha esnek bir planlama yaparak gezi rotasına Kızılkule ve Tersane gibi önemli tarihî mekânları da eklemeyi tercih ederdik.
+
+Tüm zorluklara rağmen geziyi planlanan süre içerisinde başarıyla tamamladık. Okul yönetiminden, sınıf öğretmenlerinden ve öğrencilerimizden aldığımız olumlu geri bildirimler, bu deneyimin hem başarılı hem de mesleki gelişimimiz açısından son derece değerli olduğunu göstermiştir.
+`,
+
+  en: `
+Introduction of the Activity
+
+This project, which we carried out entirely on a voluntary basis as third-year students of the Primary School Teaching Department at Alanya Alaaddin Keykubat University (ALKÜ), was organized within the scope of Tourism Week, celebrated between April 15 and April 22. The activity was implemented with 2nd-grade students at Kestel Primary School, located in Alanya, one of Antalya’s major tourism destinations. Our main objective was to develop tourism awareness among young students, introduce them to our tangible and intangible cultural heritage, and achieve this through active learning methods. Ensuring that the children enjoyed the field trip was one of our primary focuses, and the positive feedback received from the students demonstrated that this objective was achieved.
+
+Subject and Purpose of the Activity
+
+The activity aimed to help students recognize the historical, cultural, and natural richness of the city in which they live. Within the framework of Tourism Week, the trip was designed to raise students’ awareness of tourism, enable them to explore cultural heritage elements, and develop a sense of appreciation for their local environment. In addition, it sought to take advantage of out-of-school learning opportunities by encouraging active participation and experiential learning.
+
+Preparation Process
+
+The primary school initially recommended by our course advisor was not suitable in terms of the level of responsibility we wished to undertake and presented transportation difficulties. Therefore, we decided to conduct the activity at Kestel Primary School, where we had previously carried out educational activities. Being familiar with the school and having established strong communication with both the school administration and the classroom teacher ensured that no problems were encountered during the selection and coordination process.
+
+However, because of the school change, some difficulties arose during the permission process, which resulted in us participating only as observers during the April 23 celebrations. During the preparation stage, we had the opportunity to observe rehearsals, and on April 23, we shared the students’ excitement by watching their performances and recording these moments through photographs and videos.
+
+As part of the preparations for the castle trip, we prepared the necessary petitions to obtain permissions from the Alanya Municipality, including free admission for the students. The school administration then submitted these applications to the relevant authorities. Parent permission forms were subsequently distributed to the students. The school arranged transportation by bus, secured free admission support, and provided food for the breakfast that would take place at the castle.
+
+Implementation Day
+
+On the day of the trip, we set out in two groups using the buses arranged by the school. Throughout the excursion, the students acted as tourists while we served as their guides. During the journey, we sang songs together and spent enjoyable time with the students. To motivate them, we told them, “Today, you are all local tourists, and tourists take photographs of everything they see,” and placed the cardboard cameras we had prepared around their necks.
+
+Following a route designed to capture the students’ interest, we visited İç Kale (Inner Castle), Bedesten, the Cultural House, the Herbarium, and Süleymaniye Mosque. At each location, information about the historical and cultural significance of the sites was shared with the students.
+
+The picnic we organized at the castle was greatly enjoyed by the students. Some of them even stated that they did not want to leave the picnic area. After completing the excursion route, we returned to the school to conduct evaluation activities.
+
+During the evaluation session in the classroom, we used the Six Thinking Hats Technique. The students found the hats very engaging and enjoyable. Considering that they had spent a busy and active day, we concluded the final lesson with an ice cream break. In addition, we painted the students’ faces using face paints we had brought with us, making the activity even more enjoyable. This application attracted considerable interest from the children, who enthusiastically continued taking imaginary photographs with their cardboard cameras.
+
+Our Observations
+
+Through this field trip, which was organized according to the principle of place-based learning, we were able to make historical and cultural concepts that might otherwise remain abstract for this age group more concrete and meaningful. Throughout the process, the students demonstrated very high levels of cognitive motivation. Rather than remaining passive listeners, they actively participated in learning by seeing, touching, and directly experiencing the environment.
+
+During the Herbarium visit, students carefully examined different plant and animal species, which stimulated their curiosity about biodiversity. While visiting Süleymaniye Mosque, Bedesten, the Cultural House, and İç Kale, they established cause-and-effect relationships regarding the purposes and histories of these structures, listened attentively, and asked numerous questions to better understand the information presented.
+
+Leaving the classroom environment and exploring a historical peninsula in the open air also contributed to the students’ physical and social development. Sharing their excitement with friends and moving together improved their social adaptation, while safely exploring the area under teacher supervision enhanced their self-control, sense of responsibility, and environmental awareness.
+
+Feedback We Received from the Children
+
+Throughout the activity, the students responded to every new piece of information with great curiosity and excitement. Observing children who could hardly contain their enthusiasm for learning new things made us very happy. The cardboard camera activity was among the applications they enjoyed the most.
+
+After returning to school, we used the Six Thinking Hats Technique to collect both positive and negative feedback from the students and encouraged them to brainstorm new ideas. During the evaluation stage, they were also asked to share what they remembered most from the trip.
+
+The students stated that they had gained a better understanding of historical heritage through their visits to İç Kale and Bedesten, developed greater awareness of nature through the Herbarium, and had the opportunity to directly observe past lifestyles through the Cultural House. Their overall feedback about the trip was: “We were tired, but it was very beautiful and very enjoyable.” This demonstrated that the students learned while having fun and developed positive attitudes toward out-of-school learning environments.
+
+What This Experience Gained for Us
+
+This activity clearly showed us that education should not rely solely on theoretical knowledge and that learning becomes much more meaningful when supported by direct experiences. Working with a large group of students was sometimes challenging and provided us with valuable experiences related to classroom and group management.
+
+Although there were moments when we found it difficult to keep up with the students’ endless energy and numerous questions, the process taught us how to manage students outside the classroom environment, remain calm in unexpected situations, handle unforeseen developments, and coordinate large groups effectively.
+
+If we had the opportunity to organize this activity again, we would prefer to work with a smaller number of classes and plan a more flexible schedule that would allow us to include additional historical sites such as the Red Tower (Kızılkule) and the Shipyard (Tersane) in the itinerary.
+
+Despite all the challenges, we successfully completed the trip within the planned timeframe. The positive feedback we received from the school administration, classroom teachers, and our students demonstrated that this experience was both highly successful and extremely valuable for our professional development.
+`,
+},
+ images: [
+            "assets/images/etkinlik16.1.png",
+            "assets/images/etkinlik16.2.png",
+            "assets/images/etkinlik16.3.png",
+            "assets/images/etkinlik16.4.png",
+            "assets/images/etkinlik16.5.png",
+            "assets/images/etkinlik16.6.png",
+            "assets/images/etkinlik16.7.png",
+            "assets/images/etkinlik16.8.png",
+            "assets/images/etkinlik16.9.png",
+            "assets/images/etkinlik16.10.png",
+            "assets/images/etkinlik16.11.png",
+        ],
+        coverImage: "assets/images/etkinlik16.1.png"
+    },  
 
 
 
@@ -1770,12 +1948,93 @@ bayram3: {
     en: "Activities organized by Melisa Karataş, Lokman Ernez, and Kenan Bozkurt at Kemal Şuberi Primary School within the scope of April 23rd National Sovereignty and Children's Day."
 },
     longDesc: {
-    tr:
-        "Eğitimde Program Dışı Etkinlikler dersi kapsamında Melisa Karataş, Lokman Ernez ve Kenan Bozkurt’tan oluşan grup olarak 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı etkinlik sürecine katılım sağladık. Etkinliklerin planlanması ve yürütülmesi sürecinde gözlemci olarak rol aldık ve süreç boyunca yapılan çalışmaları yakından inceleme fırsatı bulduk. Ayrıca etkinlik kapsamında öğrencilerin milli bayram bilinci kazanmalarını desteklemek amacıyla pano hazırlama çalışmalarında görev aldık. Hazırlanan panoların öğrencilerin dikkatini çekmesi, bayramın anlam ve önemini yansıtması ve okul ortamına görsel katkı sağlaması amaçlandı. Süreç boyunca öğretmenlerin etkinlik planlama yöntemlerini, öğrencilerle iletişim biçimlerini ve etkinlik yönetim süreçlerini gözlemleme fırsatı elde ettik. Bu deneyim sayesinde program dışı etkinliklerin öğrencilerin sosyal gelişimleri, özgüvenleri ve milli değerleri öğrenmeleri üzerindeki olumlu etkilerini daha yakından görmüş olduk.",
+    tr: `
+       Etkinliğin Tanıtımı
 
-    en:
-        "Within the scope of the Educational Out-of-Class Activities course, our group consisting of Melisa Karataş, Lokman Ernez, and Kenan Bozkurt participated in the April 23 National Sovereignty and Children’s Day activities. During the planning and implementation process, we took part as observers and had the opportunity to closely examine the activities carried out throughout the process. In addition, we contributed to the preparation of bulletin boards aimed at helping students develop awareness of national holidays. The prepared boards were designed to attract students’ attention, reflect the meaning and importance of the holiday, and contribute visually to the school environment. Throughout the process, we observed teachers’ activity planning methods, communication with students, and activity management practices. This experience allowed us to better understand the positive effects of extracurricular activities on students’ social development, self-confidence, and understanding of national values."
-},
+Eğitimde Program Dışı Etkinlikler dersi kapsamında Melisa Karataş, Lokman Ernez ve Kenan Bozkurt’tan oluşan grubumuzla Antalya’nın Alanya ilçesinde bulunan Kemal Şuberi İlkokulu’nda gerçekleştirilen 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı etkinliklerine destek olduk. Çalışmalarımızı 4. sınıf öğrencileriyle yürüttük ve okul genelinde gerçekleştirilen kutlama hazırlıklarına katkı sunduk.
+
+23 Nisan Ulusal Egemenlik ve Çocuk Bayramı, çocuklara armağan edilmiş ilk ve tek bayram olması nedeniyle öğrencilerin millî değerleri tanımaları, birlik ve beraberlik duygularını geliştirmeleri ve bayram coşkusunu yaşayarak öğrenmeleri açısından önemli bir yere sahiptir. Bu nedenle etkinlik sürecinde öğrencilerin aktif katılımını destekleyen çalışmalara katkı sağlamayı amaçladık.
+
+Etkinliğin Konusu ve Amacı
+
+Etkinliğimizin temel amacı, öğrencilerin 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı'nın anlam ve önemini daha iyi kavramalarına katkı sağlamak ve onları hazırlık ile kutlama süreçlerinin aktif bir parçası hâline getirmekti. Aynı zamanda öğrencilerin millî bilinç, sorumluluk, iş birliği ve aidiyet duygularını geliştirmelerine destek olmayı hedefledik.
+
+Hazırlık Süreci
+
+23 Nisan etkinlikleri öncesinde okul yönetimi ve öğretmenlerle görüşmeler gerçekleştirerek hazırlık sürecine dâhil olduk. Okulun planladığı kutlama programı doğrultusunda yapılacak çalışmalar hakkında bilgi aldık ve ihtiyaç duyulan alanlarda görev üstlendik.
+
+Bu süreçte özellikle pano hazırlıklarına destek verdik. Öğrencilerin hazırladığı resim, yazı ve görsellerin düzenlenmesinde görev alarak okulun bayram atmosferine uygun şekilde süslenmesine katkıda bulunduk. Hazırlıklar sırasında öğrencilerle iletişim kurma ve onların bayrama ilişkin düşüncelerini dinleme fırsatı da bulduk.
+
+Ayrıca okulun görevlendirdiği profesyonel eğiticiler tarafından yürütülen hazırlık çalışmalarını gözlemledik. Böylece büyük çaplı okul etkinliklerinin planlanması ve uygulanması konusunda önemli deneyimler edinme fırsatı yakaladık.
+
+Uygulama Günü
+
+23 Nisan kutlamalarının gerçekleştirildiği gün okulda oldukça coşkulu ve heyecanlı bir atmosfer hâkimdi. Öğrenciler günler öncesinden hazırlandıkları gösterileri sergilemek için büyük bir istekle etkinlik alanında yerlerini aldılar. Biz de gün boyunca yapılan çalışmaları takip ederek gerekli noktalarda destek sağladık.
+
+Kutlamalar sırasında öğrencilerin bayramın anlam ve önemini yansıtan gösterilere büyük bir ilgiyle katıldıkları gözlemlendi. Farklı sınıflardan öğrencilerin sahne performansları, şiirler, danslar ve çeşitli gösteriler sayesinde okul genelinde güçlü bir birlik ve dayanışma ortamı oluştu. Öğrencilerin sergiledikleri özgüven ve heyecan dikkat çekiciydi.
+
+Gözlemlerimiz
+
+Etkinlik süreci boyunca okul yönetimi, öğretmenler ve öğrenciler arasında güçlü bir iş birliği bulunduğunu gözlemledik. Okulun tüm paydaşlarının kutlamalara katkı sunması, öğrencilerin kendilerini değerli hissetmelerine ve etkinliklere daha istekli katılmalarına yardımcı oldu.
+
+Öğrencilerin yalnızca izleyici değil, etkinliklerin aktif bir parçası olmaları motivasyonlarını artırdı. Özellikle hazırlık sürecinde görev alan öğrencilerin sorumluluk duygularının geliştiği ve yapılan çalışmaları sahiplenerek hareket ettikleri görüldü. Okulun bayrama uygun şekilde süslenmesi ve hazırlanan etkinliklerin çeşitliliği, öğrencilerin ilgisini sürekli canlı tuttu.
+
+Çocuklardan Aldığımız Dönütler
+
+Öğrenciler, 23 Nisan etkinliklerinde görev almaktan ve arkadaşlarıyla birlikte kutlamalara katılmaktan büyük mutluluk duyduklarını ifade ettiler. Gösterilere katılan öğrenciler sahneye çıkmanın kendilerine heyecan verdiğini, hazırlık sürecinde birlikte çalışmanın ise eğlenceli olduğunu belirttiler.
+
+Kutlamalar sonrasında öğrencilerin bayramın anlamı ve önemi hakkında daha bilinçli yorumlar yapabildikleri gözlemlendi. Özellikle 23 Nisan’ın çocuklara armağan edilmiş özel bir gün olduğunu vurgulamaları, etkinliklerin amacına ulaştığını gösteren önemli dönütlerden biri oldu.
+
+Bu Deneyimin Bize Kazandırdıkları
+
+23 Nisan etkinlikleri sürecinde yer almak, program dışı etkinliklerin öğrencilerin sosyal, duygusal ve kültürel gelişimlerine olan katkılarını yakından görmemizi sağladı. Hazırlık ve uygulama aşamalarında gözlem yapma fırsatı bulmamız, okul çapında gerçekleştirilen etkinliklerin nasıl planlandığını ve yürütüldüğünü anlamamıza yardımcı oldu.
+
+Bu deneyim sayesinde öğretmenlik mesleğinin yalnızca sınıf içi öğretim faaliyetlerinden oluşmadığını, öğrencilerin gelişimini destekleyen sosyal ve kültürel etkinliklerin de eğitimin ayrılmaz bir parçası olduğunu daha iyi kavradık. Aynı zamanda ekip çalışması, organizasyon, iletişim ve gözlem becerilerimizi geliştirme fırsatı bulduk.
+
+Genel olarak süreç hem öğrenciler hem de bizim açımızdan oldukça verimli geçti. 23 Nisan’ın coşkusunu öğrencilerle birlikte yaşamak ve onların mutluluklarına tanıklık etmek, mesleki gelişimimiz açısından unutulmaz bir deneyim oldu.
+ `,
+    en:`
+    Introduction of the Activity
+
+As part of the Out-of-School Activities in Education course, our group consisting of Melisa Karataş, Lokman Ernez, and Kenan Bozkurt supported the April 23 National Sovereignty and Children's Day activities held at Kemal Şuberi Primary School in the Alanya district of Antalya. We carried out our work with 4th-grade students and contributed to the celebration preparations organized throughout the school.
+
+April 23 National Sovereignty and Children's Day holds an important place in terms of helping students recognize national values, develop feelings of unity and solidarity, and learn by experiencing the joy of the holiday, as it is the first and only holiday dedicated to children. For this reason, throughout the activity process, we aimed to contribute to activities that supported the active participation of students.
+
+Preparation Process
+
+Before the April 23 activities, we became involved in the preparation process by holding meetings with the school administration and teachers. In line with the celebration program planned by the school, we received information about the activities to be carried out and undertook responsibilities in the areas where support was needed.
+
+During this process, we especially supported the preparation of bulletin boards. By taking part in organizing the pictures, writings, and visuals prepared by the students, we contributed to decorating the school in a manner appropriate to the holiday atmosphere. During the preparations, we also had the opportunity to communicate with the students and listen to their thoughts about the holiday.
+
+In addition, we observed the preparation activities conducted by professional instructors assigned by the school. In this way, we had the opportunity to gain important experience regarding the planning and implementation of large-scale school activities.
+
+Implementation Day
+
+On the day when the April 23 celebrations were held, a very enthusiastic and exciting atmosphere prevailed at the school. The students eagerly took their places in the activity area to perform the shows they had been preparing for days. We also followed the activities throughout the day and provided support where necessary.
+
+During the celebrations, it was observed that the students participated with great interest in performances reflecting the meaning and importance of the holiday. Thanks to stage performances, poems, dances, and various shows by students from different classes, a strong atmosphere of unity and solidarity was formed throughout the school. The confidence and excitement displayed by the students were remarkable.
+
+Our Observations
+
+Throughout the activity process, we observed strong cooperation among the school administration, teachers, and students. The contribution of all stakeholders of the school to the celebrations helped students feel valued and participate more willingly in the activities.
+
+The fact that students were not only spectators but also active participants in the activities increased their motivation. It was especially observed that the students who took part in the preparation process developed a sense of responsibility and acted by taking ownership of the work carried out. The decoration of the school in accordance with the holiday and the variety of the prepared activities kept the students' interest alive at all times.
+
+Feedback We Received from the Children
+
+The students expressed that they were very happy to take part in the April 23 activities and participate in the celebrations together with their friends. The students who participated in the performances stated that going on stage excited them and that working together during the preparation process was enjoyable.
+
+After the celebrations, it was observed that the students were able to make more conscious comments about the meaning and importance of the holiday. In particular, emphasizing that April 23 is a special day dedicated to children was one of the important pieces of feedback showing that the activities had achieved their purpose.
+
+What This Experience Gained for Us
+
+Taking part in the April 23 activities enabled us to closely observe the contributions of extracurricular activities to the social, emotional, and cultural development of students. Having the opportunity to make observations during the preparation and implementation stages helped us understand how school-wide activities are planned and carried out.
+
+Through this experience, we gained a better understanding that the teaching profession does not consist solely of classroom instruction and that social and cultural activities supporting student development are also an inseparable part of education. At the same time, we had the opportunity to improve our teamwork, organization, communication, and observation skills.
+
+Overall, the process was highly productive for both the students and ourselves. Experiencing the joy of April 23 together with the students and witnessing their happiness became an unforgettable experience in terms of our professional development.
+`,
+}, 
     images: [
         "assets/images/bayram3.1.png",
         
@@ -2251,44 +2510,104 @@ bayram12: {
 },
    longDesc: {
     tr: `
-23 Nisan Ulusal Egemenlik ve Çocuk Bayramı kapsamında Mahmutlar Kılıçarslan İlkokulu ve Köy Yaşam Merkezi’nde gerçekleştirilen etkinlikler, öğrenciler, öğretmenler ve veliler için unutulmaz bir bayram atmosferi oluşturmuştur. Alanya Alaaddin Keykubat Üniversitesi Eğitim Fakültesi Temel Eğitim Bölümü Sınıf Eğitimi Anabilim Dalı 3. sınıf öğrencileri Meryem Dolu, Sevilay Erdoğan, Eda Yavuz ve Sude Nur Öztürk, etkinlik sürecinde aktif rol alarak öğrencilerle birebir ilgilenmiş ve bayram coşkusunun daha güçlü hissedilmesine katkı sağlamıştır.
+Etkinliğin Tanıtımı
 
-Etkinlik hazırlıkları bayram gününden haftalar önce başlamıştır. Üniversite öğrencileri belirli aralıklarla okulu ziyaret ederek 3. ve 4. sınıf öğrencileriyle kaynaşmış, birlikte oyunlar oynayarak öğrencilerle güçlü bir iletişim kurmuştur. Özellikle “Molekül” ve “Kale-Prens” oyunlarının öğretildiği prova süreçlerinde öğrencilerin oldukça heyecanlı, enerjik ve istekli oldukları gözlemlenmiştir. Öğrenciler oyunlar aracılığıyla takım ruhu geliştirmiş, iş birliği kurmuş ve eğlenerek öğrenme sürecine aktif katılım sağlamıştır.
+Mahmutlar Kılıçarslan İlkokulu ve Köy Yaşam Merkezi’nde 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı kapsamında gerçekleştirilen renkli etkinlikler, öğrenciler, öğretmenler ve veliler için unutulmaz anlara sahne oldu. Okul müdürünün haftalar öncesinden titizlikle planladığı organizasyona, Alanya Alaaddin Keykubat Üniversitesi Eğitim Fakültesi Temel Eğitim Bölümü Sınıf Eğitimi Anabilim Dalı 3. sınıf öğrencileri Meryem Dolu, Sevilay Erdoğan, Eda Yavuz ve Sude Nur Öztürk de destek verdi. Süreç boyunca üniversite öğrencileri etkinliklerin hazırlanmasında aktif rol alırken, öğrencilerle birebir ilgilenerek bayram coşkusunun daha güçlü hissedilmesine katkı sağladı.
 
-23 Nisan günü okul, “Dünya Çocukları” konseptiyle rengârenk bir festival alanına dönüşmüştür. Öğrenciler farklı ülkelere ait kıyafetlerle etkinliğe katılmış, kültürel çeşitliliği yansıtan görüntüler oluşturmuştur. Üniversite öğrencileri tarafından her çocuğa temsil ettiği ülkenin bayrağı dağıtılmış ve öğrenciler ellerindeki bayraklarla dünya çocuklarının kardeşliğini simgeleyen anlamlı bir atmosfer oluşturmuştur.
+Etkinliğin Konusu ve Amacı
 
-Program günün anlam ve önemine ilişkin konuşmalarla başlamış, ardından öğrenciler kırmızı halıda yürüyerek büyük alkış toplamıştır. Çocukların kendilerini özgüvenli ve özel hissettikleri gözlemlenmiştir. Veliler öğrencilerini gururla izlerken, öğrencilerin sahne deneyimi sayesinde kendilerini ifade etme becerilerinin desteklendiği görülmüştür.
+23 Nisan Ulusal Egemenlik ve Çocuk Bayramı kapsamında gerçekleştirilen bu etkinliklerin temel amacı, öğrencilerin bayramın anlam ve önemini yaşayarak öğrenmelerini sağlamak, millî birlik ve beraberlik duygularını güçlendirmek, kültürel farkındalıklarını artırmak ve eğlenceli etkinlikler aracılığıyla sosyal gelişimlerini desteklemekti. Ayrıca öğrencilerin aktif katılımını teşvik ederek bayramı yalnızca izleyen değil, yaşayan bireyler olmalarına katkı sunmak amaçlandı.
 
-Etkinliğin ilerleyen aşamalarında gerçekleştirilen maskot gösterileri öğrencilerin eğlenceli vakit geçirmesini sağlamıştır. Ardından öğrencilere yemek, dondurma, patlamış mısır ve çeşitli hediyeler dağıtılmıştır. Gün boyunca öğrencilerin oldukça mutlu ve heyecanlı oldukları gözlemlenmiştir.
+Hazırlık Süreci
 
-Etkinlik kapsamında gerçekleştirilen “Molekül” ve “Kale-Prens” oyunları öğrencilerin yoğun ilgisiyle karşılanmıştır. Molekül oyununda öğrenciler müzik eşliğinde hareket ederek verilen yönergelere uygun şekilde gruplar oluşturmuştur. Bu süreçte dikkat becerileri, hızlı düşünme yetileri ve grup hâlinde hareket etme becerileri desteklenmiştir. Öğrencilerin birbirlerini oyuna dahil etmeye çalışmaları dayanışma ve arkadaşlık duygularını güçlendirmiştir.
+Etkinlik hazırlıkları bayram gününden haftalar önce başladı. Üniversite öğrencileri belirli aralıklarla okulu ziyaret ederek 3. ve 4. sınıf öğrencileriyle kaynaştı ve birlikte oyunlar oynadı. Bu süreçte öğrencilerle güçlü bir bağ kuruldu.
 
-Kale-Prens oyununda ise öğrenciler takım hâlinde hareket ederek strateji geliştirmiş ve arkadaşlarını korumaya çalışmıştır. Oyun sırasında öğrencilerin sürekli iletişim kurduğu, birbirlerini desteklediği ve iş birliği içerisinde hareket ettiği gözlemlenmiştir. Çocukların oyunlara yoğun ilgi göstermesi nedeniyle etkinlik alanında sık sık kahkahalar ve tezahüratlar yükselmiştir. Bazı öğrenciler oyunların tekrar oynanmasını istemiş ve gönüllü olarak etkinliklere katılım göstermeye devam etmiştir.
+Özellikle “Molekül” ve “Kale-Prens” oyunlarının öğretildiği etkinliklerde çocukların heyecanlı, istekli ve enerjik tavırları dikkat çekti. Oyun provaları sırasında öğrencilerin takım ruhu geliştirdikleri, birbirleriyle iş birliği kurdukları ve eğlenerek öğrendikleri gözlemlendi. Çocukların her provada oyunları yeniden oynamak istemesi, etkinliğe duydukları ilgiyi ortaya koydu.
 
-Etkinlik sonunda gerçekleştirilen kapanış programıyla birlikte öğrenciler hem eğlenmiş hem de 23 Nisan’ın birlik, kardeşlik ve çocuklara verilen değeri simgeleyen anlamını yaşayarak öğrenme fırsatı bulmuştur. Gerçekleştirilen etkinliklerin öğrencilerin sosyal iletişim becerilerini, iş birliği duygularını, özgüvenlerini ve kültürel farkındalıklarını desteklediği gözlemlenmiştir.
+Uygulama Günü
 
-Bu süreç, grup üyelerine etkinlik planlama, büyük grupları yönetme, öğrencilerle etkili iletişim kurma ve okul-aile iş birliğinin önemini deneyimleme fırsatı sunmuştur. Öğrencilerden, velilerden ve okul yönetiminden alınan olumlu geri bildirimler doğrultusunda etkinliğin amaçlarına başarılı bir şekilde ulaştığı değerlendirilmiştir.
-    `,
+23 Nisan günü okul adeta rengârenk bir festival alanına dönüştü. Bu yıl etkinliklerde “Dünya Çocukları” konsepti tercih edildi. Öğrenciler farklı ülkelere ait kıyafetlerle okula gelirken, kültürel çeşitliliği yansıtan görüntüler büyük beğeni topladı. Üniversite öğrencileri tarafından her çocuğa temsil ettiği ülkenin bayrağı dağıtıldı. Ellerinde bayraklarıyla etkinlik alanında yer alan öğrenciler, dünya çocuklarının kardeşliğini ve birlik duygusunu yansıtan anlamlı görüntüler oluşturdu.
+
+Program, günün anlam ve önemine ilişkin konuşmalarla başladı. Ardından öğrenciler kırmızı halıda yürüyerek büyük alkış topladı. Çocukların özgüvenle yürüdüğü bu bölüm etkinliğin en dikkat çeken anlarından biri oldu. Kendilerini özel hissettikleri gözlemlenen öğrenciler, sahnede olmanın heyecanını doyasıya yaşadı. Veliler çocuklarını gururla izlerken, öğrencilerin kendilerini ifade etme becerilerindeki gelişim dikkat çekti.
+
+Etkinliğin ilerleyen bölümünde gerçekleştirilen maskot gösterisi öğrencilerin neşesine neşe kattı. Daha sonra öğrencilere yemek, dondurma, patlamış mısır ve çeşitli hediyeler dağıtıldı. Bayram boyunca çocukların yüzlerinden gülümsemenin eksik olmadığı görüldü.
+
+Günün devamında üniversite öğrencilerinin çocuklarla gerçekleştirdiği “Molekül” ve “Kale-Prens” oyunlarına geçildi. Haftalar öncesinde prova yapılan bu oyunlar, bayram günü büyük bir coşku içerisinde oynandı. Molekül oyununda öğrenciler müzik eşliğinde hareket ederek verilen yönergelere göre hızlıca gruplar oluşturdu. Oyun sırasında çocukların dikkat becerileri, hızlı düşünme yetileri ve grup hâlinde hareket etme becerileri desteklendi. Öğrencilerin birbirlerini oyuna dâhil etmeye çalışmaları, dayanışma ve arkadaşlık duygularını güçlendirdi.
+
+Kale-Prens oyununda ise öğrenciler hem fiziksel hem de sosyal açıdan aktif bir süreç yaşadı. Takım hâlinde hareket eden çocuklar, strateji kurarak arkadaşlarını korumaya çalıştı. Oyun boyunca öğrencilerin heyecanla birbirlerini destekledikleri, sürekli iletişim kurdukları ve eğlenirken iş birliği geliştirdikleri gözlemlendi. Çocukların oyuna olan yoğun ilgisi nedeniyle etkinlik alanında sık sık kahkahalar ve tezahüratlar yükseldi. Bazı öğrencilerin oyunların bitmesini istemediği ve tekrar tekrar oynamak için gönüllü olduğu görüldü. Üniversite öğrencileri de çocukların mutluluğuna ortak olarak etkinlik boyunca onlarla yakından ilgilendi.
+
+Gözlemlerimiz
+
+Etkinlik boyunca öğrencilerin büyük bir heyecan ve mutlulukla sürece katıldıkları gözlemlendi. Oyunlar ve diğer etkinlikler sayesinde öğrenciler hem akranlarıyla etkileşim kurma fırsatı buldu hem de bayramın coşkusunu aktif şekilde yaşadı. “Dünya Çocukları” teması öğrencilerin farklı kültürlere yönelik farkındalık geliştirmelerine katkı sağladı.
+
+Okul yönetimi, öğretmenler, üniversite öğrencileri ve veliler arasında güçlü bir iş birliği olduğu görüldü. Tüm paydaşların ortak çabası, etkinliklerin düzenli ve verimli bir şekilde yürütülmesini sağladı.
+
+Çocuklardan Aldığımız Dönütler
+
+Öğrenciler, etkinliklerde yer almaktan ve arkadaşlarıyla birlikte vakit geçirmekten büyük mutluluk duyduklarını ifade etti. Birçok öğrenci oyunların günün en eğlenceli kısmı olduğunu ve tekrar oynanmasını istediklerini belirtti. Bazı öğrenciler ise farklı ülkeleri temsil etmelerinin ve bayrak taşımalarının kendilerini özel hissettirdiğini dile getirdi.
+
+Çocukların etkinlik süresince gösterdikleri istekli katılım ve olumlu geri bildirimler, etkinliklerin amacına ulaştığını gösteren önemli göstergeler oldu.
+
+Bu Deneyimin Bize Kazandırdıkları
+
+23 Nisan etkinliklerinde aktif rol almak, program dışı etkinliklerin öğrencilerin sosyal, duygusal ve kültürel gelişimlerine sağladığı katkıları yakından gözlemlememizi sağladı. Hazırlık ve uygulama süreçlerinde görev almak; planlama, organizasyon, iletişim ve öğrenciyle etkili etkileşim kurma becerilerimizi geliştirmemize katkı sundu.
+
+Bu deneyim sayesinde öğretmenlik mesleğinin yalnızca akademik bilgi aktarmaktan ibaret olmadığını, öğrencilerin mutlu oldukları ve kendilerini ifade edebildikleri ortamlar oluşturmanın da öğretmenliğin önemli bir parçası olduğunu daha iyi kavradık. Öğrencilerle birlikte geçirdiğimiz süreç, mesleki gelişimimiz açısından son derece değerli ve öğretici bir deneyim oldu.
+
+Tekrar Bu Etkinliği Yapacak Olursak
+
+Bu etkinliği yeniden gerçekleştirme fırsatımız olsaydı, oyun ve etkinlik çeşitliliğini artırarak daha fazla öğrencinin aktif katılımını sağlayacak uygulamalara yer vermeyi planlardık. Ayrıca farklı kültürlerin tanıtımına yönelik daha fazla istasyon ve etkileşimli etkinlik ekleyerek öğrencilerin kültürel farkındalıklarını daha da geliştirmeyi hedeflerdik.
+
+Okul müdürünün yaratıcı ve öğrenci merkezli planlaması sayesinde öğrenciler, 23 Nisan’ı yalnızca bir tören günü olarak değil; oyunlarla, kültürel paylaşımlarla ve unutulmaz anılarla dolu gerçek bir bayram olarak yaşama fırsatı buldu. Gerçekleştirilen etkinlikler, çocukların mutluluğunu merkeze alan yaklaşımıyla hem öğrencilerin hem de velilerin hafızalarında özel bir yer edindi.
+   `,
     
     en: `
-The activities organized within the scope of the 23 April National Sovereignty and Children’s Day at Mahmutlar Kılıçarslan Primary School and Village Life Center created an unforgettable celebration atmosphere for students, teachers, and parents. Third-year students from the Department of Primary Education at Alanya Alaaddin Keykubat University Faculty of Education — Meryem Dolu, Sevilay Erdoğan, Eda Yavuz, and Sude Nur Öztürk — actively participated in the process, worked closely with the students, and contributed to strengthening the excitement and joy of the celebration.
+Introduction of the Activity
 
-The preparation process for the event started weeks before the celebration day. The university students visited the school regularly, spent time with the 3rd and 4th grade students, and built strong communication through games and interactive activities. During the rehearsals of the “Molecule” and “Castle-Prince” games, students were observed to be highly energetic, enthusiastic, and eager to participate. Through these games, students improved their teamwork skills, cooperation abilities, and active participation in the learning process.
+Colorful activities organized within the scope of April 23 National Sovereignty and Children's Day at Mahmutlar Kılıçarslan Primary School and Village Life Center created unforgettable moments for students, teachers, and parents. Third-year students of the Department of Primary Education at the Faculty of Education, Alanya Alaaddin Keykubat University, namely Meryem Dolu, Sevilay Erdoğan, Eda Yavuz, and Sude Nur Öztürk, also supported the organization, which had been meticulously planned by the school principal weeks in advance. Throughout the process, the university students took an active role in preparing the activities and worked closely with the children, contributing to a stronger sense of holiday enthusiasm.
 
-On April 23rd, the school turned into a colorful festival area with the theme of “Children of the World.” Students attended the event wearing costumes representing different countries, creating a vibrant atmosphere reflecting cultural diversity. University students distributed flags representing each child’s assigned country, symbolizing unity, friendship, and solidarity among children around the world.
+Subject and Purpose of the Activity
 
-The program began with speeches emphasizing the importance and meaning of the day. Afterwards, students walked on a red carpet and received great applause. It was observed that the children felt confident and special during this moment. Parents proudly watched their children, while students had the opportunity to improve their self-expression and stage confidence.
+The main purpose of the activities was to enable students to experience the joy and meaning of April 23 National Sovereignty and Children's Day through active participation. The event aimed to strengthen students’ sense of unity, friendship, cooperation, and cultural awareness while providing opportunities for enjoyable and educational experiences.
 
-Later in the program, mascot performances added excitement and entertainment to the celebration. Students were also offered food, ice cream, popcorn, and various gifts throughout the day. It was clearly observed that the children were happy, excited, and highly engaged during the activities.
+Preparation Process
 
-The “Molecule” and “Castle-Prince” games attracted great interest from the students. In the Molecule game, students moved with music and quickly formed groups according to the instructions given. Through this activity, their attention skills, quick thinking abilities, and teamwork skills were supported. Students’ efforts to include each other in the games strengthened their sense of friendship and cooperation.
+Preparations for the event began several weeks before the holiday. The university students visited the school at regular intervals, interacted with the 3rd and 4th grade students, and played games together. During this process, a strong bond was established with the students.
 
-In the Castle-Prince game, students worked together as teams, developed strategies, and tried to protect their teammates. Throughout the game, students constantly communicated, supported one another, and cooperated actively. Due to the students’ enthusiasm, the event area was frequently filled with laughter and cheering. Some students expressed that they wanted to replay the games and voluntarily continued participating in the activities.
+Particularly during the activities in which the games “Molecule” and “Castle-Prince” were taught, the students’ excitement, willingness, and energetic attitudes attracted attention. During the game rehearsals, it was observed that students developed team spirit, cooperated with one another, and learned while having fun. The fact that the children wanted to play the games repeatedly at every rehearsal demonstrated their interest in the activity.
 
-At the end of the event, the closing ceremony allowed students to both enjoy themselves and experience the true meaning of April 23rd, symbolizing unity, friendship, and the value given to children. The activities were observed to contribute positively to students’ social communication skills, cooperation abilities, self-confidence, and cultural awareness.
+Implementation Day
 
-This process also provided valuable experience for the group members in event planning, classroom and group management, effective communication with students, and understanding the importance of school-family cooperation. Based on the positive feedback received from students, parents, and the school administration, the event was considered highly successful in achieving its intended goals.
-    `
+On April 23, the school was transformed into a colorful festival area. This year, the theme of the celebrations was “Children of the World.” Students came to school wearing clothes representing different countries, and the images reflecting cultural diversity received great appreciation. The university students distributed the flags of the countries represented by each child. Holding their flags in the activity area, the students created meaningful scenes reflecting the brotherhood and unity of children around the world.
+
+The program began with speeches emphasizing the meaning and importance of the day. Afterwards, the students walked on a red carpet and received enthusiastic applause. This section, in which the children walked confidently, became one of the most remarkable moments of the event. It was observed that the students felt special and fully experienced the excitement of being on stage. While parents watched their children with pride, the students’ development in self-expression skills was also noticeable.
+
+In the following part of the event, the mascot show added even more joy to the students’ excitement. Afterwards, meals, ice cream, popcorn, and various gifts were distributed to the students. Throughout the celebration, smiles never left the children’s faces.
+
+Later in the day, the “Molecule” and “Castle-Prince” games organized by the university students were played with the children. These games, which had been rehearsed weeks beforehand, were played with great enthusiasm on the holiday.
+
+In the Molecule game, students moved to music and quickly formed groups according to the instructions given. During the game, children’s attention skills, quick-thinking abilities, and ability to act as a group were supported. The students’ efforts to include one another in the game strengthened their feelings of solidarity and friendship.
+
+In the Castle-Prince game, students experienced an active process both physically and socially. Working as teams, the children developed strategies and tried to protect their teammates. Throughout the game, it was observed that the students enthusiastically supported one another, communicated continuously, and developed cooperation while having fun. Due to the students’ intense interest in the games, laughter and cheers frequently filled the activity area. It was also observed that some students did not want the games to end and volunteered to play them repeatedly. The university students shared in the children’s happiness and stayed closely involved with them throughout the activities.
+
+Our Observations
+
+Throughout the event, it was observed that the students participated with great enthusiasm and enjoyment. The games and activities enabled them to interact with their peers, strengthen their communication skills, and actively engage in the celebration process. The “Children of the World” theme also contributed to students’ awareness of cultural diversity and global unity.
+
+Feedback We Received from the Children
+
+The students expressed that they greatly enjoyed participating in the activities and spending time with their friends. Many of them stated that the games were their favorite part of the day and that they wished to play them again. Some students mentioned that carrying the flags and representing different countries made them feel special.
+
+It was observed that the students viewed the day not merely as a ceremony but as a joyful celebration filled with games, sharing, and memorable experiences. Their enthusiasm and positive reactions showed that the objectives of the activities had been successfully achieved.
+
+What This Experience Gained for Us
+
+Participating in the April 23 celebrations allowed us to closely observe the importance of extracurricular activities in supporting students’ social, emotional, and cultural development. Through this experience, we gained valuable insights into event planning, organization, communication, and classroom interaction.
+
+Most importantly, we realized that teaching extends beyond academic instruction and includes creating meaningful experiences that contribute to students’ happiness and personal development. Working closely with the children throughout the preparation and implementation stages strengthened our professional awareness and provided us with valuable experience for our future teaching careers.
+
+The creative and student-centered planning of the school principal enabled students to experience April 23 not merely as a ceremonial day but as a true festival filled with games, cultural sharing, and unforgettable memories. The activities, centered on children's happiness, earned a special place in the memories of both students and parents.
+   `
 }, 
     images: [
         "assets/images/bayram12.1.png",
