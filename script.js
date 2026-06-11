@@ -2381,28 +2381,7 @@ We would like to express our sincere gratitude to Assoc. Prof. Dr. Sibel Dal for
     coverImage: "assets/images/bayram7.4.png"
   },
 
-bayram8: {
-    category: "gallery2",
-    title: {    
-        tr: "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı",
-        en: "April 23rd National Sovereignty and Children's Day"
-    },  
-    shortDesc: {
-        tr: "Ulusal Egemenlik ve Çocuk Bayramı",
-        en: "National Sovereignty and Children's Day"
-    },
-    longDesc: {
-        tr: "Okul etkinlikleri ile kutlandı.",
-        en: "Celebrated with school activities."
-    },  
 
-    images: [
-        "assets/images/bayram8.1.png",
-        "assets/images/bayram8.2.png",
-        
-    ],  
-    coverImage: "assets/images/bayram8.1.png"
-  },
 
 bayram9: {
     category: "gallery2",
