@@ -2033,16 +2033,73 @@ bayram9: {
 },
     longDesc: {
     tr: `
-23 Nisan Ulusal Egemenlik ve Çocuk Bayramı hazırlıklarına gözlemci olarak katılan ekibimiz, okul süslemelerinde ve koreografilerden birinin hazırlığında da aktif rol alarak bayram coşkusuna ortak oldu. Süreç boyunca öğrencilerin prova çalışmalarına eşlik edilmiş, etkinlik alanlarının düzenlenmesine destek verilmiş ve bayram atmosferinin oluşturulmasına katkı sağlanmıştır. Öğrencilerin heyecanı ve motivasyonu yakından gözlemlenmiş, öğretmenlerin organizasyon sürecindeki iş birliği ve yönlendirmeleri deneyimlenmiştir. Bu süreç, öğretmen adayları olarak okul içi etkinlik planlama, gözlem yapma ve öğrenci etkileşimini daha yakından tanıma fırsatı sunmuştur.
-    `,
+Aynı format ve paragraf düzeni korunarak aşağıdaki şekilde düzenleyebilirsiniz:
+
+Etkinliğin Tanıtımı:
+Eğitimde Program Dışı Etkinlikler dersi kapsamında, Hazal Rümeysa Kulaz, Zeynep Su Sağlamer, Fatma Erdoğan ve Fatma Aydın’dan oluşan 4 kişilik grubumuzla Alanya Bilgi Bulut İlkokulu'nda 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı etkinlikleri için çalışma gerçekleştirdik. 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı, Türkiye Büyük Millet Meclisinin açılışını simgelemesi ve Gazi Mustafa Kemal Atatürk tarafından dünya çocuklarına armağan edilen ilk ve tek çocuk bayramı olması bakımından büyük bir anlam taşımaktadır. Bu özel günün etkinlik konusu olarak seçilmesindeki temel amaç, öğrencilerde millî birlik ve beraberlik bilinci oluşturmak, tarihî ve kültürel değerlerimize karşı farkındalık kazandırmak ve onların sosyal yönlerini geliştirecek etkinliklerle okul yaşamını zenginleştirmektir.
+
+Etkinliğin Konusu ve Amacı:
+Okulumuzun 23 Nisan takvimi dönem başında belirlenmiş olsa da, bizim temel misyonumuz bu sürece aktif olarak dahil olup, öğrencilerin akademik müfredatın ötesinde sosyal ve kültürel bir "bayram bilinci" kazanmalarını sağlamaktı. Temel amacımız; bayramın bir tören kalıbından çıkıp, çocukların kendi emekleriyle güzelleştirdikleri, aidiyet duygularının güçlendiği ve unutulmaz bir hatıraya dönüşen yaşayan bir organizasyon haline gelmesine katkıda bulunmaktı.
+
+Hazırlık Süreci:
+Hazırlık sürecimize 3 Mart tarihinde gerçekleştirdiğimiz tanışma ziyaretiyle başladık. Her hafta dans provalarını okula giderek gözlemledik ve yarışmaları bayram öncesinde çocuklara öğrettik. Bayramdan bir önceki gün, sınıf ve okul süslemelerini, ayrıca bayram günü fotoğraf çekimi için hazırlanan arka planı tamamen çocuklarla birlikte hazırladık. Her ne kadar gözlemci rolümüzde olsak da süslemelerde ve yarışmaların öğretilmesinde aktif rol aldık.
+
+Uygulama Günü:
+23 Nisan sabahı erkenden okula giderek, tören alanının hazırlanmasından etkinliklerin akışına kadar tüm operasyonel süreci yönetmeye yardımcı olduk. Özellikle öğretmenlerin tören öncesindeki özverili yardımlaşması ve çocuklarla teneffüslerde kurdukları samimi ve şefkatli iletişim, bizlere "ideal öğretmenlik" modelini canlı olarak gösterdi. Bayram günü gerçekleştirdiğimiz geleneksel oyunlar (yumurta taşıma, yoğurt yeme, sandalye kapmaca vb.) çocukların yüzündeki saf neşeyi zirveye taşıdı; bu sadece bir tören değil, aynı zamanda bir şenlikti.
+
+Gözlemlerimiz:
+Okul yönetimi ve öğretmenlerle kurduğumuz iletişim, iş birlikçi ve samimi atmosfer sayesinde oldukça verimli geçti. Okul dışı öğrenme ortamında öğrenmenin nasıl gerçekleştiğini ve resmî bayramlar öncesinde yapılan tüm organizasyon süreçlerini birebir yaşayarak deneyimledik. Bu süreçlerin yardımlaşma ve dayanışma ile başarıyla yürütülebileceğini anlamış olduk.
+
+Çocuklardan Aldığımız Dönütler:
+Çocuklarla kurduğumuz samimi bağ, bayram günü paylaştığımız coşku ve hazırlık sürecinde birlikte kestiğimiz, yapıştırdığımız her bir süslemede kendini gösterdi. Çocukların kendi elleriyle hazırladıkları fotoğraf köşesinde heyecanla poz vermeleri, yarışmalarda birbirlerini desteklemeleri ve bizleri süreçlerine dahil etmeleri, hedeflerimize ulaştığımızın en içten göstergesi oldu.
+
+Bu Deneyimin Bize Kazandırdıkları:
+Etkinliğin planlanmasından uygulanmasına kadar geçen süreçte yaşadığımız iş birliği, beklenmedik durumları anlık olarak çözebilme becerimizi geliştirdi. En önemlisi, öğretmenlik mesleğinin merkezine öğrenciyi koymanın yalnızca akademik başarıyla değil, onların mutlu olduğu ve kendilerini gerçekleştirebildiği anlara ortak olmakla mümkün olduğunu içselleştirdik. Bu deneyim, gelecekte oluşturacağımız sınıf ortamının bir provası niteliğindeydi. Ayrıca bir sınıfın nasıl yönetileceği, okul dışı öğrenme ortamında öğrenmenin nasıl gerçekleşeceği, resmî bayramlar öncesinde ve sırasında hangi süreçlerin yürütüldüğü gibi birçok durumu birebir deneyimlemek, biz öğretmen adayları için son derece kıymetliydi.
+
+Bu sürümde yalnızca yazım, noktalama ve paragraf düzeni standartlaştırılmıştır; içerikte herhangi bir değişiklik yapılmamıştır.
+
+ `,
     en: `
-Our team participated in the preparations for the April 23 National Sovereignty and Children’s Day celebrations as observers and also took an active role in school decorations and the preparation of one of the choreographies, sharing the excitement of the celebration. Throughout the process, the team accompanied students during rehearsals, supported the arrangement of activity areas, and contributed to creating the festive atmosphere. The enthusiasm and motivation of the students were closely observed, while the cooperation and guidance of the teachers during the organization process were experienced firsthand. This process provided us, as pre-service teachers, with the opportunity to better understand school event planning, observation practices, and student interaction.
+Introduction of the Activity:
+
+As part of the Out-of-School Activities in Education course, our group of four consisting of Hazal Rümeysa Kulaz, Zeynep Su Sağlamer, Fatma Erdoğan, and Fatma Aydın carried out activities for the April 23 National Sovereignty and Children's Day at Alanya Bilgi Bulut Primary School. April 23 National Sovereignty and Children's Day has great significance as it symbolizes the opening of the Grand National Assembly of Türkiye and as it is the first and only children's holiday in the world gifted to children by Gazi Mustafa Kemal Atatürk. The main purpose of choosing this special day as the subject of our activity was to create an awareness of national unity and solidarity among students, to raise awareness of our historical and cultural values, and to enrich school life through activities that would develop their social skills.
+
+Subject and Purpose of the Activity:
+
+Although our school's April 23 calendar had been determined at the beginning of the academic term, our main mission was to actively participate in this process and ensure that students gained a social and cultural “holiday awareness” beyond the academic curriculum. Our primary aim was to contribute to transforming the holiday from a formal ceremony into a living organization that children beautified through their own efforts, where their sense of belonging was strengthened, and which turned into an unforgettable memory.
+
+Preparation Process:
+
+We began our preparation process with an introductory visit that we conducted on March 3. Every week, we visited the school to observe the dance rehearsals and taught the competitions and games to the children before the holiday. On the day before the holiday, we prepared the classroom and school decorations as well as the background prepared for taking photographs on the holiday together with the children. Although our role was primarily that of observers, we took an active role in the decorations and in teaching the competitions.
+
+Implementation Day:
+
+On the morning of April 23, we went to the school early and helped manage the entire operational process, from the preparation of the ceremony area to the flow of the activities. In particular, the devoted cooperation among the teachers before the ceremony and the sincere and compassionate communication they established with the children during recess showed us a living example of the “ideal teacher” model. The traditional games we organized on the holiday (egg carrying, yogurt eating, musical chairs, etc.) brought the pure joy on the children's faces to its peak; this was not merely a ceremony but a festival.
+
+Our Observations:
+
+The communication we established with the school administration and teachers was very productive thanks to the cooperative and sincere atmosphere. We personally experienced how learning takes place in an out-of-school learning environment and all the organizational processes carried out before official holidays. We came to understand that these processes can be successfully managed through cooperation and solidarity.
+
+Feedback We Received from the Children:
+
+The sincere bond we established with the children became evident in the enthusiasm we shared on the holiday and in every decoration that we cut and glued together during the preparation process. The fact that the children eagerly posed in the photo corner they had prepared with their own hands, supported one another during the competitions, and included us in their processes was the most sincere indication that we had achieved our goals.
+
+What This Experience Gained for Us:
+
+The cooperation we experienced from the planning stage of the activity to its implementation improved our ability to solve unexpected problems instantly. Most importantly, we internalized that placing the “student” at the center of the teaching profession is possible not only through academic achievement but also through sharing in the moments when students are happy and able to realize themselves. This experience was like a rehearsal for the classroom climate that we will create in our future careers. Thanks to this experience, personally experiencing all the processes such as how a classroom is managed, how learning takes place in an out-of-school learning environment, and what is done before and during official holidays was extremely valuable for us as pre-service teachers.
     `
 },
     images: [
         "assets/images/bayram9.1.png",
         "assets/images/bayram9.2.png",
         "assets/images/bayram9.3.png",
+        "assets/images/bayram9.4.png",
+        "assets/images/bayram9.5.png",
+        "assets/images/bayram9.6.png",
+        "assets/images/bayram9.7.png",
+        "assets/images/bayram9.8.png",
+        "assets/images/bayram9.9.png",
+        "assets/images/bayram9.10.png",
     ],  
     coverImage: "assets/images/bayram9.1.png"
   },    
@@ -2403,45 +2460,87 @@ odoo1: {
     tr: "Fatma Erdoğan, Fatma Aydın, Hazal Kulaz ve Zeynep Su Sağlamer tarafından Bilgi Bulut İlkokulu’nda “Adalet Kulübü” kapsamında gerçekleştirilen değerler eğitimi etkinlikleri.",
     en: "Values education activities carried out within the scope of the “Justice Club” at Bilgi Bulut Primary School by Fatma Erdoğan, Fatma Aydın, Hazal Kulaz, and Zeynep Su Sağlamer."
 },
-   longDesc: {
-    tr:
-        "Okul seçim sürecimiz oldukça sorunsuz ve verimli geçti. Bilgi Bulut İlkokulu’nu tercih etmemizdeki en büyük etken, okulun aktif etkinlik kültürü ve idari birimin iş birliğine açık tutumuydu. Okul atmosferi, öğrenci merkezli bir yaklaşıma sahip olduğu için oldukça uygundu. Okul müdürünün son derece donanımlı olması, tüm öğrencilerin gelişim süreçlerine hakimiyeti ve bizlere sağladığı rehberlik, uygulama sürecindeki olası aksaklıkların oluşmadan önlenmesini sağladı. Okul müdürü ve öğretmenler, resmi izinlerin alınmasından gezi lojistiğine kadar her aşamada sorularımızı yanıtlayarak bize destek oldular. " +
+  longDesc: {
+    tr:`
+        Etkinliğin Tanıtımı:
+Eğitimde Program Dışı Etkinlikler dersi kapsamında, Dr. Öğr. Üyesi Sibel Dal danışmanlığında Hazal Rümeysa Kulaz, Zeynep Su Sağlamer, Fatma Erdoğan ve Fatma Aydın’dan oluşan 4 kişilik çalışma grubumuz tarafından Alanya Bilgi Bulut İlkokulu’nda 2. sınıf öğrencileriyle "Adalet Elçileri Adliyede" etkinliği gerçekleştirilmiştir.
 
-        "Bu süreçte etkinliği gerçekleştirdiğimiz sınıfın öğretmeni, aktif öğretmenlik tecrübesi kazanmamız için büyük bir özveri gösterdi. Attığımız her adımda sunduğu yapıcı eleştiriler ve değerli geri bildirimlerle mesleki gelişimimize katkı sağladı. Yeri geldiğinde sınıfını bize emanet ederek, etkinliklerimiz dışında da teorik bilgilerin gerçek bir sınıf ortamında nasıl pratiğe dökülebileceğini yaşayarak öğrenmemizi sağladı. " +
+Etkinliğin Konusu ve Amacı:
+Türkiye Yüzyılı Maarif Modeli'nde yer alan erdem-değer-eylem kapsamında, öğrencilerin adaletli ve ahlaken iyi bireyler olarak yetiştirilmesi hedeflenmiştir. Bu doğrultuda temel amacımız, adalet gibi soyut bir kavramı öğrencilere somutlaştırarak, yaparak ve yaşayarak öğrenmelerini sağlamak olmuştur.
 
-        "Adalet ve hak gibi soyut kavramların yalnızca anlatım yoluyla değil, yerinde gözlem ve yaşantı temelli öğrenme ile kalıcı hale gelebileceği düşüncesi bizi bu etkinliği seçmede motive etti. Çocukların adliye atmosferini deneyimlemesi ve bir hakime doğrudan soru sorabilmesi, teorik bilgiyi hayatın içine taşıma fırsatı sundu. " +
+Hazırlık Süreci:
+Hazırlık aşamasında ekip içi görev dağılımı yaparak, çocukların ilgisini çekecek görsel materyaller; “Adalet Dedektifi” etkinlik kağıtları ve sürece aidiyetlerini artıracak özel tasarım rozetler hazırladık. Sürecin ilk evresinde sınıf ortamında Sibel Dal hocamızın önerisi ile Winnie The Pooh metnini inceledik. Bu metin üzerinden yürüttüğümüz felsefi tartışmalarda, “adil olan her zaman eşit midir?” sorusuna yanıt aradık. Ayrıca adliyenin toplumsal düzenimizdeki yerini, hakimlerin, avukatların ve savcıların rollerini interaktif bir sohbet ortamında çocuklarla konuştuk.
 
-        "Adalet Kulübü çalışmaları kapsamında planlanan tüm aşamalarda aktif rol aldık. Süreç; sınıfta hikâye anlatımıyla ön bilgi oluşturma, merak edilen soruların not alınması, adliye gezisi, Hakim Hanım ile söyleşi, duruşma salonunda drama çalışması ve yaratıcı yazma etkinliğini kapsamaktaydı. Ayrıca 23 Nisan hazırlıkları sürecinde gözlemci olarak bulunup süslemelere ve bazı provalara destek verdik. " +
+Uygulama Günü:
+Uygulamanın merkezinde yer alan adliye ziyareti, öğrencilerin heyecanla beklediği bir keşif süreciydi. Binaya girmeden önce öğrencilerimize dağıttığımız “Adliye Gezisi Dedektif Kuralları” broşürleri, onların sadece gezgin değil, süreci gözlemleyen "adalet dedektifleri" olmalarını sağladı. Hakim hanım ile gerçekleştirdiğimiz söyleşide, öğrencilerin meslek ve adalet üzerine sordukları birbirinden ilginç sorular, onların eleştirel düşünme becerilerini gözler önüne serdi. Ardından mahkeme salonuna geçilerek, bir duruşma anını drama tekniğiyle canlandırdık; burada ısınma, rol alma, canlandırma ve değerlendirme aşamalarıyla çocukların adaleti dramanın içine görerek anlamalarını sağladık. Gezi sonrası sınıfta “karar defteri” üzerinden senaryoları tartıştık ve “ben hakim olsaydım” temalı yaratıcı yazma çalışmalarıyla süreci noktaladık.
 
-        "Etkinlik sürecinde öğrenci motivasyonunu canlı tutmak amacıyla “Winnie the Pooh” gibi çocukların dünyasına hitap eden karakterler üzerinden giriş yapıldı. Gezi öncesinde öğrencilere sorumluluk verilerek sorular hazırlatıldı; kurallar broşürü ve etkinlik kâğıtlarıyla öğrencilerin kendilerini birer “genç araştırmacı” gibi hissetmeleri sağlandı. Hakim Hanım’a çiçek takdim etmeleri ise öğrencilerin sürecin bir parçası olduklarını hissetmelerine katkı sağladı. " +
+Gözlemlerimiz:
+Tüm süreç boyunca okul yönetimi, sınıf öğretmenimiz ve diğer paydaşlar, öğretmen adayı olarak bizlere son derece yol gösterici ve teşvik edici yaklaştılar. Okulda var olan iş birlikçi ve samimi atmosfer, projemizin bir parçası gibi benimsenmemizi sağladı. Özellikle çocukların etkinliklere gösterdiği yüksek motivasyon ve ders saati bittikten sonra bile teneffüslerde “Peki, arkadaşımın hakkını yemek adil mi?” gibi sorularla kendi aralarında tartışmaları, adaleti sadece sınıfta değil, yaşamlarına dahil ettiklerini kanıtladı.
 
-        "Bunun sonucunda öğrencilerin bilişsel düzeyde konuya oldukça hakim ve sorgulayıcı oldukları gözlemlendi. Duyuşsal olarak ise adliyeye ilk adımı attıkları andan itibaren büyük bir heyecan ve merak içerisinde oldukları görüldü. Özellikle Hakim Hanım’ın sıcak yaklaşımı ve öğrencilere verdiği hediyeler, onların sürece olan bağlılığını ve öğrenme isteğini üst seviyeye çıkardı. " +
+Çocuklardan Aldığımız Dönütler:
+Gerçekleştirdiğimiz “karar defteri” ve yaratıcı yazma etkinliklerinde, öğrencilerin vicdani ve empatik becerilerinin çok güçlü olduğunu gördük. “Öğretmen yanlışlıkla fazla çikolata verirse ne yaparsın?” sorusuna öğrencilerin “Dürüstçe öğretmenime söylerdim” yanıtını vermeleri, adaleti dürüstlükle eşleştirdiklerini gösterdi. “Ben hakim olsaydım” yazılarında ise çoğunluğun “herkesi dinlemek” vurgusu yapması, adalet kavramını başarıyla anlamlandırdıklarının bir kanıtıydı. İlk aşamasında, Winnie The Pooh metni üzerinden yaptığımız tartışmalarla öğrencilerin içsel adalet duygusunu uyandırdık. Bu süreç, öğrencilerin adalet ve eşitlik kavramlarını sadece birer sözcük değil, etik birer erdem olarak tanımlamalarını sağladı. Adliye ziyareti ve ardından mahkeme salonunda gerçekleştirdiğimiz drama etkinliği, adaletin toplumsal bir değer olarak nasıl korunduğunu öğrencilerin gözlemlemesine olanak tanıdı. Öğrenciler, "Adalet Dedektifi" etkinlik kağıtları aracılığıyla adliyeyi incelerken, adil bir toplumun parçası olma değerini zihinlerine yerleştirdiler. "Karar Defteri" ve "Ben Hakim Olsaydım" gibi yaratıcı yazma etkinlikleri, değerin eyleme dönüştüğü en somut anlardı. Örneğin; bir öğrencinin yanlışlıkla fazla verilen çikolatayı geri verme konusundaki tutumu (%64 oranında dürüstlük vurgusu), değerin bir karara ve ardından dürüst bir eyleme dönüştüğünü kanıtladı.
 
-        "Bu deneyim bizlere yalnızca sınıf içi ders anlatımını değil, okul dışı bir organizasyonun nasıl yönetileceğini de öğretti. Milli Eğitim Bakanlığı ve Adalet Bakanlığı gibi resmi kurumlarla yürütülen bürokratik süreçler, bir gezinin güvenli ve öğretici şekilde planlanması ve özel günlerde okul iklimine katkı sağlama süreçleri doğrudan deneyimlenmiş oldu. " +
+Bu Deneyimin Bize Kazandırdıkları:
+Bu deneyim bize, öğretmenliğin sadece dört duvar arasında değil, okulun ve toplumun her alanında var olmayı gerektirdiğini öğretti. Bir kavramın soyut düzeyden alınıp mahkeme salonundaki bir cübbe giyme heyecanına dönüşmesi, mesleki tatminimizi sağladı. Gelecekte benzer etkinliklerde daha fazla yaratıcı dramaya yer vermenin, çocukların kalıcı öğrenme sürecine katkı sunacağını deneyimlemiş olduk. Etkinlik planlamadan uygulamaya kadar geçen süreçte yaşadığımız iş birliği, problem çözme becerimizi geliştirdi ve öğretmenlik mesleğinin “öğrenciyi merkeze alma” değerini içselleştirmemizi sağladı. Gelecekte benzer etkinliklerde daha fazla yaratıcı dramaya yer vermenin, okul dışı öğrenmenin, eğitimde program dışı etkinliklerin çocukların kalıcı öğrenme sürecine daha çok katkı sunacağını deneyimlemiş olduk.
 
-        "Elde edilen verim ve öğrencilerden alınan dönütler oldukça olumlu olduğu için planlamada önemli bir eksiklik hissedilmemiştir. Aynı etkinlik tekrar gerçekleştirilecek olsa yine aynı titizlikle uygulanmasının tercih edileceği düşünülmektedir. " +
+Tekrar Bu Etkinliği Yapacak Olursak:
+Biz tekrardan bu etkinliği planlayacak olursak değiştirmek istediğimiz veya eksik gördüğümüz bir kısmın olmadığını düşünüyoruz. Çünkü tüm süreç boyunca en ufak ayrıntıya kadar her şeyimizi planlayarak büyük bir özveri ve titizlik ile gerçekleştirdiğimizi düşünüyoruz.
+`,
+    en:`
+       Introduction of the Activity:
 
-        "Kendimizi başarılı buluyoruz çünkü çocukların zihninde “Adalet” kavramına dair kalıcı ve olumlu bir iz bırakıldığı gözlemlenmiştir. Öğrencilerin etkinlik sonrasında da adalet, eşitlik ve hak kavramları üzerine düşünmeye devam etmeleri ve küçük yaş grubunda olmalarına rağmen bu kavramları kendi yaşamlarından örneklerle sorgulamaları, etkinliğin amacına ulaştığını göstermektedir. Böylece hem bizim hem de öğrencilerimiz için unutulmaz bir farkındalık ve deneyim süreci tamamlanmıştır.",
+As part of the Out-of-School Activities in Education course, the activity titled “Justice Ambassadors at the Courthouse” was carried out with 2nd-grade students at Alanya Bilgi Bulut Primary School by our four-member group consisting of Hazal Rümeysa Kulaz, Zeynep Su Sağlamer, Fatma Erdoğan, and Fatma Aydın under the supervision of Dr. Lecturer Sibel Dal.
 
-    en:
-        "Our school selection process was very smooth and productive. The biggest reason for choosing Bilgi Bulut Primary School was its active event culture and the cooperative attitude of the administrative staff. The school atmosphere was highly suitable because it followed a student-centered approach. The school principal’s competence, awareness of students’ developmental processes, and guidance provided to us helped prevent possible problems before they even occurred. The principal and teachers supported us at every stage, from obtaining official permissions to organizing the trip logistics. " +
+Subject and Purpose of the Activity:
 
-        "During this process, the classroom teacher of the class where we carried out the activity showed great dedication in helping us gain active teaching experience. Through constructive criticism and valuable feedback, the teacher contributed significantly to our professional development. At times, the teacher entrusted the classroom to us, allowing us to experience how theoretical knowledge could be transformed into practice in a real classroom environment. " +
+Within the scope of the virtue-value-action framework included in the Türkiye Century Education Model, it was aimed to raise students as fair and morally good individuals. Accordingly, our main purpose was to help students learn the abstract concept of justice by making it concrete and enabling them to learn through doing and experiencing.
 
-        "The idea that abstract concepts such as justice and rights could become permanent not only through explanation but also through observation and experiential learning motivated us to choose this activity. Allowing children to experience the courthouse atmosphere and ask questions directly to a judge provided an opportunity to bring theoretical knowledge into real life. " +
+Preparation Process:
 
-        "We took active roles in all stages planned within the scope of the Justice Club activities. The process included creating prior knowledge through storytelling in the classroom, writing down students’ questions, a courthouse visit, an interview with a judge, a drama activity in the courtroom, and a creative writing activity. In addition, we participated as observers during the April 23 preparations and supported the decorations and some rehearsals. " +
+During the preparation stage, we distributed tasks among the team members and prepared visual materials that would attract the children’s attention, “Justice Detective” activity worksheets, and specially designed badges that would increase their sense of belonging to the process.
 
-        "In order to keep student motivation high, an introduction was made using characters such as “Winnie the Pooh,” which appealed to children’s interests. Before the trip, students were given responsibilities and asked to prepare questions. Rule brochures and activity sheets helped them feel like “young researchers.” Presenting flowers to the judge also made students feel like an important part of the process. " +
+In the first phase of the process, we examined a Winnie the Pooh text in the classroom upon the suggestion of our instructor, Sibel Dal. Through the philosophical discussions conducted based on this text, we sought answers to the question, “Is what is fair always equal?” In addition, we talked with the children in an interactive discussion environment about the place of the courthouse in our social order and the roles of judges, lawyers, and prosecutors.
 
-        "As a result, students were observed to be cognitively knowledgeable and highly inquisitive about the topic. Emotionally, they were excited and curious from the moment they entered the courthouse. The judge’s warm attitude and the gifts given to students significantly increased their engagement and willingness to learn. " +
+Implementation Day:
 
-        "This experience taught us not only how to teach in a classroom but also how to manage an out-of-school organization. We directly experienced the bureaucratic processes carried out with official institutions such as the Ministry of National Education and the Ministry of Justice, as well as how to organize a safe and educational trip and contribute to the school climate during special occasions. " +
+The courthouse visit, which was at the center of the implementation, was an exploration process that the students eagerly anticipated. Before entering the building, the “Courthouse Trip Detective Rules” brochures that we distributed to our students enabled them to become not only visitors but also “justice detectives” who observed the process.
 
-        "Since the efficiency of the activity and the feedback received from students were highly positive, no major shortcomings were felt in the planning process. If the same activity were to be repeated, it would again be carried out with the same level of care and attention. " +
+During the interview we conducted with the female judge, the various interesting questions students asked about the profession and justice revealed their critical thinking skills. Afterwards, we moved to the courtroom and reenacted a trial through the drama technique. Here, through the stages of warm-up, role-taking, enactment, and evaluation, we enabled the children to understand justice by seeing it within the drama process.
 
-        "We consider ourselves successful because we believe we left a lasting and positive impression of the concept of “Justice” in the minds of children. The fact that students continued to think about justice, equality, and rights even after the activity, and questioned these concepts using examples from their own lives despite their young age, demonstrated that the activity achieved its goals. Thus, an unforgettable process of awareness and experience was completed for both us and our students."
-},
+After the visit, we discussed scenarios through the “Decision Notebook” in the classroom and concluded the process with creative writing activities themed “If I Were a Judge.”
+
+Our Observations:
+
+Throughout the entire process, the school administration, our classroom teacher, and the other stakeholders approached us as pre-service teachers in a highly guiding and encouraging manner. The cooperative and sincere atmosphere existing in the school enabled us to be embraced as if we were a part of the project.
+
+In particular, the high motivation that the children showed toward the activities and the fact that they continued discussing among themselves during recess with questions such as “Well, is it fair to violate my friend’s rights?” even after class hours proved that they had incorporated justice not only into the classroom but also into their lives.
+
+Feedback We Received from the Children:
+
+Through the “Decision Notebook” and creative writing activities that we carried out, we observed that the students’ conscientious and empathetic skills were very strong. To the question, “What would you do if your teacher accidentally gave you an extra chocolate?” the students responded, “I would honestly tell my teacher,” showing that they associated justice with honesty.
+
+In their “If I Were a Judge” writings, the majority emphasized “listening to everyone,” which was evidence that they had successfully made sense of the concept of justice.
+
+In the first stage of the activity, through the discussions we conducted based on the Winnie the Pooh text, we awakened the students’ inner sense of justice. This process enabled the students to define the concepts of justice and equality not only as words but also as ethical virtues.
+
+The courthouse visit and the drama activity carried out in the courtroom allowed the students to observe how justice is protected as a social value. While examining the courthouse through the “Justice Detective” activity worksheets, the students internalized the value of being a part of a fair society.
+
+Creative writing activities such as the “Decision Notebook” and “If I Were a Judge” were the most concrete moments in which the value was transformed into action. For example, a student’s attitude toward returning an extra chocolate that had been given by mistake (with an emphasis on honesty at a rate of 64%) proved that a value was transformed into a decision and then into an honest action.
+
+What This Experience Gained for Us:
+
+This experience taught us that teaching requires being present not only within four walls but also in every area of the school and society. The transformation of a concept from an abstract level into the excitement of wearing a robe in a courtroom provided us with professional satisfaction.
+
+We experienced that giving more place to creative drama in similar activities in the future would contribute to children’s permanent learning process. The cooperation we experienced throughout the process from planning to implementation improved our problem-solving skills and enabled us to internalize the value of “putting the student at the center,” which is a core value of the teaching profession.
+
+We also experienced that out-of-school learning and extracurricular educational activities would contribute more to children’s permanent learning processes in similar activities in the future.
+
+If We Were to Conduct This Activity Again:
+
+If we were to plan this activity again, we think that there is no part that we would want to change or that we consider incomplete. This is because we believe that throughout the entire process, we planned everything down to the smallest detail and carried it out with great dedication and meticulousness.
+`
+  },
+
     images: [
       "assets/images/odoo1.1.png",
       "assets/images/odoo1.2.png",
@@ -2450,9 +2549,14 @@ odoo1: {
       "assets/images/odoo1.5.png",
       "assets/images/odoo1.6.png",
       "assets/images/odoo1.7.png",
+      "assets/images/odoo1.8.png",
+      "assets/images/odoo1.9.png",
+      "assets/images/odoo1.10.png",
+      "assets/images/odoo1.11.png",
+      "assets/images/odoo1.12.png",
+      "assets/images/odoo1.13.png",
     ],
     coverImage: "assets/images/odoo1.1.png"
-
   },
 
 odoo2: {
